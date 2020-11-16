@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+### Federated Repository for Speech Research
+#### Acoustical Society of America
 
-You can use the [editor on GitHub](https://github.com/ASA-Federated-Code-Mockup/repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The increasing proliferation of code, scripts, and programming language libraries for use in speech science research raises concerns over the maintenance and organization of this disparate code base. These concerns have motivated us to explore the development a federated code repository under the umbrella of the Acoustical Society of America. Our primary goal for this repository is to serve as a central point from which researchers in the speech sciences can access code and data from the community that adheres to a set of established standards for documentation. The code will also be reviewed by other researchers for errors, vulnerabilities, and algorithmic misspecifications. Further, this repository will serve as a starting point for the future development of parallel libraries in open-source languages like R, Python, and Julia. In this talk, we will outline our plans for the repository and identify key open challenges and questions to be answered by contributors regarding repository structure, the code submission and review process, and documentation standards to adopt.
 
-### Markdown
+[![Join the chat at https://gitter.im/ASA-Federated-Code-Repository/community](https://badges.gitter.im/ASA-Federated-Code-Repository/community.svg)](https://gitter.im/ASA-Federated-Code-Repository/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ASA-Federated-Code-Mockup/repository/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Contributors
+Charles Redmon  
+Matthew C. Kelley  
+Benjamin V. Tucker  
