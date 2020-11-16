@@ -1,17 +1,15 @@
-### Federated Repository for Speech Research
-
----
+## Federated Repository for Speech Research
 
 This repository serves as a central hub for the organization of computational resources in speech research.
 
-#### Goals
+### Goals
 
 - **Organization:** Provide a single hub to locate and advertise resources for research in the speech sciences
 - **Review:** Provide a mechanism for code review and standardized documentation
 - **Preservation:**  Provide a platform for resource hosting and web archiving
 - **Development:** Provide for future community-directed programming libraries and software
 
-#### How to contribute
+### How to contribute
 
 - Via GitHub:
   - Clone the repository
@@ -24,7 +22,7 @@ This repository serves as a central hub for the organization of computational re
 
 [![Join the chat at https://gitter.im/ASA-Federated-Code-Repository/community](https://badges.gitter.im/ASA-Federated-Code-Repository/community.svg)](https://gitter.im/ASA-Federated-Code-Repository/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-#### Maintainers
+### Maintainers
 Charles Redmon  
 Matthew C. Kelley  
 Benjamin V. Tucker  
