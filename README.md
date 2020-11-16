@@ -1,13 +1,30 @@
 ### Federated Repository for Speech Research
-#### Acoustical Society of America
 
 ---
 
-The increasing proliferation of code, scripts, and programming language libraries for use in phonetic and speech science research raises concerns over the maintenance and organization of this disparate code base. These concerns have motivated us to explore the development a federated code repository under the umbrella of the Acoustical Society of America. Our primary goal for this repository is to serve as a central point from which researchers in the speech sciences can access code and data from the community that adheres to a set of established standards for documentation. The code will also be reviewed by other researchers for errors, vulnerabilities, and algorithmic misspecifications. Further, this repository will serve as a starting point for the future development of parallel libraries in open-source languages like R, Python, and Julia. This repository is the home for code submission, code review, documentation standards, open source data, educational resources, and experiment files.
+This repository serves as a central hub for the organization of computational resources in speech research.
+
+#### Goals
+
+- **Organization:** Provide a single hub to locate and advertise resources for research in the speech sciences
+- **Review:** Provide a mechanism for code review and standardized documentation
+- **Preservation:**  Provide a platform for resource hosting and web archiving
+- **Development:** Provide for future community-directed programming libraries and software
+
+#### How to contribute
+
+- Via GitHub:
+  - Clone the repository
+  - Add one of the following in an appropriate subfolder for the resource you are contributing:
+    - A markdown document linking to an externally hosted resource
+    - The resource itself
+  - Issue a pull request, which will then be evaluated by the repository maintainers before acceptance
+- Via Email:
+  - Email one of the maintainers listed below with the resource you would like to submit and how you intend for it to be hosted/linked to
 
 [![Join the chat at https://gitter.im/ASA-Federated-Code-Repository/community](https://badges.gitter.im/ASA-Federated-Code-Repository/community.svg)](https://gitter.im/ASA-Federated-Code-Repository/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-#### Contributors
+#### Maintainers
 Charles Redmon  
 Matthew C. Kelley  
 Benjamin V. Tucker  
