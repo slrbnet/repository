@@ -1,4 +1,4 @@
-## Federated Repository for Speech Research
+## Speech and Language Resource Bank
 
 This repository serves as a central hub for the organization of computational resources in speech research.
 
