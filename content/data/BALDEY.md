@@ -1,8 +1,8 @@
-Title: BALDEY Database of Auditory Lexical Decisions
-Slug: BALDEY
-Date: 2016-09-09
-Tags: auditory-lexical-decision, morphological-complexity, frequency, phonological-neighbors, Dutch, database
-Summary: Data on auditory lexical decisions to over 5,000 spoken content words and pseudowords by 20 native speakers of Dutch.
+Title: BALDEY Database of Auditory Lexical Decisions  
+Slug: BALDEY  
+Date: 2016-09-09  
+Tags: auditory-lexical-decision, morphological-complexity, frequency, phonological-neighbors, Dutch, database  
+Summary: Data on auditory lexical decisions to over 5,000 spoken content words and pseudowords by 20 native speakers of Dutch.  
 
 
 ## [BALDEY Database of Auditory Lexical Decisions](https://hdl.handle.net/1839/00-0000-0000-0020-449F-1)
