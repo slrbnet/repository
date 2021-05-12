@@ -11,8 +11,8 @@ TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
 
-THEME = './slrbtheme'
-# THEME = 'simple'
+#THEME = 'slrbtheme'
+THEME = 'simple'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
