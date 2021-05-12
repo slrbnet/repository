@@ -9,6 +9,7 @@ script:
   
 deploy:
   provider: pages
+  local_dir: content
   skip_cleanup: true
   github_token: $GITHUB_TOKEN
   keep_history: true
