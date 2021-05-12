@@ -3,7 +3,6 @@ language: python
 
 before-install:
   - sudo apt-get install pelican
-  - pip install minchin.pelican.plugins.cname
 
 script:
   - pelican content
