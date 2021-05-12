@@ -8,11 +8,11 @@ script:
   - make html
   
 deploy:
-  - provider: pages
-  - skip-cleanup: true
-  - local_dir: content
-  - github-token $GITHUB_TOKEN
-  - keep-history: true
-  - target-branch: gh-pages
-  - on:
-    - branch: main
+  provider: pages
+  skip-cleanup: true
+  local_dir: content
+  github-token $GITHUB_TOKEN
+  keep-history: true
+  target-branch: gh-pages
+  on:
+    branch: main
