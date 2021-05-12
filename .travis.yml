@@ -2,7 +2,7 @@ dist: focal
 language: python
 
 before-install:
-  - sudo apt install pelican
+  - sudo apt-get install pelican
 
 script:
   - pelican content
