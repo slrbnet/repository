@@ -3,10 +3,10 @@ language: python
   
 install:
     - pip install pelican
+    - pip install minchin.pelican.plugins.cname
 
 script:
   - pelican content
-  - cat output/index.html
   
 deploy:
   provider: pages
