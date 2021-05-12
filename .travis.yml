@@ -1,5 +1,5 @@
 before-install:
-  - sudo apt install python3-pelican
+  - pip install pelican
 
 script:
   - make clean
