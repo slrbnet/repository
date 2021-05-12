@@ -1,7 +1,7 @@
 language: python
 
 before-install:
-  - sudo apt intall pelican
+  - sudo apt install pelican
 
 script:
   - pelican content
