@@ -3,7 +3,7 @@
 
 AUTHOR = 'admin'
 SITENAME = 'SLRB'
-SITEURL = ''
+SITEURL = '.'
 
 PATH = 'content'
 
