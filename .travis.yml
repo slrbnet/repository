@@ -8,6 +8,7 @@ install:
 
 script:
   - pelican content
+  - echo "www.slrb.net" > output/CNAME
   
 deploy:
   provider: pages

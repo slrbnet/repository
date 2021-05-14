@@ -22,9 +22,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Plugins
-PLUGINS = [
-            'minchin.pelican.plugins.cname',
-          ]
+# PLUGINS = [
+            # 'minchin.pelican.plugins.cname',
+          # ]
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
