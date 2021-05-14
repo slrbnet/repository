@@ -7,7 +7,7 @@ install:
     - pip install markdown
 
 script:
-  - sh make_index.sh
+  - "printf \"title: SLRB\ndate: $(date -I)\n\n\" | cat - README.md > content/index.md"
   - pelican content
   - echo "www.slrb.net" > output/CNAME
   
