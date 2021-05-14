@@ -1,5 +1,5 @@
 Title: BALDEY Database of Auditory Lexical Decisions  
-Authors: Miriam Ernestus, Anne Cutler  
+Authors: Mirjam Ernestus, Anne Cutler  
 Location: [https://hdl.handle.net/1839/00-0000-0000-0020-449F-1](https://hdl.handle.net/1839/00-0000-0000-0020-449F-1)  
 Slug: BALDEY  
 Date: 2016-09-09  
