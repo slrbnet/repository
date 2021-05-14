@@ -1,7 +1,10 @@
+dist: focal
 language: python
-
-before-install:
-  - pip install pelican
+  
+install:
+    - pip install pelican
+    - pip install minchin.pelican.plugins.cname
+    - pip install markdown
 
 script:
   - pelican content
