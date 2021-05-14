@@ -20,7 +20,6 @@ This repository serves as a central hub for the organization of computational re
 - Via Email:
   - Email one of the maintainers listed below with the resource you would like to submit and how you intend for it to be hosted/linked to
 
-[![Join the chat at https://gitter.im/ASA-Federated-Code-Repository/community](https://badges.gitter.im/ASA-Federated-Code-Repository/community.svg)](https://gitter.im/ASA-Federated-Code-Repository/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
 ### Maintainers
 Charles Redmon ([email](mailto:redmonc@gmail.com))  
