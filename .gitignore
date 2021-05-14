@@ -1,2 +1,5 @@
 # ignore python cache
 __pycache__
+
+# ignore temporary files
+*~
