@@ -7,8 +7,9 @@ install:
     - pip install markdown
 
 script:
-  - "printf \"title: SLRB\ndate: $(date -I)\n\n\" | cat - README.md > content/index.md"
+  - "printf \"title: home\n\n\" | cat - README.md > content/pages/home.md"
   - pelican content
+  - "cp output/home.html output/index.html"
   - echo "www.slrb.net" > output/CNAME
   
 deploy:
