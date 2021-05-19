@@ -5,6 +5,7 @@ AUTHOR = 'admin'
 SITENAME = 'SLRB'
 SITEURL = '.'
 
+
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
