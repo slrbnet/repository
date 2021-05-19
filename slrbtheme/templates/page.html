@@ -2,6 +2,8 @@
 {% block html_lang %}{{ page.lang }}{% endblock %}
 {% block title %}{{ page.title }}{% endblock %}
 
+<p>Welcome to pages!</p>
+
 {% block extra_head %}
 {% import 'translations.html' as translations with context %}
 {% if translations.entry_hreflang(page) %}
