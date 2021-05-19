@@ -8,7 +8,7 @@ install:
 
 script:
   - "printf \"title: home\n\n\" | cat - README.md > content/pages/home.md"
-  - pelican content
+  - pelican content -t slrbtheme
   - "cp output/pages/home.html output/index.html"
   - echo "www.slrb.net" > output/CNAME
   
