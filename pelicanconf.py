@@ -16,7 +16,6 @@ DEFAULT_LANG = 'en'
 DISPLAY_PAGES_ON_MENU = True
 
 THEME = os.path.join(os.getcwd(), 'slrbtheme')
-print(THEME)
 #THEME = 'simple'
 
 # Feed generation is usually not desired when developing
