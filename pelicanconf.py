@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
+DISPLAY_PAGES_ON_MENU = True
 
 THEME = 'slrbtheme'
 #THEME = 'simple'
