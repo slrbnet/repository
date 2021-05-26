@@ -19,9 +19,9 @@
             {% if article.resource_type %}
                 Type:&nbsp; {% for rt in article.resource_type %}
                                     {% if loop.last %}
-                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ tag | escape }}</a> 
+                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ rt | escape }}</a> 
                                     {% else %}
-                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ tag | escape }}</a>,&nbsp; 
+                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ rt | escape }}</a>,&nbsp; 
                                     {% endif %}
                             {% endfor %}
             {% endif %} <br>
