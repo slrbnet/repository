@@ -11,4 +11,5 @@ documentation: [present](http://laslab.org/resources/confusions/)
 tests: N/A  
 publications: [Tóth et al. (2015)](https://doi.org/10.1121/1.4905877)  
 citation: Tóth, M. A., Lecumberri, M. L. G., Tang, Y., & Cooke, M. (2015). A corpus of noise-induced word misperceptions for Spanish. *Journal of the Acoustical Society of America, 137, EL184*; doi: [10.1121/1.4905877](10.1121/1.4905877)  
+shortdesc: A large-scale corpus of audio stimuli and response data from noise-induced robust misperceptions in Spanish.
 summary: A large-scale corpus of noise-induced robust misperceptions in Spanish.  
