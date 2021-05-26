@@ -1,14 +1,12 @@
 /*
-	Name: Smashing HTML5
-	Date: July 2009
-	Description: Sample layout for HTML5 and CSS3 goodness.
-	Version: 1.0
+	Name: SLRB Theme (derived from Smashing HTML5 theme)
+	Date: May 2021
 	License: MIT <https://opensource.org/licenses/MIT>
-	Licensed by: Smashing Media GmbH <https://www.smashingmagazine.com/>
 	Original author: Enrique Ramírez <http://enrique-ramirez.com/>
 */
 
 /* Imports */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');  
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
@@ -20,7 +18,7 @@ body {
     background: #FFFFFF;
     color: #000305;
     font-size: 87.5%; /* Base font size: 14px */
-    font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     line-height: 1.429;
     margin: 0;
     padding: 0;
@@ -39,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	line-height: 1.1;
 	margin-bottom: .8em;
-    font-family: 'Yanone Kaffeesatz', arial, serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 
 h3, h4, h5, h6 { margin-top: .8em; }
@@ -51,12 +49,11 @@ a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
 	color: #4063D8;
-	padding: 0 1px;
+	text-decoration: none;
 }
 a:hover, a:active {
 	color: #4063D8;
 	text-decoration: none;
-	text-shadow: 1px 1px 1px #333;
 }
 
 h1 a:hover {
