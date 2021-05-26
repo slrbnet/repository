@@ -2,24 +2,20 @@
 {% block content_title %}{% endblock %}
 {% block content %}
 {% if articles %}
-    <ol>
     {% for article in articles_page.object_list %}
-        <li>
-            <aside id="featured" class="body">
-                <!-- <article> -->
-                    {% include 'article_infos.html' %}
-                <!-- </article> -->
-            </aside>
-        </li>
+        
+        {% include 'article_infos.html' %}
+
         {% if loop.last %}
             {% if loop.length > 1 or articles_page.has_other_pages() %}
                 {% if articles_page.has_other_pages() %}
-                    </ol>
                     {% include 'pagination.html' %}
                 {% endif %}
             {% endif %}
         {% endif %}
+
     {% endfor %}
+
 {% else %}
 <section id="content" class="body">
     {% if pages %}
