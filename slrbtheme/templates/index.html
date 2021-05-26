@@ -17,7 +17,13 @@
             {% endif %} <br>
                 Updated:&nbsp; {{ article.date.isoformat() }} <br>
             {% if article.resource_type %}
-                Type:&nbsp; {{ article.resource_type }}
+                Type:&nbsp; {% for rt in article.resource_type %}
+                                    {% if loop.last %}
+                                        <a href="{{ SITEURL }}/tags/{{ rt }}.html">{{ rt | escape }}</a> 
+                                    {% else %}
+                                        <a href="{{ SITEURL }}/tags/{{ rt }}.html">{{ rt | escape }}</a>,&nbsp; 
+                                    {% endif %}
+                                {% endfor %}
             {% endif %} <br>
             {% if article.tags %}
                 Keywords:&nbsp; {% for tag in article.tags %}
