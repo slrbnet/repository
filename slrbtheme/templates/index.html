@@ -4,7 +4,37 @@
 {% if articles %}
     {% for article in articles_page.object_list %}
         
-        {% include 'article_infos.html' %}
+        <div class="note">
+	        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
+	        {% if article.authors %}
+                Authors:&nbsp;  {% for author in article.authors %}
+                                    {% if loop.last %}
+                                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
+                                    {% else %}
+                                        <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>,&nbsp;
+                                    {% endif %}
+                                {% endfor %}
+            {% endif %} <br>
+                Updated:&nbsp; {{ article.locale_date }} <br>
+            {% if article.resource_type %}
+                Type:&nbsp; {% for rt in article.resource_type %}
+                                    {% if loop.last %}
+                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ tag | escape }}</a> 
+                                    {% else %}
+                                        <a href="{{ SITEURL }}/{{ rt.url }}">{{ tag | escape }}</a>,&nbsp; 
+                                    {% endif %}
+                            {% endfor %}
+            {% endif %} <br>
+            {% if article.tags %}
+                Keywords:&nbsp; {% for tag in article.tags %}
+                                    {% if loop.last %}
+                                        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a> 
+                                    {% else %}
+                                        <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a>,&nbsp; 
+                                    {% endif %}
+                                {% endfor %}
+            {% endif %}
+        </div>
         
         <br>
         
