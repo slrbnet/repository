@@ -6,7 +6,7 @@ date: 2016-09-09
 citation: Ernestus, M., & Cutler, A. (2015). BALDEY: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469-1488.  
 tags: auditory-lexical-decision, morphological-complexity, frequency, phonological-neighbors, Dutch, audio-data, behavioural-data  
 languages: Dutch  
-resource_type: [audio data](https://www.slrb.net/tag/audio-data.html), [behavioural data](https://www.slrb.net/tag/behavioural-data.html)  
+resource_type: audio-data, behavioural-data  
 License: N/A  
 Documentation: [present](https://doi.org/10.1080%2F17470218.2014.984730)  
 Tests: N/A  
