@@ -15,7 +15,7 @@
                                     {% endif %}
                                 {% endfor %}
             {% endif %} <br>
-                Updated:&nbsp; {{ article.locale_date }} <br>
+                Updated:&nbsp; {{ article.date.isoformat() }} <br>
             {% if article.resource_type %}
                 Type:&nbsp; {{ article.resource_type }}
             {% endif %} <br>
