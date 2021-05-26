@@ -17,13 +17,7 @@
             {% endif %} <br>
                 Updated:&nbsp; {{ article.locale_date }} <br>
             {% if article.resource_type %}
-                Type:&nbsp; {% for rt in article.resource_type %}
-                                    {% if loop.last %}
-                                        {{rt}} 
-                                    {% else %}
-                                        {{rt}},&nbsp; 
-                                    {% endif %}
-                            {% endfor %}
+                Type:&nbsp; {{ article.resource_type }}
             {% endif %} <br>
             {% if article.tags %}
                 Keywords:&nbsp; {% for tag in article.tags %}
