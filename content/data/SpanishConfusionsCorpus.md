@@ -3,8 +3,8 @@ slug: spanish-confusions-corpus
 authors: Máté Attila Tóth, María Luisa García Lecumberri, Yan Tang, and Martin Cooke  
 date: 2014-01-01  
 link:  http://laslab.org/resources/confusions/  
-resource_type: audio data, behavioural data  
-tags: misperceptions, errors, word-recognition, noise, Spanish, behavioral-data, audio-data  
+resource_type: [audio data](https://www.slrb.net/tag/audio-data.html), [behavioral data](https://www.slrb.net/tag/behavioral-data.html)  
+tags: misperceptions, errors, word-recognition, noise, Spanish, audio-data, behavioral-data  
 languages: Spanish  
 license: N/A  
 documentation: [present](http://laslab.org/resources/confusions/)  
