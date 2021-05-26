@@ -16,7 +16,7 @@
 body {
     background: #FFFFFF;
     color: #000305;
-    font-size: 85%; /* Base font size: 14px */
+    font-size: 100%; /* Base font size: 14px */
     font-family: 'Noto Sans', sans-serif;
     line-height: 1.429;
     margin: 0;
@@ -180,7 +180,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	}
 	#banner h1 a:hover, #banner h1 a:active {
 		background: none;
-		color: #C74350;
+		color: #4063D8;
 		text-shadow: none;
 	}
 
@@ -188,7 +188,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 	/* Main Nav */
 	#banner nav {
-		background: #000305;
+		background: #222;
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
