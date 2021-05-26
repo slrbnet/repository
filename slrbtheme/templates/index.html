@@ -6,7 +6,7 @@
         
         <div class="note">
 	        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
-		<h4><emph> {{ article.shortdesc }} </emph></h4>
+		<h4><em> {{ article.shortdesc }} </em></h4>
 		{% if article.authors %}
                 <strong>Authors:</strong>&nbsp;  {% for author in article.authors %}
                                     {% if loop.last %}
