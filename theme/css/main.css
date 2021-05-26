@@ -16,7 +16,7 @@
 body {
     background: #FFFFFF;
     color: #000305;
-    font-size: 75%; /* Base font size: 14px */
+    font-size: 85%; /* Base font size: 14px */
     font-family: 'Noto Sans', sans-serif;
     line-height: 1.429;
     margin: 0;
@@ -170,7 +170,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 }
 
 	/* Banner */
-	#banner h1 {font-size: 3.571em; line-height: 0;}
+	#banner h1 {font-size: 3em; line-height: 0;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
 		display: block;
