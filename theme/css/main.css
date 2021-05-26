@@ -10,14 +10,13 @@
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
-@import url("fonts.css");
 
 /***** Global *****/
 /* Body */
 body {
     background: #FFFFFF;
     color: #000305;
-    font-size: 87.5%; /* Base font size: 14px */
+    font-size: 75%; /* Base font size: 14px */
     font-family: 'Noto Sans', sans-serif;
     line-height: 1.429;
     margin: 0;
