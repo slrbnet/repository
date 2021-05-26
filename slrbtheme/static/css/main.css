@@ -50,13 +50,11 @@ hr { border: 2px solid #EEEEEE; }
 a {outline: 0;}
 a img {border: 0px; text-decoration: none;}
 a:link, a:visited {
-	color: #C74350;
+	color: #4063D8;
 	padding: 0 1px;
-	text-decoration: underline;
 }
 a:hover, a:active {
-	background-color: #C74350;
-	color: #fff;
+	color: #4063D8;
 	text-decoration: none;
 	text-shadow: 1px 1px 1px #333;
 }
@@ -115,17 +113,12 @@ cite {}
 
 q {}
 
-div.list_block {
-   margin: 5px;
-   font-size: 85%;
-   max-width: 400px;
-}
-
 div.note {
-   float: right;
-   margin: 5px;
-   font-size: 85%;
-   max-width: 300px;
+    margin: auto;
+    font-size: 85%;
+    max-width: 40%;
+    background: #EEE;
+    padding: 10px;
 }
 
 /* Tables */
