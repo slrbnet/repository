@@ -115,6 +115,12 @@ cite {}
 
 q {}
 
+div.list_block {
+   margin: 5px;
+   font-size: 85%;
+   max-width: 400px;
+}
+
 div.note {
    float: right;
    margin: 5px;
