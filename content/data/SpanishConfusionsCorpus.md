@@ -2,7 +2,7 @@ title: Spanish Confusions Corpus
 slug: spanish-confusions-corpus  
 authors: Máté Attila Tóth, María Luisa García Lecumberri, Yan Tang, and Martin Cooke  
 date: 2014-01-01  
-link:  http://laslab.org/resources/confusions/  
+source:  http://laslab.org/resources/confusions/  
 resource_type: audio-data, behavioral-data  
 tags: misperceptions, errors, word-recognition, noise, Spanish, audio-data, behavioral-data  
 languages: Spanish  
