@@ -2,17 +2,19 @@
 {% block content_title %}{% endblock %}
 {% block content %}
 {% if articles %}
+    <ol>
     {% for article in articles_page.object_list %}
-
-        <aside id="featured" class="body">
-             <article>
-                 <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
-                 {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
-             </article>
-        </aside>
+        <li>
+            <aside id="featured" class="body">
+                <article>
+                    {% include 'article_infos.html' %}
+                </article>
+            </aside>
+        </li>
         {% if loop.last %}
             {% if loop.length > 1 or articles_page.has_other_pages() %}
                 {% if articles_page.has_other_pages() %}
+                    </ol>
                     {% include 'pagination.html' %}
                 {% endif %}
             {% endif %}
