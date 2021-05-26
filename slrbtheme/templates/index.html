@@ -6,9 +6,9 @@
     {% for article in articles_page.object_list %}
         <li>
             <aside id="featured" class="body">
-                <article>
+                <!-- <article> -->
                     {% include 'article_infos.html' %}
-                </article>
+                <!-- </article> -->
             </aside>
         </li>
         {% if loop.last %}
