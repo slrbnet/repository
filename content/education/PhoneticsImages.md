@@ -1,16 +1,12 @@
-Title: Phonetics Images
-Slug: phonetics-images
-Date: 2020-12-11
-Tags: vocal-tract, midsagittal, speech-production, teaching, diagrams
-Summary: Midsaggital images for teaching Phonetics and Speech Science.
-
-## [PhoneticsImages](https://github.com/bvtucker/PhoneticsImages)
-
-* Author: Benjamin V. Tucker
-* Type: Educational materials, images
-* Languages: cross-linguistic
-* Citation: N/A
-* License: CC-BY-4
-* Documentation: N/A
-* Unit tests: N/A
-* Publications: N/A
+title: Phonetics Images  
+slug: phonetics-images  
+authors: Benjamin V. Tucker  
+date: 2020-12-11  
+source: https://github.com/bvtucker/PhoneticsImages  
+type: teaching materials, images  
+languages: cross-linguistic  
+tags: vocal-tract, midsagittal, speech-production, teaching, diagrams  
+open_access: yes  
+license: CC-BY-4  
+shortdesc: Midsaggital images for teaching Phonetics and Speech Science.  
+summary: Midsaggital images for teaching Phonetics and Speech Science.  
