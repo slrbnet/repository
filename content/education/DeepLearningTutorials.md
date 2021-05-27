@@ -1,15 +1,22 @@
-Title: Deep Learning Tutorials
-Slug: deep-learning-tutorials
-Date: 2021-01-01
-Tags: education, neural-networks, speech-recognition, deep-learning
-Summary: A collection of tutorials on deep learning for phonetics and linguistics.
+title: Deep Learning Tutorials  
+slug: deep-learning-tutorials  
+authors: Matthew C. Kelley  
+date: 2021-01-01  
+source: https://github.com/maetshju/moproc2019_deep_learning_workshop <!-- https://github.com/maetshju/ling_513_dnn_lecture -->
+type: Jupyter notebook  
+languages: N/A  
+tags: education, neural-networks, speech-recognition, deep-learning  
+open_access: yes  
+license: MIT  
+shortdesc: A collection of tutorials on deep learning for phonetics and linguistics.  
+summary: A collection of tutorials on deep learning for phonetics and linguistics.  
 
-## Deep Learning Tutorials
-* Author: Matthew C. Kelley
-* Type: Jupyter notebooks
-* License: MIT license
-* Documentation: N/A
-* Unit tests: N/A
-* Links:
-   - [MoProc 2019 deep learning workshop](https://github.com/maetshju/moproc2019_deep_learning_workshop)
-   - [Speech technology guest lecture](https://github.com/maetshju/ling_513_dnn_lecture)
+open_access:
+license:
+documentation:
+tests:
+reviews:
+publications:
+citation:
+shortdesc:
+summary:
