@@ -6,6 +6,7 @@ source:  http://laslab.org/resources/confusions/
 resource_type: audio-data, behavioral-data  
 tags: misperceptions, errors, word-recognition, noise, Spanish, audio-data, behavioral-data  
 languages: Spanish  
+open_access: yes  
 license: N/A  
 documentation: [present](http://laslab.org/resources/confusions/)  
 tests: N/A  
