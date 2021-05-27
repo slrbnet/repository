@@ -7,6 +7,7 @@
 
 /* Imports */
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans');  
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css')
 @import url("reset.css");
 @import url("pygment.css");
 @import url("typogrify.css");
@@ -108,6 +109,10 @@ blockquote {
 cite {}
 
 q {}
+
+.icons {
+	color: #FFFFFF;
+}
 
 div.note {
     margin: auto;
