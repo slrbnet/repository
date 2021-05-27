@@ -110,10 +110,6 @@ cite {}
 
 q {}
 
-.icons {
-	color: #FFFFFF;
-}
-
 div.note {
     margin: auto;
     font-size: 85%;
@@ -128,6 +124,7 @@ div.note_header {
     max-width: 40%;
     height: 14px;
     background: #A1A1AA;
+	color: #FFFFFF;
     padding: 10px;
 }
 
