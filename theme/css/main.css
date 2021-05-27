@@ -117,6 +117,16 @@ div.note {
     padding: 10px;
 }
 
+div.note_header {
+    margin: auto;
+    font-size: 85%;
+    max-width: 40%;
+    height: 20px;
+    background: #999;
+    padding: 10px;
+}
+
+
 /* Tables */
 table {margin: .5em auto 1.5em auto; width: 98%;}
 
