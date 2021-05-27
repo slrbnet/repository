@@ -10,13 +10,3 @@ open_access: yes
 license: MIT  
 shortdesc: A collection of tutorials on deep learning for phonetics and linguistics.  
 summary: A collection of tutorials on deep learning for phonetics and linguistics.  
-
-open_access:
-license:
-documentation:
-tests:
-reviews:
-publications:
-citation:
-shortdesc:
-summary:
