@@ -4,8 +4,8 @@ authors: Mirjam Ernestus, Anne Cutler
 date: 2016-09-09  
 source: https://hdl.handle.net/1839/00-0000-0000-0020-449F-1  
 type: audio data, behavioral data  
-languages: Dutch  
-tags: auditory-lexical-decision, morphological-complexity, frequency, phonological-neighbors, Dutch, audio-data, behavioural-data  
+languages: dutch  
+tags: auditory-lexical-decision, morphological-complexity, frequency, phonological-neighbors, dutch, audio-data, behavioural-data  
 open_access: yes  
 documentation: https://doi.org/10.1080%2F17470218.2014.984730  
 publications: Ernestus & Cutler (2015)  
