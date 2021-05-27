@@ -1,13 +1,17 @@
-# [Title](link-to-title)
-
-* Description: 
-* Author: 
-* Latest Version: 
-* Type: 
-* Keywords:
-* Languages: 
-* Citation: 
-* License: 
-* Documentation: [present](link-to-docs)
-* Unit tests: [passed](link-to-tests)
-* Publications: 
+title:  
+slug:  
+authors:  
+date:  
+source:  
+type:  
+languages:  
+tags:  
+open_access:  
+license:  
+documentation:  
+tests:  
+reviews:  
+publications:  
+citation:  
+shortdesc:  
+summary:  
