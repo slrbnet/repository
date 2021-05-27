@@ -157,7 +157,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 800px;}
+.body {clear: both; margin: 0 auto; width: 50%;}
 img.right, figure.right, div.figure.align-right {
     float: right;
     margin: 0 0 2em 2em;
@@ -210,7 +210,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 45%;
+		width: 100%;
 	}
 
 	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
