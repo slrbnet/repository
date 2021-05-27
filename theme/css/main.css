@@ -120,12 +120,15 @@ div.note {
 
 div.note_header {
     margin: auto;
-    font-size: 85%;
+    font-size: 100%;
     max-width: 40%;
     height: 14px;
     background: #A1A1AA;
 	color: #FFFFFF;
-    padding: 10px;
+    padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 15px;
+	padding-top: 5px;
 }
 
 
@@ -207,7 +210,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		margin: 0 auto 2em auto;
 		padding: 0;
 		text-align: center;
-		width: 800px;
+		width: 45%;
 	}
 
 	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
@@ -225,16 +228,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		background: #4063D8;
 		color: #fff;
 		text-shadow: none !important;
-	}
-
-	#banner nav li:first-child a {
-		border-top-left-radius: 5px;
-		-moz-border-radius-topleft: 5px;
-		-webkit-border-top-left-radius: 5px;
-
-		border-bottom-left-radius: 5px;
-		-moz-border-radius-bottomleft: 5px;
-		-webkit-border-bottom-left-radius: 5px;
 	}
 
 /*
