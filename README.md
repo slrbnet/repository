@@ -1,24 +1,16 @@
 ## Speech and Language Resource Bank
 
-This repository serves as a central hub for the organization of computational resources in speech research.
-
-### Goals
-
-- **Organization:** Provide a single hub to locate and advertise resources for research in the speech sciences
-- **Review:** Provide a mechanism for code review and standardized documentation
-- **Preservation:**  Provide a platform for resource hosting and web archiving
-- **Development:** Provide for future community-directed programming libraries and software
+This repository serves as a central hub for the organization of computational resources in speech research. Please visit [www.slrb.net](https://slrb.net) for more information and to browse the resource listing. 
 
 ### How to contribute
 
 - Via GitHub:
   - Clone the repository
-  - Add one of the following in an appropriate subfolder for the resource you are contributing:
-    - A markdown document linking to an externally hosted resource
-    - The resource itself
+  - Add a markdown file in the appropriate folder within the `content` folder (one of the following: `analysis`, `data`, `education`, `experimentation`)
+  - Please use the `entry-template.md` as a guide when adding content; delete any fields that are not applicable or not present in your resource
   - Issue a pull request, which will then be evaluated by the repository maintainers before acceptance
 - Via Email:
-  - Email one of the maintainers listed below with the resource you would like to submit and how you intend for it to be hosted/linked to
+  - Email one of the maintainers listed below with the resource you would like to submit and the corresponding metadata (see `entry-template.md`)
 
 
 ### Maintainers
