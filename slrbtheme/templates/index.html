@@ -7,6 +7,12 @@
 		{% if article.open_access %}
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 		{% endif %}
+		{% if article.documentation %}
+			<span class="fa fa-check-circle"></span> documentation&nbsp;&nbsp;
+		{% endif %}
+		{% if article.tests %}
+			<span class="fa fa-check-circle"></span> tested&nbsp;&nbsp;
+		{% endif %}
 	</div>
         <div class="note">
 	        <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
