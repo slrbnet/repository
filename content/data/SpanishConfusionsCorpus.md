@@ -1,6 +1,6 @@
 title: Spanish Confusions Corpus  
 slug: spanish-confusions-corpus  
-authors: Máté Attila Tóth, María Luisa García Lecumberri, Yan Tang, and Martin Cooke  
+authors: Máté Attila Tóth, María Luisa García Lecumberri, Yan Tang, Martin Cooke  
 date: 2014-01-01  
 source:  http://laslab.org/resources/confusions/  
 type: audio-data, behavioral-data  
