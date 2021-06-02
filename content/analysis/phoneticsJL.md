@@ -1,5 +1,5 @@
 title: Phonetics.jl  
-slug: phonetics-jl
+slug: phonetics-jl  
 authors: Matthew C. Kelley  
 date: 2021-02-08  
 source: https://github.com/maetshju/phonetics.jl  
