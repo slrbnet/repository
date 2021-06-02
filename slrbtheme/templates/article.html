@@ -21,26 +21,48 @@
   <article>
     <header>
       <h1 class="entry-title"> {{ article.title }} </h1>
-      <ul>
-        <li>
-          <strong>Authors:</strong>&nbsp;&nbsp; 
-                          {% for author in article.authors %}
-                            <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a> 
-                          {% endfor %}
-        </li>
-        <li>
-          <strong>Updated:</strong>&nbsp;&nbsp; {{ article.locale_date }}
-        </li>
-        <li>
-          <strong>Source:</strong>&nbsp;&nbsp; <a> {{ article.source }} </a>
-        </li>
-      </ul>
+	    
+	 <table>
+    		<tr>
+    			<td><strong>Authors:</strong></td>
+    			<td>{% for author in article.authors %}
+                                <a class="url fn" href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a> 
+                            {% endfor %}
+			</td>
+    		</tr>
+  		<tr>
+    			<td><strong>Updated:</strong></td>
+    			<td>{{ article.locale_date }}</td>
+    		</tr>
+		<tr>
+    			<td><strong>Source:</strong></td>
+    			<td><a href="{{ article.source }}">{{ article.source }}</a></td>
+    		</tr>
+		<tr>
+    			<td><strong>Type:</strong></td>
+    			<td>{{ article.type }}</td>
+    		</tr>
+		<tr>
+    			<td><strong>Languages:</strong></td>
+    			<td>{{ article.languages }}</td>
+    		</tr>
+		 <tr>
+    			<td><strong>Keywords:</strong></td>
+    			<td>{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}">{{ tag | escape }}</a> {% endfor %}</td>
+    		</tr>
+		<tr>
+    			<td><strong>Open Access:</strong></td>
+    			<td>{{ article.open_access }}</td>
+    		</tr>
+		<tr>
+    			<td><strong>License:</strong></td>
+    			<td>{{ article.license }}</td>
+    		</tr>
+	</table> 
+	    
+	    
+      
 <!--
-type: Julia package
-languages: cross-linguistic
-tags: julia, vowels, plotting, lexicon, acoustic-distance, neighborhood-density, phonotactic-probability
-open_access: yes
-license: MIT
 documentation: https://maetshju.github.io/Phonetics.jl/dev/
 tests: https://github.com/maetshju/Phonetics.jl/blob/master/test/runtests.jl
 coverage: https://codecov.io/gh/maetshju/Phonetics.jl
