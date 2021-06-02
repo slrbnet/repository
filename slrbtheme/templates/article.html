@@ -87,6 +87,24 @@
     			<td><a href="{{ article.coverage }}">{{ article.coverage }}</a></td>
     		</tr>
 		{% endif %}
+		{% if article.reviews %}
+		<tr>
+    			<th>Reviews:</th>
+    			<td><a href="{{ article.reviews }}">{{ article.reviews }}</a></td>
+    		</tr>
+		{% endif %}
+		{% if article.publications %}
+		<tr>
+    			<th>Publications:</th>
+    			<td>{{ article.publications }}</td>
+    		</tr>
+		{% endif %}
+		{% if article.citation %}
+		<tr>
+    			<th>Citation:</th>
+    			<td>{{ article.citation }}</td>
+    		</tr>
+		{% endif %}
 		<tr>
 			<th>Summary:</th>
 			<td>{{ article.summary }}</td>
