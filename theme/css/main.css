@@ -188,7 +188,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	#banner h1 {font-size: 2.5em; line-height: 0;}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
-		display: block;
+		display: inline;
 		font-weight: bold;
 		margin: 0 0 .6em .2em;
 		text-decoration: none;
