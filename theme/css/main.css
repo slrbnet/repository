@@ -185,7 +185,10 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 }
 
 	/* Banner */
-	#banner h1 {font-size: 2.5em; line-height: 0;}
+	#banner h1 {font-size: 30px; 
+		    line-height: 1;
+		    display: inline;
+	}
 	#banner h1 a:link, #banner h1 a:visited {
 		color: #000305;
 		display: inline;
