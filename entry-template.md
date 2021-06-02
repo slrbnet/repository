@@ -10,6 +10,7 @@ open_access:
 license:  
 documentation:  
 tests:  
+coverage:  
 reviews:  
 publications:  
 citation:  
