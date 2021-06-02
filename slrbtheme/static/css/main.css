@@ -216,7 +216,7 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		width: 100%;
 	}
 
-	#banner nav ul {list-style: none; margin: 0 auto; width: 800px;}
+	#banner nav ul {list-style: none; margin: 0; width: 800px;}
 	#banner nav li {float: left; display: inline; margin: 0;}
 
 	#banner nav a:link, #banner nav a:visited {
