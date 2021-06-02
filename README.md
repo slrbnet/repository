@@ -14,6 +14,6 @@ This repository serves as a central hub for the organization of computational re
 
 
 ### Maintainers
-Charles Redmon ([email](mailto:redmonc@gmail.com))  
+Charles Redmon ([email](mailto:charles.redmon@ling-phil.ox.ac.uk))  
 Matthew C. Kelley ([email](mailto:matthew.c.kelley@ualberta.ca))  
 Benjamin V. Tucker ([email](mailto:benjamin.tucker@ualberta.ca))
