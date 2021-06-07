@@ -8,6 +8,16 @@ If you would like to contribute, particularly if you would like your own resourc
 
 <br>
 
+<form action="/">
+    <div class="tipue_search_right">
+        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>       </div>
+    <div style="clear: both;"></div>
+</form>
+
+<div id="tipue_search_content"></div>
+
+<br>
+
 The resources in the SLRB are broadly organized into four categories:
 
 ### [Analysis](https://www.slrb.net/category/analysis.html)
