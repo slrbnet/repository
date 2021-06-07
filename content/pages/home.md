@@ -8,13 +8,10 @@ If you would like to contribute, particularly if you would like your own resourc
 
 <br>
 
-<form action="/">
-    <div class="tipue_search_right">
-        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>       </div>
-    <div style="clear: both;"></div>
+<form action="https://google.com/search" method="get">
+<input type="hidden" name="sitesearch" value="https://slrb.net" />
+<input type="text" name="q" />
 </form>
-
-<div id="tipue_search_content"></div>
 
 <br>
 
