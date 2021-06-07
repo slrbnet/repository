@@ -29,10 +29,14 @@
 <p>Here you can find links to a wide range of resources for research and teaching on speech and language. Our ultimate aim with this site is to provide a comprehensive index of the available resources in the field, complete with essential metadata and crosslinks between related work. </p>
 <p>If you would like to contribute, particularly if you would like your own resource indexed on our site, please contact us via one of the email addresses listed below, join our Slack channel (<a href="https://slrbank.slack.com">slrbank.slack.com</a>), or find us on Github (<a href="https://github.com/slrbnet">github.com/slrbnet</a>).</p>
 <p><br></p>
-<form action="https://google.com/search" method="get">
-<input type="hidden" name="sitesearch" value="https://slrb.net" />
-<input type="text" name="q" />
+<form action="/">
+    <div class="tipue_search_right">
+        <input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required>
+    </div>
+    <div style="clear: both;"></div>
 </form>
+
+<div id="tipue_search_content"></div>
 
 <p><br></p>
 <p>The resources in the SLRB are broadly organized into four categories:</p>
