@@ -24,8 +24,6 @@ You may submit metadata for your resource through this [Form](https://docs.googl
 
 The resources in the SLRB are broadly organized into four categories:
 
-<br>
-
 #### [Analysis](https://www.slrb.net/category/analysis.html)
 Anything related to the analysis of speech/language data, including software, packages/libraries for programming languages, and individual scripts will be indexed here.
 
