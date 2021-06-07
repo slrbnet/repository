@@ -1,3 +1,6 @@
 # To-do
 
-- Arai's stuff
+- Search
+- Form submission link
+- Contact box?
+- Arai's materials
