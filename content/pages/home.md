@@ -8,11 +8,15 @@ If you would like to contribute, particularly if you would like your own resourc
 
 <br>
 
+<!--
 <form action="https://google.com/search" method="get">
     <input type="hidden" name="sitesearch" value="https://slrb.net" />
     <input type="text" name="q" />
 </form>
+-->
 
+### Interested in adding a resource to the SLRB?
+You may submit metadata for your resource through this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdaItOp_X3js9mO8fDsa1AjvXgWJ4-ZTgfvaCNpwzAJghPYoA/viewform?usp=sf_link).
 
 <br>
 
