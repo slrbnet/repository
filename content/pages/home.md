@@ -6,6 +6,7 @@ Here you can find links to a wide range of resources for research and teaching o
 
 If you would like to contribute, particularly if you would like your own resource indexed on our site, please contact us via one of the email addresses listed below, join our Slack channel ([slrbank.slack.com](https://slrbank.slack.com)), or find us on Github ([github.com/slrbnet](https://github.com/slrbnet)).
 
+<br>
 
 <!--
 <form action="https://google.com/search" method="get">
@@ -17,10 +18,13 @@ If you would like to contribute, particularly if you would like your own resourc
 ### Interested in adding a resource to the SLRB?
 You may submit metadata for your resource through this [Form](https://docs.google.com/forms/d/e/1FAIpQLSdaItOp_X3js9mO8fDsa1AjvXgWJ4-ZTgfvaCNpwzAJghPYoA/viewform?usp=sf_link).
 
+<br>
 
 ### Browse
 
 The resources in the SLRB are broadly organized into four categories:
+
+<br>
 
 #### [Analysis](https://www.slrb.net/category/analysis.html)
 Anything related to the analysis of speech/language data, including software, packages/libraries for programming languages, and individual scripts will be indexed here.
