@@ -1,7 +1,7 @@
 title: Massive Auditory Lexical Decision database  
 slug: MALD  
 authors: Benjamin V. Tucker, Daniel Brenner, D. Kyle Danielson, Matthew C. Kelley, Filip Nenadić, Michelle Sims  
-date: 2019  
+date: 2018-06-18  
 source: http://mald.artsrn.ualberta.ca/  
 type: audio data, behavioral data  
 languages: english  
