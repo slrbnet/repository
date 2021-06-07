@@ -6,7 +6,7 @@ source: http://mald.artsrn.ualberta.ca/
 type: audio data, behavioral data  
 languages: english  
 tags: auditory-lexical-decision, frequency, phonological-neighbors, english, audio-data, behavioral-data, spoken-word-recognition, megastudy  
-open_acces: yes  
+open_access: yes  
 documentation: https://doi.org/10.3758/s13428-018-1056-1  
 publications: Tucker et al. (2019)  
 citation: Tucker, B. V., Brenner, D., Danielson, D. K., Kelley, M. C., Nenadić, F., & Sims, M. (2019). The massive auditory lexical decision (MALD) database. *Behavior research methods, 51*(3), 1187-1204.  
