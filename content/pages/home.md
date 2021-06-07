@@ -1,6 +1,6 @@
 Title: home
 
-## Welcome to the Speech and Language Resource Bank!
+### Welcome to the Speech and Language Resource Bank!
 
 Here you can find links to a wide range of resources for research and teaching on speech and language. Our ultimate aim with this site is to provide a comprehensive index of the available resources in the field, complete with essential metadata and crosslinks between related work. 
 
