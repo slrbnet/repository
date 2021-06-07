@@ -26,9 +26,8 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Plugins
-# PLUGINS = [
-            # 'minchin.pelican.plugins.cname',
-          # ]
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['tipue_search.tipue_search']
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
