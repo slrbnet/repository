@@ -7,9 +7,6 @@
         <link rel="stylesheet" href="/theme/css/main.css" />
         <link rel="icon" href="https://slrb.net/theme/images/icons/slrb.svg" type="image/x-icon">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Tipue-Search/5.0.0/tipuesearch.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Tipue-Search/5.0.0/tipuesearch_set.js"></script>
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Tipue-Search/5.0.0/tipuesearch.css"/> 
         <meta name="description" content="We present a new database of lexical decision times for English words and nonwords, for which two groups of British participants each responded to..." />
 </head>
 
@@ -22,6 +19,7 @@
                     <li class="active"><a href="/category/data.html">data</a></li>
                     <li><a href="/category/education.html">education</a></li>
                     <li><a href="/category/experimentation.html">experimentation</a></li>
+                <a href="javascript:void(0);" class="icon" onclick="navMenu()"><span class="fa fa-bars"></span></a>
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
@@ -105,11 +103,13 @@
 
 </body>
 <script>
-    $(document).ready(function() {
-         $('#tipue_search_input').tipuesearch({
-              'mode': 'json',
-              'contentLocation': 'tipuesearch_content.json'
-         });
-    });
+    function navMenu() {
+        var x = document.getElementById("nav");
+        if (x.className === "nav") {
+                x.className += " responsive";
+        } else {
+                x.className = "nav";
+        }
+    }
 </script>
 </html>
