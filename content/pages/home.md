@@ -4,7 +4,7 @@ Title: home
 
 Here you can find links to a wide range of resources for research and teaching on speech and language. Our ultimate aim with this site is to provide a comprehensive index of the available resources in the field, complete with essential metadata and crosslinks between related work. 
 
-If you would like to contribute, particularly if you would like your own resource indexed on our site, please contact us via one of the email addresses listed below, join our Slack channel ([slrbank.slack.com](https://slrbank.slack.com)), or find us on Github ([github.com/slrbnet](https://github.com/slrbnet)).
+If you would like to contribute, particularly if you would like your own resource indexed on our site, please fill out the form, contact us via one of the email addresses listed below, join our Slack channel ([slrbank.slack.com](https://slrbank.slack.com)), or find us on Github ([github.com/slrbnet](https://github.com/slrbnet)).
 
 <br>
 
