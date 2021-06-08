@@ -198,6 +198,112 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 	padding: 2.5em 0 0 0;
 }
 
+nav.navigation{
+	position:relative;
+	height:50px;
+	background-color:#3c3c3c;
+	z-index:2;
+}
+
+ul.nav-menu, ul.nav-menu li, ul.nav-menu li a{
+	float:left;
+}
+
+ul.nav-menu{
+	padding-left:10px;
+}
+
+ul.nav-menu li a{
+	height:50px;
+	line-height:50px;
+	padding:0 10px;
+	color:#ffffff;
+	text-decoration:none;
+}
+ul.nav-menu li a:hover{
+	color:#6decb9;
+}
+.nav-toggle{
+	position:absolute;
+	top:0;
+	right:0;
+	width:50px;
+	height:50px;
+	background-color:#11999e;
+	cursor:pointer;
+}
+
+span.icon-bar{
+	position:absolute;
+	right:12px;
+	display:block;
+	width:26px;
+	height:2px;
+	background-color:#ffffff;
+}
+
+.icon-bar:nth-child(1){
+  top:17px;
+}
+
+.icon-bar:nth-child(2){
+  top:24px;
+}
+
+.icon-bar:nth-child(3){
+  top:31px;
+}
+
+.nav-overlay{
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	background-color:rgba(0,0,0,0.5);
+	z-index:1;
+	opacity:0;
+	visibility:hidden;
+}
+
+.nav-overlay.active{
+	opacity:1;
+	visibility:visible;
+}
+
+.nav-toggle{
+	display:none;
+}
+
+@media screen and (max-width:767px){
+	ul.nav-menu{
+		position:absolute;
+		top:50px;
+		width:100%;
+		height:0;
+		padding:0;
+		overflow:hidden;
+	}
+	ul.nav-menu.active{
+		height:auto;
+	}
+	ul.nav-menu li{
+		width:100%;
+	}
+	ul.nav-menu li a{
+		width:100%;
+		padding:0;
+		text-align:center;
+		background-color:#2c2c2c;
+	}
+	ul.nav-menu li a:hover{
+		background-color:#1c1c1c;
+	}
+	.nav-toggle{
+		display:block;
+	}
+}
+
 	/* Banner */
 	#banner h1 {font-size: 30px; 
 		    line-height: 1;
