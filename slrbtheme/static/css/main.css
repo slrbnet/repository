@@ -200,9 +200,15 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 
 nav.navigation{
 	position:relative;
-	height:50px;
-	background-color:#3c3c3c;
 	z-index:2;
+	background-color: #445;
+	font-size: 1.143em;
+	height: 40px;
+	line-height: 30px;
+	margin: 1em auto 2em auto;
+	padding: 0;
+	text-align: center;
+	width: 100%;
 }
 
 ul.nav-menu, ul.nav-menu li, ul.nav-menu li a{
