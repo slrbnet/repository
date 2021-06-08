@@ -13,14 +13,22 @@
 <body id="index" class="home">
         <header id="banner" class="body">
                 <div><img src="https://www.slrb.net/theme/images/icons/slrb.svg" height="30px"/>&nbsp;&nbsp;&nbsp;<h1>Speech and Language Resource Bank</h1></div>
-                <nav><ul>
-                    <li><a href="/pages/home.html">home</a></li>
-                    <li><a href="/category/analysis.html">analysis</a></li>
-                    <li><a href="/category/data.html">data</a></li>
-                    <li><a href="/category/education.html">education</a></li>
-                    <li class="active"><a href="/category/experimentation.html">experimentation</a></li>
-                </ul></nav>
-        </header><!-- /#banner -->
+                <nav class="navigation>
+                    <ul class="nav-menu">
+                                <li><a href="/pages/home.html">home</a></li>
+                                <li><a href="/category/analysis.html">analysis</a></li>
+                                <li><a href="/category/data.html">data</a></li>
+                                <li><a href="/category/education.html">education</a></li>
+                                <li class="active"><a href="/category/experimentation.html">experimentation</a></li>
+                    </ul>
+                    <div class="nav-toggle">
+				        <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+		                <span class="icon-bar"></span>
+			        </div>
+		        </nav>
+		        <div class="nav-overlay"></div>
+        </header>
 <section id="content" class="body">
   <article>
     <header>
@@ -110,4 +118,14 @@
         </footer><!-- /#contentinfo -->
 
 </body>
+        
+<script>
+    (function($){
+    $('.nav-toggle').click(function(e){
+        e.preventDefault();
+        $('.nav-menu').toggleClass('active');
+    })
+})(jQuery);
+</script>
+  
 </html>
