@@ -247,32 +247,6 @@ div.figure p.caption, figure p.caption { /* margin provided by figure */
 		text-shadow: none !important;
 	}
 
-	#banner nav .icon {
-  		display: none;
-	}
-
-@media screen and (max-width: 600px) {
-  #banner nav a:not(:first-child) {display: none;}
-  #banner nav a.icon {
-    float: right;
-    display: block;
-  }
-}
-
-@media screen and (max-width: 600px) {
-  #banner nav.responsive {position: relative;}
-  #banner nav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  #banner nav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-}
-
 /*
 	Featured
 *****************/
