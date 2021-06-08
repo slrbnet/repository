@@ -211,24 +211,34 @@ nav.navigation{
 	width: 100%;
 }
 
-ul.nav-menu, ul.nav-menu li, ul.nav-menu li a{
-	float:left;
-}
-
 ul.nav-menu{
-	padding-left:10px;
+	list-style: none; 
+	margin: 0; 
+	width: 800px;
+}
+	
+ul.nav-menu li, ul.nav-menu li a{
+	float: left; 
+	display: inline; 
+	margin: 0;
 }
 
-ul.nav-menu li a{
-	height:50px;
-	line-height:50px;
-	padding:0 10px;
-	color:#ffffff;
-	text-decoration:none;
+ul.nav-menu a:link, ul.nav-menu a:visited{
+	color: #fff;
+	display: inline-block;
+	height: 30px;
+	padding: 5px 1.5em;
+	text-decoration: none;
 }
-ul.nav-menu li a:hover{
+
+ul.nav-menu a:hover, ul.nav-menu a:active,
+	ul.nav-menu .active a:link, ul.nav-menu .active a:visited {
 	color:#6decb9;
+	background: #4063D8;
+	color: #fff;
+	text-shadow: none !important;
 }
+
 .nav-toggle{
 	position:absolute;
 	top:0;
