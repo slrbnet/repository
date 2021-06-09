@@ -290,7 +290,7 @@ span.icon-bar{
 	display:none;
 }
 
-@media screen and (max-width:800px){
+@media screen and (max-width:900px){
 	ul.nav-menu{
 		position:absolute;
 		top:40px;
@@ -406,7 +406,7 @@ span.icon-bar{
 	margin-bottom: 2em;
 	overflow: hidden;
 	padding: 20px 20px;
-	width: 760px;
+	width: 40%;
 
 	border-radius: 10px;
 	-moz-border-radius: 10px;
