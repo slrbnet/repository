@@ -241,7 +241,7 @@ ul.nav-menu a:hover, ul.nav-menu a:active,
 .nav-toggle{
 	position:absolute;
 	top:0;
-	right:0;
+	left:0;
 	width:40px;
 	height:40px;
 	background-color:#445;
