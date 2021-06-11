@@ -16,9 +16,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      - run: sudo pip install pelican markdown ghp-import
+      - run: sudo pip install pelican markdown
       - name: Build
         run: |
+          cd $GITHUB_WORKSPACE
           pelican content -t slrbtheme
           "cp output/pages/home.html output/index.html"
           "cp google53ea94da590eb186.html output/"
