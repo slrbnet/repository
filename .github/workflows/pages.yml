@@ -21,9 +21,9 @@ jobs:
         run: |
           pelican content -t slrbtheme
           ls output/pages
-          "cp output/pages/home.html output/index.html"
-          "cp google53ea94da590eb186.html output/"
-          "cp sitemap.xml output/"
+          cp output/pages/home.html output/index.html
+          cp google53ea94da590eb186.html output/
+          cp sitemap.xml output/
           echo "www.slrb.net" > output/CNAME
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3.6.1
