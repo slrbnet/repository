@@ -19,8 +19,8 @@ jobs:
       - run: sudo pip install pelican markdown
       - name: Build
         run: |
-          cd $GITHUB_WORKSPACE
           pelican content -t slrbtheme
+          ls output
           "cp output/pages/home.html output/index.html"
           "cp google53ea94da590eb186.html output/"
           "cp sitemap.xml output/"
