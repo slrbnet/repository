@@ -1,6 +1,5 @@
 # To-do
 
+- Center paginator
 - Search
-- Form submission link
-- Contact box?
-- Arai's materials
+- Contact box
