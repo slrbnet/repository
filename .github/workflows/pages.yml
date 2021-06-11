@@ -17,24 +17,12 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - run: sudo pip install pelican markdown ghp-import
-      - run: |
-        pelican content -t slrbtheme
-        "cp output/pages/home.html output/index.html"
-        "cp google53ea94da590eb186.html output/"
-        "cp sitemap.xml output/"
-        echo "www.slrb.net" > output/CNAME
-        ghp-import output
-        git push origin gh-pages
-      
-        
-      
-
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Build and deploy
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          pelican content -t slrbtheme
+          "cp output/pages/home.html output/index.html"
+          "cp google53ea94da590eb186.html output/"
+          "cp sitemap.xml output/"
+          echo "www.slrb.net" > output/CNAME
+          ghp-import output
+          git push origin gh-pages
