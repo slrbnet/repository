@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.slrb.net/</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/pages/home.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/category/analysis.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/category/data.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/category/education.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/category/experimentation.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/phonetics-jl.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/matthew-c-kelley.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/julia.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/vowels.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/plotting.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/lexicon.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/acoustic-distance.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/neighborhood-density.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/phonotactic-probability.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/NAF.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/christopher-carignan.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/nasalization.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/phonetics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/machine-learning.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/mfcc.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/acoustics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/r.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/MALD.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/benjamin-v-tucker.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/daniel-brenner.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/d-kyle-danielson.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/filip-nenadic.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/michelle-sims.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/auditory-lexical-decision.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/frequency.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/phonological-neighbors.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/english.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/audio-data.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/behavioral-data.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/spoken-word-recognition.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/megastudy.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/BALDEY.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/mirjam-ernestus.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/anne-cutler.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/morphological-complexity.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/dutch.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/behavioural-data.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/spanish-confusions-corpus.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/mate-attila-toth.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/maria-luisa-garcia-lecumberri.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/yan-tang.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/martin-cooke.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/misperceptions.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/errors.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/word-recognition.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/noise.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/spanish.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/BLP.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/emmanuel-keuleers.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/paula-lacey.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/kathleen-rastle.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/marc-brysbaert.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/text-database.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/behavioural-perception.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/visual-word-recognition.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/lexical-decision.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/virtual-experiment.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/acoustics-apps.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/lennart-moheita.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/johannes-d-schmid.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/jonas-m-schmid.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/martin-eser.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/steffen-marburg.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/education.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/spectrum.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/information-technology.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/electromagnetic-radiation.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/boundary-element-methods.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/amplitude-modulation.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/computer-graphics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/noise-barriers.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/musical-instruments.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/sound-generation.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/deep-learning-tutorials.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/neural-networks.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/speech-recognition.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/deep-learning.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/phonetics-images.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/vocal-tract.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/midsagittal.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/speech-production.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/teaching.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/diagrams.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/vocal-tract-models.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/takayuki-arai.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/vocal-tract-models.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/production.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/demos.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/psychopy.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/jonathan-w-peirce.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/jeremy-r-gray.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/sol-simpson.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/michael-r-macaskill.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/richard-hochenberger.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/hiroyuki-sogo.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/erik-kastman.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/author/jonas-k-lindelov.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/python.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/experiment.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/neuroscience.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/linguistics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/psychology.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/psychophysics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/psycholinguistics.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/experiment-control.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.slrb.net/tag/experimental-design.html</loc>
+  <lastmod>2021-06-08T22:38:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

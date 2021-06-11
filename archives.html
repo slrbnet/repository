@@ -13,6 +13,11 @@
         <header id="banner" class="body">
                 <div><img src="https://www.slrb.net/theme/images/icons/slrb.svg" height="30px"/>&nbsp;&nbsp;&nbsp;<h1>Speech and Language Resource Bank</h1></div>
                 <nav class="navigation">
+		    <div class="nav-toggle">
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		    </div>
                     <ul class="nav-menu">
                                 <li><a href="/pages/home.html">home</a></li>
                                 <li><a href="/category/analysis.html">analysis</a></li>
@@ -20,13 +25,8 @@
                                 <li><a href="/category/education.html">education</a></li>
                                 <li><a href="/category/experimentation.html">experimentation</a></li>
                     </ul>
-                    <div class="nav-toggle">
-				        <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-			        </div>
-		        </nav>
-		        <div class="nav-overlay"></div>
+	        </nav>
+	        <div class="nav-overlay"></div>
         </header>
 	<br>
 <section id="content" class="body">
@@ -45,16 +45,34 @@
     <dd><a href="/deep-learning-tutorials.html">Deep Learning Tutorials</a></dd>
     <dt>Fri 11 December 2020</dt>
     <dd><a href="/phonetics-images.html">Phonetics Images</a></dd>
+    <dt>Sat 28 November 2020</dt>
+    <dd><a href="/acoustics-vibration-animations.html">Acoustics and Vibration Animations</a></dd>
+    <dt>Fri 29 November 2019</dt>
+    <dd><a href="/KEC.html">The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings</a></dd>
     <dt>Mon 18 June 2018</dt>
     <dd><a href="/MALD.html">Massive Auditory Lexical Decision database</a></dd>
+    <dt>Sun 20 August 2017</dt>
+    <dd><a href="/USC-VT-Morph-MRI.html">USC Speech and Vocal Tract Morphology MRI Database</a></dd>
     <dt>Fri 09 September 2016</dt>
     <dd><a href="/BALDEY.html">BALDEY Database of Auditory Lexical Decisions</a></dd>
+    <dt>Thu 08 September 2016</dt>
+    <dd><a href="/rtMRI-IPA-charts.html">Real-time MRI IPA Charts</a></dd>
+    <dt>Fri 17 April 2015</dt>
+    <dd><a href="/USC-CreativeIT.html">USC CreativeIT database of multimodal dyadic interactions</a></dd>
+    <dt>Wed 03 September 2014</dt>
+    <dd><a href="/USC-TIMIT.html">USC-TIMIT: A database of multimodal speech production data</a></dd>
+    <dt>Mon 05 May 2014</dt>
+    <dd><a href="/USC-EMO-MRI.html">USC-EMO-MRI: An emotional speech production database</a></dd>
     <dt>Wed 01 January 2014</dt>
     <dd><a href="/spanish-confusions-corpus.html">Spanish Confusions Corpus</a></dd>
     <dt>Thu 01 March 2012</dt>
     <dd><a href="/vocal-tract-models.html">Using vocal tract models in speech education</a></dd>
     <dt>Sun 01 January 2012</dt>
     <dd><a href="/BLP.html">British Lexicon Project</a></dd>
+    <dt>Sun 09 November 2008</dt>
+    <dd><a href="/IEMOCAP.html">IEMOCAP: The Interactive Emotional Dyadic Motion Capture Database</a></dd>
+    <dt>Tue 11 June 1957</dt>
+    <dd><a href="/liberman1957-continuum.html">Liberman et al. (1957) Continuum</a></dd>
 </dl>
 </section>
   
@@ -67,7 +85,8 @@
         </footer><!-- /#contentinfo -->
 
 </body>
-        
+
+<!-- Script for toggling menu on narrow screens -->
 <script>
     (function($){
     $('.nav-toggle').click(function(e){
@@ -75,6 +94,14 @@
         $('.nav-menu').toggleClass('active');
     })
 })(jQuery);
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8XWFESHEMV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'G-8XWFESHEMV');
 </script>
   
 </html>

@@ -13,6 +13,11 @@
         <header id="banner" class="body">
                 <div><img src="https://www.slrb.net/theme/images/icons/slrb.svg" height="30px"/>&nbsp;&nbsp;&nbsp;<h1>Speech and Language Resource Bank</h1></div>
                 <nav class="navigation">
+		    <div class="nav-toggle">
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		    </div>
                     <ul class="nav-menu">
                                 <li><a href="/pages/home.html">home</a></li>
                                 <li><a href="/category/analysis.html">analysis</a></li>
@@ -20,13 +25,8 @@
                                 <li><a href="/category/education.html">education</a></li>
                                 <li><a href="/category/experimentation.html">experimentation</a></li>
                     </ul>
-                    <div class="nav-toggle">
-				        <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-			        </div>
-		        </nav>
-		        <div class="nav-overlay"></div>
+	        </nav>
+	        <div class="nav-overlay"></div>
         </header>
 	<br>
 	<div class="note_header">
@@ -115,7 +115,8 @@
         </footer><!-- /#contentinfo -->
 
 </body>
-        
+
+<!-- Script for toggling menu on narrow screens -->
 <script>
     (function($){
     $('.nav-toggle').click(function(e){
@@ -123,6 +124,14 @@
         $('.nav-menu').toggleClass('active');
     })
 })(jQuery);
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8XWFESHEMV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());  gtag('config', 'G-8XWFESHEMV');
 </script>
   
 </html>
