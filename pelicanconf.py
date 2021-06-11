@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['tipue_search.tipue_search']
+# PLUGINS = ['tipue_search.tipue_search']
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
