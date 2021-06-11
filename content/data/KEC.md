@@ -11,7 +11,7 @@ license: information provided online
 publications: Arnold & Tomaschek (2016)  
 citation: Arnold, D., & Tomaschek, F. (2016). The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings. Tagungsband der 12. Tagung Phonetik und Phonologie im deutschsprachigen Raum. P und P12. https://epub.ub.uni-muenchen.de/29405/  
 shortdesc: 40 one-hour recordings of two friends talking to each other.  
-summary: One-hour recording of two friends talking to each other. Annotation is provided at word level (manually corrected), at segment level (automatic) and for part of speech (automatic). File format: wav + praat textgrid. Corpus contains articulography for 20 speakers (30 minutes each) that can be provided by contacting the authors (publication in progress).  
+summary: Forty one-hour recordings of two friends talking to each other. Annotation is provided at word level (manually corrected), at segment level (automatic) and for part of speech (automatic). File format: wav + praat textgrid. Corpus contains articulography for 20 speakers (30 minutes each) that can be provided by contacting the authors (publication in progress).  
 <!--
 documentation: 
 tests:
