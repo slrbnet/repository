@@ -28,12 +28,12 @@
                         {% endfor %}
                         {% if DISPLAY_PAGES_ON_MENU -%}
                             {% for pg in pages %}
-                                <a {% if pg == page %} class="active" {% endif %} href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
+                                <a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title }}</a>
                             {% endfor %}
                         {% endif %}
                         {% if DISPLAY_CATEGORIES_ON_MENU -%}
                             {% for cat, null in categories %}
-                                <a {% if pg == page %} class="active" {% endif %} href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
+                                <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a>
                             {% endfor %}
                         {% endif %}			
   			<input type="text" placeholder="search (coming soon)">
