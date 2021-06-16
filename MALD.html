@@ -7,6 +7,16 @@
         <link rel="stylesheet" href="/theme/css/main.css" />
         <link rel="icon" href="https://slrb.net/theme/images/icons/slrb.svg" type="image/x-icon">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script>
+    		$(function(){
+        		$('a').each(function(){
+            			if ($(this).prop('href') == window.location.href) {
+                			$(this).addClass('active'); $(this).parents('li').addClass('active');
+            			}
+        		});
+    		});
+	</script>
+
         <meta name="description" content="The Massive Auditory Lexical Decision (MALD) database is an end-to-end, freely available auditory and production data set for speech and..." />
 </head>
 
