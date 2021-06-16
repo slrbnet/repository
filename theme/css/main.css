@@ -324,6 +324,7 @@ span.icon-bar{
 .topnav {
   overflow: hidden;
   background-color: #445;
+  margin-top: 2px;
 }
 
 /* Style the links inside the navigation bar */
