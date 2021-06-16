@@ -8,6 +8,16 @@
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/{{ CSS_FILE }}" />
         <link rel="icon" href="https://slrb.net/theme/images/icons/slrb.svg" type="image/x-icon">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script>
+    		$(function(){
+        		$('a').each(function(){
+            			if ($(this).prop('href') == window.location.href) {
+                			$(this).addClass('active'); $(this).parents('li').addClass('active');
+            			}
+        		});
+    		});
+	</script>
+
         {% block extra_head %}{% endblock extra_head %}
         {% endblock head %}
 </head>
