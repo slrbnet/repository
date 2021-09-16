@@ -8,6 +8,28 @@ If you would like to contribute, particularly if you would like your own resourc
 
 <br>
 
+### We're hiring
+
+We're hiring two hourly research assistants to help index resources for research and teaching in the speech sciences. Candidates from linguistics, psychology, speech & hearing, communication sciences and disorders, and related disciplines are invited to apply. Specifically we will aim to hire one person with a clinical focus and one with a non-clinical focus. Unfortunately, we can only hire US citizens and residents at this time.
+
+As an indexer for the SLRB your job will include the following:
+
+1. Compiling a list of resources (e.g., databases, software, teaching tools, scripts / programming language libraries)
+
+2. Writing metadata on those resources so that they can be indexed on our site
+
+3. Emailing resource authors to notify them of their inclusion in the site and to receive feedback on any necessary corrections to their entries
+
+This work will not only provide a vital service to the speech science community, but will also provide opportunities to network with researchers and educators in the field.
+
+Compensation for this work will be 10 USD / hour for a maximum of 100 total hours. Your schedule and the number of hours you work per week is flexible.
+
+Interested applicants should email a copy of their CV and a short description of their background to Charles Redmon (charles.redmon@ling-phil.ox.ac.uk), quoting "SLRB Indexer Application" in the subject line. Also feel free to email us if you have any general inquiries about the job.
+
+These positions will remain open until filled, but we are looking to fill them quickly so earlier applicants will be given priority.
+
+<br>
+
 <!--
 <form action="https://google.com/search" method="get">
     <input type="hidden" name="sitesearch" value="https://slrb.net" />
