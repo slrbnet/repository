@@ -7,10 +7,10 @@ This repository serves as a central hub for the organization of computational re
 - Via GitHub:
   - Clone the repository
   - Add a markdown file in the appropriate folder within the `content` folder (one of the following: `analysis`, `data`, `education`, `experimentation`)
-  - Please use the `entry-template.md` in `docs` as a guide when adding content; delete any fields that are not applicable or not present in your resource
+  - Please use the `template.md` as a guide when adding content; delete any fields that are not applicable or not present in your resource
   - Issue a pull request, which will then be evaluated by the repository maintainers before acceptance
 - Via Email:
-  - Email one of the maintainers listed below with the resource you would like to submit and the corresponding metadata (see `entry-template.md`)
+  - Email one of the maintainers listed below with the resource you would like to submit and the corresponding metadata (see `template.md`)
 
 
 ### Maintainers
