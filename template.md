@@ -1,0 +1,14 @@
+title:   
+slug:   
+authors:   
+date:   
+source:   
+type:   
+languages:   
+tags:   
+open_access:   
+documentation:   
+publications:   
+citation:  
+shortdesc:  
+summary:  
