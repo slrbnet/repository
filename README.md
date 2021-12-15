@@ -12,6 +12,8 @@ This repository serves as a central hub for the organization of computational re
 - Via Email:
   - Email one of the maintainers listed below with the resource you would like to submit and the corresponding metadata (see `template.md`)
 
+### Contributors
+Sarah Brooks  
 
 ### Maintainers
 Charles Redmon ([email](mailto:charles.redmon@ling-phil.ox.ac.uk))  
