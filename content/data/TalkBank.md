@@ -4,7 +4,7 @@ authors: Brian MacWhinney
 date: 2019-07-08  
 source: https://talkbank.org/  
 type: language and audio repository  
-languages: Over 34 languages
+languages: Over 34 languages  
 tags: conversation, interaction, psycholinguistics, child-language  
 open_access: yes  
 license: CC BY-NC-SA 3.0  
