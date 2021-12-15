@@ -8,6 +8,7 @@ languages: Over 34 languages
 tags: conversation, interaction, psycholinguistics, child-language  
 open_access: yes  
 license: CC BY-NC-SA 3.0  
+documentation: https://talkbank.org/  
 publications: MacWhinney, B. (2019, July 8). The TalkBank CLARIN Knowledge Centre. CLARIN. https://www.clarin.eu/blog/talkbank-clarin-knowledge-centre  
 citation: MacWhinney, B. The Talk Bank System. Talk Bank. https://talkbank.org/  
 shortdesc: A repository in 14 research areas to foster fundamental research in the study of human communication with an emphasis on spoken communication.  
