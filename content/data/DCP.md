@@ -1,6 +1,6 @@
 title: The Dutch Crowdsourcing Project \
 slug: DCP \
-authors: Marc Brysbaert, Emmanuel Keuleers, Pawet Mandera \
+authors: Marc Brysbaert, Emmanuel Keuleers, Pawel Mandera \
 date: 2019-7-17 \
 source: http://crr.ugent.be/programs-data/lexicon-projects \
 type: digital lexicon \
