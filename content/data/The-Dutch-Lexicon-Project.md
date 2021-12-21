@@ -1,5 +1,5 @@
 title: The Dutch Lexicon Project \
-slug: crr.ugent.be \
+slug: DLP \
 authors: Emmanuel Keuleers, Kevin Diependaele, Marc Brysbaert \
 date: 2010-11-18 \
 source: http://crr.ugent.be/programs-data/lexicon-projects \
