@@ -5,7 +5,7 @@ date: 2010-01-25 \
 source: https://www.ualberta.ca/linguistics/cheslcentre/questionnaires.html#ALDeQ \
 type: questionnaire \
 languages: English \
-tags: language-development, behavior, language-delay, multi-lingual, speech-pathology \
+tags: language-development, behavior, language-delay, multilingual, speech-pathology \
 open_access: yes \
 publications: Paradis, J., Emmerzael, K., & Sorenson Duncan, T. (2010). \
 citation: Paradis, J., Emmerzael, K., & Sorenson Duncan, T. (2010). Assessment of English Language Learners: Using Parent Report on First Language Development (PDF). Journal of Communication Disorders, Volume 43, pp. 474-497. \
