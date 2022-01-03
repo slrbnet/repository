@@ -1,7 +1,7 @@
 title: The French Lexicon Project  
 slug: FLP  
 authors: Ludovic Ferrand, Boris New, Marc Brysbaert, Emmanuel Keuleers, Patrick Bonin, Alain Meot, Maria Augustinova, Christophe Pallier  
-date: 2020-02-03  
+date: 2020-02-03   
 source: https://osf.io/f8kc4/  
 type: lexical decision database  
 languages: English, French  
