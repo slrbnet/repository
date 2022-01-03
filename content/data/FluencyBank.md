@@ -6,7 +6,7 @@ source: https://fluency.talkbank.org/
 type: multimedia database  
 languages: Dutch, English, French, German, Japanese  
 tags: fluency, child-language, stuttering, language-processing  
-open_access: yes  
+open_access: partial     
 license: CC BY-NC-SA 3.0  
 publications: MacWhinney, B. (2019, July 8). The TalkBank CLARIN Knowledge Centre. CLARIN. https://www.clarin.eu/blog/talkbank-clarin-knowledge-centre  
 citation: MacWhinney, B. FluencyBank. The Talk Bank System. https://fluency.talkbank.org/  
