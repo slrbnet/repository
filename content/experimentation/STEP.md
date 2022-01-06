@@ -7,6 +7,7 @@ type: database
 languages: English  
 tags: experiment, data-collection, psychology, E-Prime  
 open_access: yes  
+license: none  
 documentation: https://support.pstnet.com/hc/en-us/categories/360003738794-STEP-Experiments  
 publications: MacWhinney B., St. James J., Schunn C., Li P., Schneider W. (2001). STEP--a System for Teaching Experimental Psychology using E-Prime. Behav Res Methods Instrum Comput. 33(2):287-96. doi: 10.3758/bf03195379.  
 citation: MacWhinney, B., Campbell, S., Li, P., Schunn, C., St. James, J. (2001). STEP-- a System for Teaching Experimental Psychology using E-Prime. Psychology Software Tools. https://support.pstnet.com/hc/en-us/categories/360003738794-STEP-Experiments  
