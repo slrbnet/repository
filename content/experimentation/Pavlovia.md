@@ -7,6 +7,7 @@ type: software (cross-platform)
 languages: cross-linguistic  
 tags: behavior, experiment, repository, psychology  
 open_access: yes  
+license: none  
 publications: Bridges, D., Pitiot, A., MacAskill, M. R., & Peirce, J. W. (2020). The timing mega-study: comparing a range of experiment generators, both lab-based and online. PeerJ, 8, e9414. https://doi.org/10.7717/peerj.9414  
 citation: Peirce, J. (2018). Pavlovia: where behavior is studied. Pavlovia. https://pavlovia.org/  
 shortdesc: Pavlovia is a place for the wide community of researchers in the behavioural sciences to run, share, and explore experiments online.  
