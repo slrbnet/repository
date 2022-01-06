@@ -7,6 +7,7 @@ type: Matlab
 languages: English  
 tags: vocal-tract, code, matlab, English  
 open_access: yes  
+license: none  
 documentation: https://sal.lab.arizona.edu/sites/sal.lab.arizona.edu/files/2020-12/LeTalkerInstructions_1.22.pdf  
 publications: Titze and Story (2002); Titze (2002); Story, Titze, and Hoffman (1996); Story and Titze (1995).  
 citation: Story, B., Titze, I. (2013). LeTalker. The University of Arizona: Speech Acoustics and Physiology Lab. https://sal.arizona.edu/node/10  
