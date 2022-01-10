@@ -1,4 +1,4 @@
-title: Time Invariant String Model   
+title: Time Invariant String Kernel Model   
 slug: TISK   
 authors: Heejo You, Thomas Hannagan, James Magnuson    
 date: 2017-12-15  
