@@ -1,7 +1,7 @@
 title: Speech Banana  
 slug: speech-banana  
 authors: Tilak Ratnanather, Joanne, Margo, Rohit, Lindsey, Bruce, Aditya, Seung Wook, Inez, Edric, Sungho, Ben, Mitra   
-date: 2021      
+date: 2021-06       
 source: http://speechbanana.jhu.edu/  
 type: web and iPad application  
 languages: English, Korean  
