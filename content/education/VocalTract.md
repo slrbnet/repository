@@ -1,5 +1,5 @@
-title: Vocal Tract Imagining: MR and CT Images  
-slug: vocal-tract-imagining  
+title: Vocal Tract Imaging: MR and CT Images  
+slug: vocal-tract-imaging  
 authors: Brad Story  
 date: 2021  
 source: https://sal.arizona.edu/node/22  
