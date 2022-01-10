@@ -1,6 +1,6 @@
 title: Vocal Tract Imagining: MR and CT Images  
 slug: vocal-tract-imagining  
-authors: Brad Story, Kate Bunton, Jenny Hoit  
+authors: Brad Story  
 date: 2021  
 source: https://sal.arizona.edu/node/22  
 type: pdf  
