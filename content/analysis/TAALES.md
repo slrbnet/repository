@@ -1,7 +1,7 @@
 title: Tool for the Automatic Analysis of Lexical Sophistication  
 slug: TAALES  
 authors: Kristopher Kyle, Scott Crossley, Cynthia Berger  
-date: 2018  
+date: 2018-02-08  
 source: https://www.linguisticanalysistools.org/taales.html  
 type: text-analysis tool  
 languages: English  
