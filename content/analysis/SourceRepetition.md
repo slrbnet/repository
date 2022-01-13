@@ -1,5 +1,5 @@
-title: Sound Repetition Stimuli  
-slug: sound-repetition  
+title: Source Repetition Stimuli  
+slug: source-repetition  
 authors: Josh H. McDermott, David Wrobleski, Andrew J. Oxenham  
 date: 2011-01-18  
 source: http://mcdermottlab.mit.edu/source_repetition/index.html  
