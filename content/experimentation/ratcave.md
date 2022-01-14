@@ -5,7 +5,7 @@ date: 2020-12-18
 source: https://github.com/ratcave/ratcave  
 type: Github repository  
 languages: English  
-tags: psychology, Python, experiment, software  
+tags: psychology, Python, experiment, software, English  
 open_access: yes  
 documentation: https://ratcave.readthedocs.io/en/latest/  
 license: MIT license  
