@@ -1,4 +1,4 @@
-title: The Visual Analogue Scale for Rating, Ranking, and Paired Comparison Generator  
+title: The Visual Analogue Scale for Rating, Ranking, and Paired-Comparison Generator  
 slug: VAS-RRP  
 authors: Yao-Ting Sung & Jeng-Shin Wu  
 date: 2018-04-17  
