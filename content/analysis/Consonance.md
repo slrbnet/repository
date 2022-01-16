@@ -4,7 +4,7 @@ authors: Josh H. McDermott, Andriana J. Lehr, Andrew J. Oxenham
 date: 2010-06-08    
 source: http://mcdermottlab.mit.edu/consonance_examples/index.html  
 type: audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: frequency, harmony, acoustics  
 open_access: yes  
 publications: McDermott, J., Lehr, A., Oxenham, A. (2010). Individual Differences Reveal the Basis of Consonance. Current Biology. 20(11): 1035-1041. DOI 10.1016/j.cub.2010.04.019  
