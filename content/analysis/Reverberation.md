@@ -4,8 +4,8 @@ authors: James Traer & Josh H. McDermott
 date: 2016-11-29  
 source: http://mcdermottlab.mit.edu/Reverb/ReverbSummary.html  
 type: audio files, Github repository  
-languages: English  
-tags: sound, audition, periphery, English  
+languages: N/A    
+tags: sound, audition, periphery    
 open_access: yes  
 publications: Traer, J., & McDermott, J. (2016). Statistics of natural reverberation enable perceptual separation of sound and space. Proceedings of the National Academy of Sciences of the United States of America. 113(48): E7856-E7865. https://doi.org/10.1073/pnas.1612524113  
 citation: Traer, J., & McDermott, J. (2016). Statistics of natural reverberation enable perceptual separation of sound and space. Massachusetts Institute of Technology: McDermott Lab. http://mcdermottlab.mit.edu/Reverb/ReverbSummary.html  
