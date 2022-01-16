@@ -4,8 +4,8 @@ authors: Richard McWalter and Josh McDermott
 date: 2019-11  
 source: http://mcdermottlab.mit.edu/textcont.html  
 type: audio files  
-languages: English, German  
-tags: sound-texture, perception, speech, English, German  
+languages: N/A  
+tags: sound-texture, perception, speech, music      
 open_access: yes  
 license: CC BY 4.0  
 publications: McWalter, R. & McDermott, J. (2019). Illusory sound texture reveals multi-second statistical completion in auditory scene analysis. Nature Communications. 10: 5098. https://doi.org/10.1038/s41467-019-12893-0  
