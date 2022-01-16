@@ -4,7 +4,7 @@ authors: Josh H. McDermott, Andriana J., Andrew J. Oxenham
 date: 2008-05-09  
 source: http://mcdermottlab.mit.edu/sound_contour_demos/sound_contour_demos.html  
 type: audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: frequency, pitch, harmony, audition  
 open_access: yes  
 publications: McDermott, J., Lehr, A., Oxenham, A. (2008). Is Relative Pitch Specific to Pitch? Psychological Science. 19(12): 1263-1271. doi: 10.1111/j.1467-9280.2008.02235.x  
