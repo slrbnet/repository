@@ -4,7 +4,7 @@ authors: Kevin J.P. Woods & Josh H. McDermott
 date: 2018-04-03    
 source: http://mcdermottlab.mit.edu/schema_learning/index.html  
 type: audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: sound-sources, audition, schema  
 open_access: yes  
 license: PNAS  
