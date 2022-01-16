@@ -4,7 +4,7 @@ authors: Wiktor Młynarski, Josh H. McDermott
 date: 2019-12-10  
 source: http://mcdermottlab.mit.edu/grouping_statistics/index.html  
 type: audio files   
-languages: cross-linguistic  
+languages: N/A    
 tags: sensory, audition, frequency, harmony  
 open_access: yes  
 publications: Młynarski, W. & McDermott, J. (2019). Ecological origins of perceptual grouping principles in the auditory system. Proceedings of the National Academy of Sciences of the United States of America. 116(50): 25355-25364. https://doi.org/10.1073/pnas.1903887116  
