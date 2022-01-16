@@ -4,8 +4,8 @@ authors: Richard McWalter & Josh McDermott
 date: 2018-05-07  
 source: http://mcdermottlab.mit.edu/textint.html  
 type: audio files  
-languages: English  
-tags: perception, sensory-input,  audition, English  
+languages: N/A    
+tags: perception, sensory-input,  audition  
 open_access: yes 
 publications: McWalter, R. & McDermott, J. (2018). Adaptive and Selective Time-averaging of Auditory Scenes. Current Biology: 28, 1405-1418. https://doi.org/10.1016/j.cub.2018.03.049  
 citation: McWalter, R. & McDermott, J. (2018). Adaptive and Selective Time-averaging of Auditory Scenes. Massachusetts Institute of Technology: McDermott Lab. http://mcdermottlab.mit.edu/textint.html  
