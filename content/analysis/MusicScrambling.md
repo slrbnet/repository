@@ -4,7 +4,7 @@ authors: Sam Norman-Haignere, Nancy Kanwisher, Josh H. McDermott
 date: 2010-12-31  
 source: http://mcdermottlab.mit.edu/music_scrambling/index.html  
 type: MATLAB function & audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: pitch, harmonics, frequency, audition  
 open_access: yes  
 publications: Norman-Haignere, S., Kanwisher, N. G., & McDermott, J. H. (2015). Distinct Cortical Pathways for Music and Speech Revealed by Hypothesis-Free Voxel Decomposition. Neuron, 88(6), 1281–1296. https://doi.org/10.1016/j.neuron.2015.11.035  
