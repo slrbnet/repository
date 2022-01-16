@@ -4,8 +4,8 @@ authors: Sam V. Norman-Haignere & Josh H. McDermott
 date: 2018-12-03  
 source: http://mcdermottlab.mit.edu/svnh/model-matching/Stimuli_from_Model-Matching_Experiment.html  
 type: audio files  
-languages: cross-linguistic  
-tags: audition, sensory, auditory-cortex, neuroscience  
+languages: English & non-speech  
+tags: audition, sensory, auditory-cortex, neuroscience, English    
 open_access: yes  
 publications: Norman-Haignere, S. & McDermott, J. (2018). Neural responses to natural and model-matched stimuli reveal distinct computations in primary and nonprimary auditory cortex. PLOS Biology. https://doi.org/10.1371/journal.pbio.2005127  
 citation: Norman-Haignere, S. & McDermott, J. (2018). Stimuli from Model-Matching Experiment. Massachusetts Institute of Technology: McDermott Lab. http://mcdermottlab.mit.edu/svnh/model-matching/Stimuli_from_Model-Matching_Experiment.html  
