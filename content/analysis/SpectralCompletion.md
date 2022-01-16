@@ -4,7 +4,7 @@ authors: Josh H. McDermott & Andrew J. Oxenham
 date: 2008-02-15  
 source: http://mcdermottlab.mit.edu/spec_comp_demos/spec_comp_page1.html  
 type: audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: audition, sound-sources, masking, perception  
 open_access: yes  
 publications: McDermott, J. & Oxenham, A. (2008). Spectral completion of partially masked sounds. Proceedings of the National Academy of Sciences of the United States of America. 105(15): 5939-5944.  
