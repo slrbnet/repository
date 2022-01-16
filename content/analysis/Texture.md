@@ -4,8 +4,8 @@ authors: Josh H. McDermott & Eero P. Simoncelli
 date: 2013-02-24  
 source: http://mcdermottlab.mit.edu/texture_examples/index.html  
 type: audio files  
-languages: English, French  
-tags: audition, sound, perception, English, French  
+languages: N/A  
+tags: audition, sound, perception    
 open_access: yes  
 publications: McDermott, J., Schemitsch, M., Simoncelli, E. (2013). Summary statistics in auditory perception. Nature Neuroscience. 16(4): 493-498. https://doi.org/10.1038/nn.3347 ; McDermott, J. & Simoncellit, E. (2011). Sound Texture Perception via Statistics
 of the Auditory Periphery: Evidence from Sound Synthesis. Neuron. 71(5): 926-940. https://doi.org/10.1016/j.neuron.2011.06.032 ; McDermott, J., Oxenham, A., Simoncelli, E. (2009).  
