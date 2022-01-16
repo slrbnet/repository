@@ -4,7 +4,7 @@ authors: Malinda J. McPherson & Josh H. McDermott
 date: 2017-12-11  
 source: http://mcdermottlab.mit.edu/Diversity_In_Pitch_Perception.html  
 type: audio files  
-languages: cross-linguistic    
+languages: N/A      
 tags: pitch, frequency, music, speech    
 open_access: yes  
 publications: McPherson, M.J., McDermott, J.H. (2018) Diversity in pitch perception revealed by task dependence. Nature Human Behaviour. 2, 52–66. https://doi.org/10.1038/s41562-017-0261-8  
