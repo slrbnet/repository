@@ -4,8 +4,8 @@ authors: Sam Norman-Haignere, Nancy Kanwisher, Josh McDermott
 date: 2013-12-11  
 source: http://web.mit.edu/svnh/www/Resolvability/Efficient_Pitch_Localizer.html  
 type: WAV files  
-languages: English  
-tags: pitch, audition, harmonics, tonotopy, English   
+languages: N/A    
+tags: pitch, audition, harmonics, tonotopy     
 open_access: yes  
 publications: Norman-Haignere, S., Kanwisher, N., McDermott, J. (2013). Cortical Pitch Regions in Humans Respond Primarily to Resolved Harmonics and Are Located in Specific Tonotopic Regions of Anterior Auditory Cortex. The Journal of Neuroscience. 33(50): 19451-19469. DOI:10.1523/JNEUROSCI.2880-13.2013  
 citation: Norman-Haignere, S., Kanwisher, N., McDermott, J. (2013). Massachusetts Institute of Technology. http://web.mit.edu/svnh/www/Resolvability/Efficient_Pitch_Localizer.html  
