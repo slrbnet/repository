@@ -4,7 +4,7 @@ authors: Josh H. McDermott, David Wrobleski, Andrew J. Oxenham
 date: 2011-01-18  
 source: http://mcdermottlab.mit.edu/source_repetition/index.html  
 type: audio files  
-languages: English  
+languages: English, non-speech  
 tags: speech, audition, sound-sources, acoustics, English  
 open_access: yes  
 publications: McDermott, J., Wrobleski, D., Oxenham, A. (2011). Recovering sound sources from embedded repetition. Proceedings of the National Academy of Sciences of the United States of America. 108(3): 1188-1193. https://doi.org/10.1073/pnas.1004765108  
