@@ -4,7 +4,7 @@ authors: Kevin J.P. Woods & Josh H. McDermott
 date: 2015-08-31  
 source: http://mcdermottlab.mit.edu/attentive_tracking/index.html  
 type: audio files  
-languages: cross-linguistic  
+languages: N/A    
 tags: sound-source, speech, audition  
 open_access: yes  
 publications: Woods, K., & McDermott, J. (2015). Attentive Tracking of Sound Sources. Current Biology. 25(17): 1-9. https://doi.org/10.1016/j.cub.2015.07.043  
