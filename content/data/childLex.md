@@ -1,13 +1,14 @@
-title: childLex: German Children's Book Corpus  
+title: childLex   
 slug: childLex  
 authors: Sascha Schroeder, Kay-Michael Würzner, Julian Heister, Alexander Geyken, Reinhold Kliegl  
-date: 2015-01  
-source: www.childlex.de  
+date: 2021-03-02    
+source: https://osf.io/m59uv/   
 type: database  
 languages: German  
 tags: language, lexicon, reading-development, linguistics, German  
 open_access: yes  
+license: GNU (GPL) 3.0  
 publications: Schroeder, S., Würzner, K.-M., Heister, J., Geyken, A., & Kliegl, R. (2015). childLex: A lexical database of German read by children. Behavior Research Methods, 47, 1085-1094. doi:10.3758/s13428-014-0528-1  
-citation: Schroeder, S., Würzner, K.-M., Heister, J., Geyken, A., & Kliegl, R. (2015). childLex. Max Planck Institute for Human Development. www.childlex.de   
-shortdesc: The corpus comprises over 10 million words contained in a selection of 500 children's books and reading books. The books cover the age range of 6-12 years.  
-summary: ChildLex is a cooperation project with the University of Potsdam and the Berlin-Brandenburg Academy of Sciences. The corpus comprises over 10 million words contained in a selection of 500 children's books and reading books. The books cover the age range of 6-12 years and can be queried either in total or separately in three different age groups (6-8, 9-10, 11-12 years). Most of the linguistically and psychologically relevant variables are made available for around 200,000 different words. ChildLex is freely accessible and can be used by interested researchers as well as teachers, speech therapists or speech therapists to create better, child-friendly examination and training materials for German.  
+citation: Schroeder, S., Würzner, K.-M., Heister, J., Geyken, A., & Kliegl, R. (2015). childLex. https://osf.io/m59uv/  
+shortdesc: childLex is based on a corpus of children’s books and comprises 10 million words that were syntactically annotated and lemmatized. childLex reports linguistic norms for lexical, superlexical, and sublexical variables in three different age groups: 6–8 (grades1–2), 9–10 (grades 3–4), and 11–12 years (grades 5–6).     
+summary: childLex is an age-based lexical database extracted from a corpus of books intended for 6- to 12-year-old children. childLex provides separate norms for children 6 to 8 (beginning readers, grades 1–2), 9 to 10 (intermediate readers, grades 3–4), and 11 to 12 (experienced readers, grades 5–6) years of age. The childLex corpus was compiled from books that are intended to be read by children in their leisure time. It mainly comprises narrative, informal texts (such as the books of the Harry Potter series), but also includes some formal and ex-pository texts (science books, etc.).  
