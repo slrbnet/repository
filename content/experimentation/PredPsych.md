@@ -2,7 +2,7 @@ title: PredPsych
 slug: predpsych  
 authors: Atesh Koul  
 date: 2019-07-23  
-source: https://CRAN.R-project.org/package=PredPsych  
+source: https://CRAN.R-project.org/package=PredPsych ; https://github.com/ateshkoul/PredPsych  
 type: R-package  
 languages: English  
 tags: psychology, experiment, programming, neuroscience, English   
