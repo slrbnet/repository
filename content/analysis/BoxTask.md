@@ -5,7 +5,7 @@ date: 2017-09-15
 source: https://roykessels.nl/tests-and-software/box-task  
 type: software  
 languages: English, Dutch  
-tags: working-memory, psychology, experiment  
+tags: working-memory, psychology, experiment, English, Dutch  
 open_access: yes  
 documentation: http://boxtask.roykessels.nl/InstallInstructions.pdf  
 publications: Kessels, R.P.C., Postma, A. (2018). The Box Task: A tool to design experiments for assessing visuospatial working memory. Behavior Research Methods. 50, 1981–1987. https://doi.org/10.3758/s13428-017-0966-7  
