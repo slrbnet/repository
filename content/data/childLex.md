@@ -1,6 +1,6 @@
 title: childLex: German Children's Book Corpus  
 slug: childLex  
-authors: Sarah Schroeder, Kay-Michael Würzner, Julian Heister, Alexander Geyken, Reinhold Kliegl  
+authors: Sascha Schroeder, Kay-Michael Würzner, Julian Heister, Alexander Geyken, Reinhold Kliegl  
 date: 2015-01  
 source: www.childlex.de  
 type: database  
