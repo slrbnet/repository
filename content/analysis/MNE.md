@@ -8,7 +8,7 @@ languages: N/A
 tags: experiment, Python, data, machine-learning, neuroscience  
 open_access: yes  
 documentation: https://mne.tools/stable/overview/index.html  
-license: BSD  
+license: BSD-3-Clause License  
 publications: Gramfort A., Luessi M., Larson E., Engemann D.A., Strohmeier D., Brodbeck C., Goj R., Jas M., Brooks T., Parkkonen L. and Hämäläinen M. (2013). MEG and EEG data analysis with MNE-Python. Frontiers in Neuroscience. 7:267. doi: 10.3389/fnins.2013.00267  
 citation:
 shortdesc: Open-source Python package for exploring, visualizing, and analyzing human neurophysiological data: MEG, EEG, sEEG, ECoG, NIRS, and more.  
