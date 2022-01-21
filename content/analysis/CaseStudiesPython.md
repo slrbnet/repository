@@ -1,7 +1,7 @@
 title: Case-Studies-Python  
 slug: case-studies-python  
 authors: Emily Schlafly, Mark Kramer, Anthea Cheung  
-date: 2022-01  
+date: 2022-01-13  
 source: https://github.com/Mark-Kramer/Case-Studies-Python/  
 type: Python  
 languages: N/A  
