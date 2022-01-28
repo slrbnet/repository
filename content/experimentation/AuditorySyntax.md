@@ -7,6 +7,7 @@ type: software packages
 languages: English  
 tags: speech, language, audition, psychoacoustic, word-recognition, experiment, education, programming, English  
 open_access: yes  
+license: Academic Free License 3.0  
 documentation: http://auditorypro.com/aux/AUX_manual1.45.htm  
 publications: Kwon, B.J. (2012). AUX: A scripting language for auditory signal processing and software packages for psychoacoustic experiments and education. Behavior Research Methods. 44, 361–373. https://doi.org/10.3758/s13428-011-0161-1  
 citation: Kwon, B.J. (2012). AUX (AUditory syntaX). http://auditorypro.com/download/aux/   
