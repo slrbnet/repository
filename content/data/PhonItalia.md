@@ -1,6 +1,6 @@
 title: PhonItalia  
 slug: PhonItalia  
-authors: Jeremy Goslin, Claudia Galuzzi, Christina Romani  
+authors: Jeremy Goslin, Claudia Galuzzi, Cristina Romani  
 date: 2014-07-16  
 source: http://www.psy.plymouth.ac.uk/research/jgoslin/phonitalia/  
 type: database  
