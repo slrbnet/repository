@@ -1,6 +1,6 @@
 title: Expyriment  
 slug: expyriment  
-authors: Florian Krause, Oliver Lindemann, Pascal de Water  
+authors: Florian Krause, Oliver Lindemann    
 date: 2021-11-16  
 source: https://www.expyriment.org/  
 type: Python library  
