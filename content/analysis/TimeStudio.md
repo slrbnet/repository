@@ -7,6 +7,7 @@ type: MATLAB
 languages: N/A  
 tags: psychology, experiment, MATLAB, neuroscience, database  
 open_access: yes  
+license: MIT license  
 documentation: http://timestudioproject.com/manualspage  
 publications: Nyström, P., Falck-Ytter, T., & Gredebäck, G. (2016).   
 citation: Nyström, P., Falck-Ytter, T., & Gredebäck, G. (2016). The TimeStudio Project: An open source scientific workflow system for the behavioral and brain sciences. Behavior Research Methods, 48(2), 542-552. https://doi.org/10.3758/s13428-015-0616-x  
