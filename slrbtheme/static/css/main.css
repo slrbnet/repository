@@ -127,7 +127,7 @@ q {}
 div.note {
     margin: auto;
     font-size: 85%;
-    max-width: 40%;
+    max-width: 75%;
     background: #ECECEE;
     padding: 10px;
 }
@@ -135,7 +135,7 @@ div.note {
 div.note_header {
     margin: auto;
     font-size: 100%;
-    max-width: 40%;
+    max-width: 75%;
     height: 14px;
     background: #A1A1AA;
 	color: #FFFFFF;
@@ -171,7 +171,7 @@ aside, nav, article, figure {
 }
 
 /***** Layout *****/
-.body {clear: both; margin: 0 auto; width: 50%;}
+.body {clear: both; margin: 0 auto; width: 80%;}
 img.right, figure.right, div.figure.align-right {
     float: right;
     margin: 0 0 2em 2em;
