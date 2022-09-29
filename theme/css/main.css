@@ -79,6 +79,10 @@ div.line-block,
 p { margin-top: 1em;
     margin-bottom: 1em;}
 
+p .paginator {
+	margin: auto;
+}
+
 strong, b {font-weight: bold;}
 em {font-style: italic;}
 
