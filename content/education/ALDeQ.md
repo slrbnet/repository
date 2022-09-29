@@ -2,7 +2,7 @@ title: Alberta Language Development Questionnaire
 slug: ALDeQ  
 authors: Johanne Paradis, Kristyn Emmerzael, Tamara Sorenson Duncan  
 date: 2010-01-25  
-source: https://www.ualberta.ca/linguistics/cheslcentre/questionnaires.html#ALDeQ  
+source: https://sites.google.com/ualberta.ca/chesl/questionnaires  
 type: questionnaire  
 languages: English  
 tags: language-development, behavior, language-delay, multilingual, speech-pathology  
