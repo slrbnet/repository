@@ -2,6 +2,9 @@
 {% block content_title %}{% endblock %}
 {% block content %}
 {% if articles %}
+
+    {% include 'pagination.html' %}
+
     {% for article in articles_page.object_list %}
 	<div class="note_header">
 		{% if article.open_access %}
@@ -50,18 +53,10 @@
                                 {% endfor %}
             {% endif %}
         </div>
-        
-        <br>
-        
-        {% if loop.last %}
-            {% if loop.length > 1 or articles_page.has_other_pages() %}
-                {% if articles_page.has_other_pages() %}
-                    {% include 'pagination.html' %}
-                {% endif %}
-            {% endif %}
-        {% endif %}
 
     {% endfor %}
+
+    {% include 'pagination.html' %}
 
 {% else %}
 <section id="content" class="body">
