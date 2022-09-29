@@ -4,7 +4,9 @@
 {% if articles %}
 
     {% include 'pagination.html' %}
-
+    
+    <br>
+    
     {% for article in articles_page.object_list %}
 	<div class="note_header">
 		{% if article.open_access %}
@@ -53,6 +55,8 @@
                                 {% endfor %}
             {% endif %}
         </div>
+
+        <br>
 
     {% endfor %}
 
