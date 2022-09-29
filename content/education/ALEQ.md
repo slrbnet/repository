@@ -2,7 +2,7 @@ title: Alberta Language Environment Questionnaire
 slug: ALEQ  
 authors: Johanne Paradis  
 date: 2011  
-source: https://www.ualberta.ca/linguistics/cheslcentre/questionnaires.html#theal  
+source: https://sites.google.com/ualberta.ca/chesl/questionnaires  
 type: questionnaire  
 languages: English  
 tags: language-development, environment, language-exposure, behavior, speech-pathology, multilingual  
