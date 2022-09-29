@@ -81,6 +81,7 @@ p { margin-top: 1em;
 
 .paginator {
     margin: auto;
+    text-align: center;
 }
 
 strong, b {font-weight: bold;}
