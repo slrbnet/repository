@@ -3,3 +3,6 @@ __pycache__
 
 # ignore temporary files
 *~
+
+# ignore output folder
+output/*
