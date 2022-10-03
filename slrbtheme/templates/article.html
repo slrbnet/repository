@@ -1,7 +1,6 @@
 {% extends "base.html" %}
 {% block html_lang %}{{ article.lang }}{% endblock %}
 {% block head -%}
-  <main>
   {{ super() -}}
   {% if article.summary %}
         <meta name="description" content="{{ article.summary | striptags | safe | truncate(150) }}" />
@@ -11,6 +10,7 @@
 {% block title %}{{ article.title|striptags }}{% endblock %}
 
 {% block content %}
+<main>
 <section id="content" class="body">
   <article>
     <header>
