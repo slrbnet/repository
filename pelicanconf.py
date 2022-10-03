@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-import os, pelican_search
+import os
 
 AUTHOR = 'admin'
 SITENAME = 'SLRB'
