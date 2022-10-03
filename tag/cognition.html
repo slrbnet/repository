@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 			<span class="fa fa-check-circle"></span> documented&nbsp;&nbsp;
@@ -119,7 +121,7 @@
                                         <a class="url fn" href="/author/david-perrett.html">David Perrett</a>,&nbsp;
                                         <a class="url fn" href="/author/edward-de-haan.html">Edward de Haan</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2020-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2020-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://www.emotionrecognitiontask.com/">https://www.emotionrecognitiontask.com/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/emotion.html">emotion</a>,&nbsp; 
@@ -179,7 +181,7 @@
                                         <a class="url fn" href="/author/alexis-wnuk.html">Alexis Wnuk</a>,&nbsp;
                                         <a class="url fn" href="/author/jane-roskams.html">Jane Roskams</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2017-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2017-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://www.brainfacts.org/3d-brain#intro=true">https://www.brainfacts.org/3d-brain#intro=true</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/brain.html">brain</a>,&nbsp; 
@@ -199,7 +201,7 @@
 		<h4> MouseTracker is a freely available, user-friendly software package that allows researchers to record and analyze hand movements traveling toward potential responses on the screen (via the x, y coordinates of the computer mouse). </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/jon-freeman-nalini-ambady.html">Jon Freeman & Nalini Ambady</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2016-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2016-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://www.mousetracker.org/">http://www.mousetracker.org/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/software.html">software</a>,&nbsp; 
@@ -224,6 +226,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

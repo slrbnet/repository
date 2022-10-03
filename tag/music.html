@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 	</div>
@@ -46,7 +48,7 @@
 		<h4> Here you will find some sound examples demonstrating the phenomenon of "illusory sound texture." </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/richard-mcwalter-and-josh-mcdermott.html">Richard McWalter and Josh McDermott</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2019-11-29 <br>
+                <strong>Updated:</strong>&nbsp; 2019-11-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://mcdermottlab.mit.edu/textcont.html">http://mcdermottlab.mit.edu/textcont.html</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/sound-texture.html">sound-texture</a>,&nbsp; 
@@ -86,7 +88,7 @@
                                         <a class="url fn" href="/author/nancy-g-kanwisher.html">Nancy G. Kanwisher</a>,&nbsp;
                                         <a class="url fn" href="/author/josh-h-mcdermott.html">Josh H. McDermott</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2015-11-29 <br>
+                <strong>Updated:</strong>&nbsp; 2015-11-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://mcdermottlab.mit.edu/svnh/Natural-Sound/Stimuli.html">http://mcdermottlab.mit.edu/svnh/Natural-Sound/Stimuli.html</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/speech.html">speech</a>,&nbsp; 
@@ -117,6 +119,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

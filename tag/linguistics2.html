@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -39,7 +40,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 	</div>
@@ -48,7 +50,7 @@
 		<h4> Wuggy is a pseudoword generator particularly geared towards making nonwords for psycholinguistic experiments. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/emmanuel-keuleers-and-marc-brysbaert.html">Emmanuel Keuleers and Marc Brysbaert</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2010-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2010-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://crr.ugent.be/programs-data/wuggy">http://crr.ugent.be/programs-data/wuggy</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/linguistics.html">linguistics</a>,&nbsp; 
@@ -70,7 +72,7 @@
 		<h4> The Bilingual Aphasia Test (BAT) was designed to assess each of the languages of a bilingual or multilingual individual with aphasia in an equivalent way. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/mcgill-university-neurolinguistics-lab.html">McGill University Neurolinguistics Lab</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2009-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2009-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://www.mcgill.ca/linguistics/research/bat">https://www.mcgill.ca/linguistics/research/bat</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/bilinguial.html">bilinguial</a>,&nbsp; 
@@ -90,7 +92,7 @@
 		<h4> The British National Corpus (BNC) was originally created by Oxford University press in the 1980s - early 1990s, and it contains 100 million words of text from a wide range of genres (e.g. spoken, fiction, magazines, newspapers, and academic). </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/oxford-university-press.html">Oxford University Press</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2007-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2007-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://www.english-corpora.org/bnc/">https://www.english-corpora.org/bnc/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/english.html">English</a>,&nbsp; 
@@ -111,7 +113,7 @@
 		<h4> An interactive chart for the pronounciations of the international phonetic alphabet. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/peter-isotalo.html">Peter Isotalo</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2003-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2003-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://www.ipachart.com/">https://www.ipachart.com/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/ipa.html">IPA</a>,&nbsp; 
@@ -138,6 +140,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

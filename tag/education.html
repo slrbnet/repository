@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 	</div>
@@ -194,7 +196,7 @@
                                         <a class="url fn" href="/author/brendan-puls.html">Brendan Puls</a>,&nbsp;
                                         <a class="url fn" href="/author/anya-yu.html">Anya Yu</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2020-11-29 <br>
+                <strong>Updated:</strong>&nbsp; 2020-11-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://lhq3.herokuapp.com/">https://lhq3.herokuapp.com/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/language.html">language</a>,&nbsp; 
@@ -213,7 +215,7 @@
 		<h4> Stories told in sign language by fluent Deaf storytellers. Easy & accessible navigation designed for children. Page-by-page sign language videos supporting the printed sentences text. Rich interactive narrative with direct English to ASL vocabulary video translation. 120+ new vocabulary words with each app. Parents can learn new ASL signs along with their child. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/motion-light-lab.html">Motion Light Lab</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2020-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2020-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://vl2storybookapps.com/digital-library">https://vl2storybookapps.com/digital-library</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/language.html">language</a>,&nbsp; 
@@ -258,7 +260,7 @@
 		<h4> Simple activities and demonstrations to use along with the Sensory Systems apps to enhance the experience of each sense. All use inexpensive or on-hand materials and can be used in a variety of ways. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/university-of-utah-health-sciences-genetic-science-learning-center.html">University of Utah Health Sciences: Genetic Science Learning Center</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2015-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2015-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://teach.genetics.utah.edu/content/senses/">https://teach.genetics.utah.edu/content/senses/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/sensory.html">sensory</a>,&nbsp; 
@@ -283,7 +285,7 @@
 		<h4> The Program for Open-Ended Scoring (POES) is a computer program used to score open-ended tests. It was originally designed to score the Levels of Emotional Aareness Scale (LEAS), but it can also be used to score other text material. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/duncan-ermini-leaf-kimberly-a-barchard.html">Duncan Ermini Leaf & Kimberly A. Barchard</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2013-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2013-09-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://github.com/deleaf/poes">https://github.com/deleaf/poes</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/psychology.html">psychology</a>,&nbsp; 
@@ -330,6 +332,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 			<span class="fa fa-check-circle"></span> documented&nbsp;&nbsp;
@@ -141,7 +143,7 @@
                                         <a class="url fn" href="/author/nancy-g-kanwisher.html">Nancy G. Kanwisher</a>,&nbsp;
                                         <a class="url fn" href="/author/josh-h-mcdermott.html">Josh H. McDermott</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2015-11-29 <br>
+                <strong>Updated:</strong>&nbsp; 2015-11-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://mcdermottlab.mit.edu/svnh/Natural-Sound/Stimuli.html">http://mcdermottlab.mit.edu/svnh/Natural-Sound/Stimuli.html</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/speech.html">speech</a>,&nbsp; 
@@ -229,7 +231,7 @@
 		<h4> The cocktail party problem is the task of hearing a sound of interest, often a speech signal, in a complex auditory setting. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/josh-h-mcdermott.html">Josh H. McDermott</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2009-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2009-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://mcdermottlab.mit.edu/cocktail_examples/index.html">http://mcdermottlab.mit.edu/cocktail_examples/index.html</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/audition.html">audition</a>,&nbsp; 
@@ -276,6 +278,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 	</div>
@@ -46,7 +48,7 @@
 		<h4> Wuggy is a pseudoword generator particularly geared towards making nonwords for psycholinguistic experiments. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/emmanuel-keuleers-and-marc-brysbaert.html">Emmanuel Keuleers and Marc Brysbaert</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2010-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2010-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://crr.ugent.be/programs-data/wuggy">http://crr.ugent.be/programs-data/wuggy</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/linguistics.html">linguistics</a>,&nbsp; 
@@ -74,6 +76,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

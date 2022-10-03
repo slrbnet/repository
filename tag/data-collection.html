@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 			<span class="fa fa-check-circle"></span> documented&nbsp;&nbsp;
@@ -47,7 +49,7 @@
 		<h4> E-Prime® is the most comprehensive stimulus presentation software available. Design experiments using E-Prime’s intuitive interface. </h4>
                 <strong>Authors:</strong>&nbsp;                                          <a class="url fn" href="/author/walter-schneider-and-anthony-zuccolotto.html">Walter Schneider and Anthony Zuccolotto</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2021-09-29 <br>
+                <strong>Updated:</strong>&nbsp; 2021-10-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="https://pstnet.com/products/e-prime/">https://pstnet.com/products/e-prime/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/software.html">software</a>,&nbsp; 
@@ -96,6 +98,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->

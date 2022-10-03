@@ -17,6 +17,7 @@
     		});
 	</script>
 
+	<link rel="stylesheet" href="https://files.stork-search.net/basic.css" />
 </head>
 
 <body id="index" class="home">
@@ -37,7 +38,8 @@
 </p>
     
     <br>
-    
+    Search: <input data-stork="sitesearch" />
+	<div data-stork="sitesearch-output"></div>
 	<div class="note_header">
 			<span class="fa fa-unlock-alt"></span> open&nbsp;&nbsp;
 	</div>
@@ -58,7 +60,7 @@
                                         <a class="url fn" href="/author/ben.html">Ben</a>,&nbsp;
                                         <a class="url fn" href="/author/mitra.html">Mitra</a>
  <br>
-                <strong>Updated:</strong>&nbsp; 2021-06-29 <br>
+                <strong>Updated:</strong>&nbsp; 2021-06-03 <br>
             <!-- <br> -->
 		<strong>Source:</strong>&nbsp; <a href="http://speechbanana.jhu.edu/">http://speechbanana.jhu.edu/</a><br>
                 <strong>Keywords:</strong>&nbsp;                                         <a href="/tag/speech-recognition.html">speech-recognition</a>,&nbsp; 
@@ -85,6 +87,10 @@
                 <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p> -->
         </footer><!-- /#contentinfo -->
 
+	<script src="https://files.stork-search.net/releases/v1.5.0/stork.js"></script>
+	<script>
+		stork.register("sitesearch", "/search-index.st")
+	</script>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
