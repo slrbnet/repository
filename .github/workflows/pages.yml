@@ -19,8 +19,8 @@ jobs:
       - run: sudo pip install pelican markdown
       - run: |
           export STORKVERSION="v1.5.0"
-          wget -O stork https://files.stork-search.net/releases/$STORKVERSION/stork-ubuntu-20-04
-          chmod +x stork
+          sudo wget -O /usr/local/bin/stork https://files.stork-search.net/releases/$STORKVERSION/stork-ubuntu-20-04
+          sudo chmod +x /usr/local/bin/stork
           sudo pip install pelican-search
       - name: Build
         run: |
