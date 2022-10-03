@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-import os
+import os, pelican_search
 
 AUTHOR = 'admin'
 SITENAME = 'SLRB'
@@ -28,6 +28,7 @@ AUTHOR_FEED_RSS = None
 # Plugins
 PLUGIN_PATHS = ['plugins']
 # PLUGINS = ['tipue_search.tipue_search']
+PLUGINS = ['pelican.plugins.search']
 
 # Blogroll
 LINKS = (('Pelican', 'https://getpelican.com/'),
