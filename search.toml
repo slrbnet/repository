@@ -8,6 +8,11 @@ url = "/pages/home.html"
 title = "home"
 
 [[input.files]]
+path = "pages/search.html"
+url = "/pages/search.html"
+title = "search"
+
+[[input.files]]
 path = "speech-processing.html"
 url = "/speech-processing.html"
 title = "Introduction to Speech Processing"
