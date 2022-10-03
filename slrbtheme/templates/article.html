@@ -7,10 +7,10 @@
   {% endif %}
 {% endblock %}
 
-<main>
 {% block title %}{{ article.title|striptags }}{% endblock %}
 
 {% block content %}
+<main>
 <section id="content" class="body">
   <article>
     <header>
@@ -107,5 +107,5 @@
 		
   </article>
 </section>
-{% endblock %}
 </main>
+{% endblock %}
