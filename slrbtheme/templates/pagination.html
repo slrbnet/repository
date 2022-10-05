@@ -3,13 +3,13 @@
 {% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
 <p class="paginator">
     {% if articles_page.has_previous() %}
-        <a href="{{ SITEURL }}/{{ first_page.url }}"><i class="fa-solid fa-arrow-left-to-line"></i></a>
-        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}"><i class="fa-arrow-circle-left"></i></a>
+        <a href="{{ SITEURL }}/{{ first_page.url }}"><img src="theme/images/icons/arrow-left-stop.png" alt="|<"></a>
+        <a href="{{ SITEURL }}/{{ articles_previous_page.url }}"><img src="theme/images/icons/arrow-left.png" alt="<"></a>
     {% endif %}
     Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
     {% if articles_page.has_next() %}
-        <a href="{{ SITEURL }}/{{ articles_next_page.url }}"><i class="fa-arrow-circle-right"></i></a>
-        <a href="{{ SITEURL }}/{{ last_page.url }}"><i class="fa-solid fa-arrow-right-to-line"></i></a>
+        <a href="{{ SITEURL }}/{{ articles_next_page.url }}"><img src="theme/images/icons/arrow-right.png" alt=">"></a>
+        <a href="{{ SITEURL }}/{{ last_page.url }}"><img src="theme/images/icons/arrow-right-stop.png" alt=">|"></a>
     {% endif %}
 </p>
 {% endif %}
