@@ -1,5 +1,5 @@
 Title: search
 
-<input type="text" data-stork="sitesearch" placeholder="Search...">
+<input class="search-input" type="text" data-stork="sitesearch" placeholder="Search...">
 <br>
-<div data-stork="sitesearch-output"></div>
+<div class="search-output" data-stork="sitesearch-output"></div>
