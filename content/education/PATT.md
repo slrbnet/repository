@@ -2,7 +2,7 @@ title: Phonological Assessment and Treatment Target (PATT) Selection
 slug: PATT  
 authors: Jessica Barlow, Jennifer Taps Richard, Holly Storkel, Philip Combiths, Ray Amberg  
 date: 2016  
-source: https://slhs.sdsu.edu/phont/the-patt/  
+source: https://cld.lab.uiowa.edu/resources-slps-0/patt-and-autopatt  
 type: PDFs & Phon Script  
 languages: English, Spanish  
 tags: phonology, linguistics, speech, language, English, Spanish  
