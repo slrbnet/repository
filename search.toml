@@ -123,11 +123,6 @@ url = "/MPTinR.html"
 title = "MPTinR"
 
 [[input.files]]
-path = "DLD-toolbox.html"
-url = "/DLD-toolbox.html"
-title = "The DLD Diagnostics Toolbox"
-
-[[input.files]]
 path = "event-task.html"
 url = "/event-task.html"
 title = "The Event Task Stimulus Set"
