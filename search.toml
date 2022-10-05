@@ -88,11 +88,6 @@ url = "/NIM.html"
 title = "NIM"
 
 [[input.files]]
-path = "aphasia-games.html"
-url = "/aphasia-games.html"
-title = "Aphasia Games for Health"
-
-[[input.files]]
 path = "e-prime.html"
 url = "/e-prime.html"
 title = "E-Prime"
