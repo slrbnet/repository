@@ -74,6 +74,14 @@ button {
   cursor: pointer;
 }
 
+.search-input {
+    margin: auto;
+}
+
+.search-output {
+    margin: auto;
+}
+
 /* Paragraphs */
 div.line-block,
 p { margin-top: 1em;
