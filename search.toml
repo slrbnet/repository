@@ -78,11 +78,6 @@ url = "/ALICE.html"
 title = "Automatic Linguistic Unit Count Estimator (ALICE)"
 
 [[input.files]]
-path = "psiTurk.html"
-url = "/psiTurk.html"
-title = "psiTurk"
-
-[[input.files]]
 path = "LinguaPix.html"
 url = "/LinguaPix.html"
 title = "LinguaPix"
@@ -101,6 +96,11 @@ title = "Aphasia Games for Health"
 path = "e-prime.html"
 url = "/e-prime.html"
 title = "E-Prime"
+
+[[input.files]]
+path = "psiTurk.html"
+url = "/psiTurk.html"
+title = "psiTurk"
 
 [[input.files]]
 path = "vocal-tract-imaging.html"
@@ -158,14 +158,14 @@ url = "/psychopy.html"
 title = "PsychoPy"
 
 [[input.files]]
-path = "ANLffr.html"
-url = "/ANLffr.html"
-title = "ANL Frequency-Following Responses"
-
-[[input.files]]
 path = "GSB.html"
 url = "/GSB.html"
 title = "Global Signbank"
+
+[[input.files]]
+path = "ANLffr.html"
+url = "/ANLffr.html"
+title = "ANL Frequency-Following Responses"
 
 [[input.files]]
 path = "childLex.html"
