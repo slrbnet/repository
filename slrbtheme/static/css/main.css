@@ -76,6 +76,11 @@ button {
 
 .search-input {
     margin: auto;
+	padding: 15px;
+	border-radius: 16px;
+    font-size: 17px;
+    width: 50%;
+    background: #FFFFFF;
 }
 
 .search-output {
