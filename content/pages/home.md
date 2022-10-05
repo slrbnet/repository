@@ -45,3 +45,8 @@ Resources that may be used in designing or implementing experiments on speech an
 Charles Redmon ([email](mailto:charles.redmon@ling-phil.ox.ac.uk))  
 Matthew C. Kelley ([email](mailto:matthew.c.kelley@ualberta.ca))  
 Benjamin V. Tucker ([email](mailto:benjamin.tucker@ualberta.ca))  
+
+<br>
+
+### Attributions
+<a href="https://www.flaticon.com/free-icons/user-interface" title="user interface icons">User interface icons created by Handicon - Flaticon</a>
