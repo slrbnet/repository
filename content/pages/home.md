@@ -43,7 +43,7 @@ Resources that may be used in designing or implementing experiments on speech an
 
 ### Maintainers
 Charles Redmon ([email](mailto:charles.redmon@ling-phil.ox.ac.uk))  
-Matthew C. Kelley ([email](mailto:matthew.c.kelley@ualberta.ca))  
+Matthew C. Kelley ([email](mailto:mattck@uw.edu))  
 Benjamin V. Tucker ([email](mailto:benjamin.tucker@ualberta.ca))  
 
 <br>
