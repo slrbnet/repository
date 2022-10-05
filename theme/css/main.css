@@ -75,16 +75,19 @@ button {
 }
 
 .search-input {
-    margin: auto;
-	padding: 15px;
-	border-radius: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 8px;
     font-size: 17px;
     width: 50%;
     background: #FFFFFF;
 }
 
 .search-output {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Paragraphs */
