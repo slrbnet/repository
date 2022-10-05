@@ -1,11 +1,9 @@
 {% set first_page = articles_paginator.page(1) %}
 {% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
-<p class="paginator">
-<div>
+<div class="paginator">
     <a href="{{ SITEURL }}/{{ first_page.url }}"><img src="https://slrb.net/theme/images/icons/arrow-left-stop.png" alt="|<" style="vertical-align:middle;width:32px;height:32px;"></a>
     <a href="{{ SITEURL }}/{{ articles_previous_page.url }}"><img src="https://slrb.net/theme/images/icons/arrow-left.png" alt="<" style="vertical-align:middle;width:32px;height:32px;"></a>
     Page {{ articles_page.number }} / {{ articles_paginator.num_pages }}
     <a href="{{ SITEURL }}/{{ articles_next_page.url }}"><img src="https://slrb.net/theme/images/icons/arrow-right.png" alt=">" style="vertical-align:middle;width:32px;height:32px;"></a>
     <a href="{{ SITEURL }}/{{ last_page.url }}"><img src="https://slrb.net/theme/images/icons/arrow-right-stop.png" alt=">|" style="vertical-align:middle;width:32px;height:32px;"></a>
 </div>
-</p>
