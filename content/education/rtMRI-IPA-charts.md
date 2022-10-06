@@ -1,7 +1,7 @@
 title: Real-time MRI IPA Charts  
 slug: rtMRI-IPA-charts  
 authors: Asterios Toutios, Sajan Goud Lingala, Colin Vaz, Jangwon Kim, John Esling, Patricia Keating, Matthew Gordon, Dani Byrd, Louis Goldstein, Krishna Nayak, Shrikanth Narayanan  
-date: 2016-09-08  
+date: 2021-09-08  
 source: https://sail.usc.edu/span/rtmri_ipa/  
 type: software (online)  
 languages: cross-linguistic  
