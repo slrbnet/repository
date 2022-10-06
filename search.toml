@@ -93,19 +93,24 @@ url = "/e-prime.html"
 title = "E-Prime"
 
 [[input.files]]
-path = "psiTurk.html"
-url = "/psiTurk.html"
-title = "psiTurk"
-
-[[input.files]]
 path = "vocal-tract-imaging.html"
 url = "/vocal-tract-imaging.html"
 title = "Vocal Tract Imaging: MR and CT Images"
 
 [[input.files]]
+path = "psiTurk.html"
+url = "/psiTurk.html"
+title = "psiTurk"
+
+[[input.files]]
 path = "2i2c.html"
 url = "/2i2c.html"
 title = "2i2c"
+
+[[input.files]]
+path = "rtMRI-IPA-charts.html"
+url = "/rtMRI-IPA-charts.html"
+title = "Real-time MRI IPA Charts"
 
 [[input.files]]
 path = "opensesame.html"
@@ -558,11 +563,6 @@ url = "/BALDEY.html"
 title = "BALDEY Database of Auditory Lexical Decisions"
 
 [[input.files]]
-path = "rtMRI-IPA-charts.html"
-url = "/rtMRI-IPA-charts.html"
-title = "Real-time MRI IPA Charts"
-
-[[input.files]]
 path = "AUX.html"
 url = "/AUX.html"
 title = "AUditory syntaX (AUX)"
@@ -633,14 +633,14 @@ url = "/CGN.html"
 title = "Corpus Gesproken Nederlands (The Spoken Dutch Corpus)"
 
 [[input.files]]
-path = "USC-EMO-MRI.html"
-url = "/USC-EMO-MRI.html"
-title = "USC-EMO-MRI: An emotional speech production database"
-
-[[input.files]]
 path = "nccc.html"
 url = "/nccc.html"
 title = "Nijmegen Corpus of Casual Czech"
+
+[[input.files]]
+path = "USC-EMO-MRI.html"
+url = "/USC-EMO-MRI.html"
+title = "USC-EMO-MRI: An emotional speech production database"
 
 [[input.files]]
 path = "daoacr.html"
