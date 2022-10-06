@@ -108,11 +108,6 @@ url = "/2i2c.html"
 title = "2i2c"
 
 [[input.files]]
-path = "rtMRI-IPA-charts.html"
-url = "/rtMRI-IPA-charts.html"
-title = "Real-time MRI IPA Charts"
-
-[[input.files]]
 path = "opensesame.html"
 url = "/opensesame.html"
 title = "OpenSesame"
@@ -561,6 +556,11 @@ title = "Similarity Neighborhood Calculator"
 path = "BALDEY.html"
 url = "/BALDEY.html"
 title = "BALDEY Database of Auditory Lexical Decisions"
+
+[[input.files]]
+path = "rtMRI-IPA-charts.html"
+url = "/rtMRI-IPA-charts.html"
+title = "Real-time MRI IPA Charts"
 
 [[input.files]]
 path = "AUX.html"
