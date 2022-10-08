@@ -18,11 +18,6 @@ url = "/speech-processing.html"
 title = "Introduction to Speech Processing"
 
 [[input.files]]
-path = "FreeSurfer.html"
-url = "/FreeSurfer.html"
-title = "FreeSurfer"
-
-[[input.files]]
 path = "case-studies-python.html"
 url = "/case-studies-python.html"
 title = "Case-Studies-Python"
@@ -438,14 +433,14 @@ url = "/schema-learning.html"
 title = "Schema Learning for the Cocktail Party Problem"
 
 [[input.files]]
-path = "ANGUS.html"
-url = "/ANGUS.html"
-title = "ANGUS"
-
-[[input.files]]
 path = "CLEESE.html"
 url = "/CLEESE.html"
 title = "Combinatorial Expressive Speech Engine"
+
+[[input.files]]
+path = "ANGUS.html"
+url = "/ANGUS.html"
+title = "ANGUS"
 
 [[input.files]]
 path = "TAALES.html"
