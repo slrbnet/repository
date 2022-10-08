@@ -18,11 +18,6 @@ url = "/speech-processing.html"
 title = "Introduction to Speech Processing"
 
 [[input.files]]
-path = "case-studies-python.html"
-url = "/case-studies-python.html"
-title = "Case-Studies-Python"
-
-[[input.files]]
 path = "tatool.html"
 url = "/tatool.html"
 title = "Tatool"
