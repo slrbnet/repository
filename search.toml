@@ -118,11 +118,6 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
-path = "pair-test.html"
-url = "/pair-test.html"
-title = "The Pair Test"
-
-[[input.files]]
 path = "psychopy.html"
 url = "/psychopy.html"
 title = "PsychoPy"
