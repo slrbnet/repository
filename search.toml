@@ -38,11 +38,6 @@ url = "/PyGaze.html"
 title = "PyGaze"
 
 [[input.files]]
-path = "MNE-Python.html"
-url = "/MNE-Python.html"
-title = "MNE-Python"
-
-[[input.files]]
 path = "DGS.html"
 url = "/DGS.html"
 title = "Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)"
