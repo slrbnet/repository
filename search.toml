@@ -103,11 +103,6 @@ url = "/headphone-screen.html"
 title = "Efficient Headphone Screen"
 
 [[input.files]]
-path = "MPTinR.html"
-url = "/MPTinR.html"
-title = "MPTinR"
-
-[[input.files]]
 path = "event-task.html"
 url = "/event-task.html"
 title = "The Event Task Stimulus Set"
