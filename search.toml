@@ -288,11 +288,6 @@ url = "/AELP.html"
 title = "Auditory English Lexicon Project"
 
 [[input.files]]
-path = "CRIE.html"
-url = "/CRIE.html"
-title = "Chinese Readability Index Explorer (CRIE)"
-
-[[input.files]]
 path = "elexicon.html"
 url = "/elexicon.html"
 title = "The English Lexicon Project"
