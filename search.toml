@@ -203,11 +203,6 @@ url = "/ERT.html"
 title = "The Emotion Recognition Task"
 
 [[input.files]]
-path = "SemDis.html"
-url = "/SemDis.html"
-title = "SemDis"
-
-[[input.files]]
 path = "StimuliApp.html"
 url = "/StimuliApp.html"
 title = "StimuliApp"
