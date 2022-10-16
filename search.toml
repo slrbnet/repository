@@ -260,7 +260,7 @@ title = "Corpus of Contemporary American English"
 [[input.files]]
 path = "ArtLex-en.html"
 url = "/ArtLex-en.html"
-title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker"
+title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker of American English"
 
 [[input.files]]
 path = "FLP.html"
