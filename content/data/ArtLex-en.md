@@ -1,4 +1,4 @@
-title: ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker  
+title: ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker of American English  
 slug: ArtLex-en  
 authors: Charles Redmon, Seulgi Shin, Panying Rong  
 date: 2020-03-10  
