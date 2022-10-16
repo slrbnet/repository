@@ -103,14 +103,14 @@ url = "/headphone-screen.html"
 title = "Efficient Headphone Screen"
 
 [[input.files]]
-path = "event-task.html"
-url = "/event-task.html"
-title = "The Event Task Stimulus Set"
-
-[[input.files]]
 path = "speech-banana.html"
 url = "/speech-banana.html"
 title = "Speech Banana"
+
+[[input.files]]
+path = "event-task.html"
+url = "/event-task.html"
+title = "The Event Task Stimulus Set"
 
 [[input.files]]
 path = "SpiCE.html"
@@ -118,14 +118,14 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
-path = "psychopy.html"
-url = "/psychopy.html"
-title = "PsychoPy"
-
-[[input.files]]
 path = "GSB.html"
 url = "/GSB.html"
 title = "Global Signbank"
+
+[[input.files]]
+path = "psychopy.html"
+url = "/psychopy.html"
+title = "PsychoPy"
 
 [[input.files]]
 path = "ANLffr.html"
@@ -168,14 +168,14 @@ url = "/ratcave.html"
 title = "Ratcave"
 
 [[input.files]]
-path = "phonetics-images.html"
-url = "/phonetics-images.html"
-title = "Phonetics Images"
-
-[[input.files]]
 path = "ASL-LEX.html"
 url = "/ASL-LEX.html"
 title = "ASL-LEX"
+
+[[input.files]]
+path = "phonetics-images.html"
+url = "/phonetics-images.html"
+title = "Phonetics Images"
 
 [[input.files]]
 path = "acoustics-vibration-animations.html"
@@ -256,6 +256,11 @@ title = "The English Crowdsourcing Project (L2 speakers)"
 path = "COCA.html"
 url = "/COCA.html"
 title = "Corpus of Contemporary American English"
+
+[[input.files]]
+path = "ArtLex-en.html"
+url = "/ArtLex-en.html"
+title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker"
 
 [[input.files]]
 path = "FLP.html"
@@ -533,14 +538,14 @@ url = "/AUX.html"
 title = "AUditory syntaX (AUX)"
 
 [[input.files]]
-path = "NVCL-20.html"
-url = "/NVCL-20.html"
-title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
-
-[[input.files]]
 path = "natural-sounds.html"
 url = "/natural-sounds.html"
 title = "Natural Sounds Stimulus Set"
+
+[[input.files]]
+path = "NVCL-20.html"
+url = "/NVCL-20.html"
+title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
 
 [[input.files]]
 path = "HomeBank.html"
@@ -588,14 +593,14 @@ url = "/USC-TIMIT.html"
 title = "USC-TIMIT: A database of multimodal speech production data"
 
 [[input.files]]
-path = "PhonItalia.html"
-url = "/PhonItalia.html"
-title = "PhonItalia"
-
-[[input.files]]
 path = "CGN.html"
 url = "/CGN.html"
 title = "Corpus Gesproken Nederlands (The Spoken Dutch Corpus)"
+
+[[input.files]]
+path = "PhonItalia.html"
+url = "/PhonItalia.html"
+title = "PhonItalia"
 
 [[input.files]]
 path = "nccc.html"
@@ -633,14 +638,14 @@ url = "/wals.html"
 title = "The World Atlas of Language Structures"
 
 [[input.files]]
-path = "ECR.html"
-url = "/ECR.html"
-title = "English Concreteness Ratings"
-
-[[input.files]]
 path = "POES.html"
 url = "/POES.html"
 title = "Program for Open-Ended Scoring"
+
+[[input.files]]
+path = "ECR.html"
+url = "/ECR.html"
+title = "English Concreteness Ratings"
 
 [[input.files]]
 path = "le-talker.html"
