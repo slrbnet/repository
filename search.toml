@@ -43,26 +43,6 @@ url = "/DGS.html"
 title = "Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)"
 
 [[input.files]]
-path = "soundgen.html"
-url = "/soundgen.html"
-title = "Soundgen"
-
-[[input.files]]
-path = "expyriment.html"
-url = "/expyriment.html"
-title = "Expyriment"
-
-[[input.files]]
-path = "psynteract.html"
-url = "/psynteract.html"
-title = "Psynteract"
-
-[[input.files]]
-path = "ALICE.html"
-url = "/ALICE.html"
-title = "Automatic Linguistic Unit Count Estimator (ALICE)"
-
-[[input.files]]
 path = "LinguaPix.html"
 url = "/LinguaPix.html"
 title = "LinguaPix"
@@ -81,6 +61,26 @@ title = "E-Prime"
 path = "vocal-tract-imaging.html"
 url = "/vocal-tract-imaging.html"
 title = "Vocal Tract Imaging: MR and CT Images"
+
+[[input.files]]
+path = "soundgen.html"
+url = "/soundgen.html"
+title = "Soundgen"
+
+[[input.files]]
+path = "expyriment.html"
+url = "/expyriment.html"
+title = "Expyriment"
+
+[[input.files]]
+path = "psynteract.html"
+url = "/psynteract.html"
+title = "Psynteract"
+
+[[input.files]]
+path = "ALICE.html"
+url = "/ALICE.html"
+title = "Automatic Linguistic Unit Count Estimator (ALICE)"
 
 [[input.files]]
 path = "psiTurk.html"
@@ -163,14 +163,14 @@ url = "/deep-learning-tutorials.html"
 title = "Deep Learning Tutorials"
 
 [[input.files]]
-path = "ratcave.html"
-url = "/ratcave.html"
-title = "Ratcave"
-
-[[input.files]]
 path = "ASL-LEX.html"
 url = "/ASL-LEX.html"
 title = "ASL-LEX"
+
+[[input.files]]
+path = "ratcave.html"
+url = "/ratcave.html"
+title = "Ratcave"
 
 [[input.files]]
 path = "phonetics-images.html"
@@ -181,11 +181,6 @@ title = "Phonetics Images"
 path = "acoustics-vibration-animations.html"
 url = "/acoustics-vibration-animations.html"
 title = "Acoustics and Vibration Animations"
-
-[[input.files]]
-path = "LHQ3.html"
-url = "/LHQ3.html"
-title = "Language History Questionnaire (version 3)"
 
 [[input.files]]
 path = "ASL-CDI.html"
@@ -201,6 +196,11 @@ title = "Corpus of Dutch Sign Language"
 path = "ERT.html"
 url = "/ERT.html"
 title = "The Emotion Recognition Task"
+
+[[input.files]]
+path = "LHQ3.html"
+url = "/LHQ3.html"
+title = "Language History Questionnaire (version 3)"
 
 [[input.files]]
 path = "StimuliApp.html"
@@ -278,6 +278,11 @@ url = "/KEC.html"
 title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
 
 [[input.files]]
+path = "AELP.html"
+url = "/AELP.html"
+title = "Auditory English Lexicon Project"
+
+[[input.files]]
 path = "illusory-texture.html"
 url = "/illusory-texture.html"
 title = "Illusory Texture Demos"
@@ -286,11 +291,6 @@ title = "Illusory Texture Demos"
 path = "CMUSphinx.html"
 url = "/CMUSphinx.html"
 title = "CMUSphinx4"
-
-[[input.files]]
-path = "AELP.html"
-url = "/AELP.html"
-title = "Auditory English Lexicon Project"
 
 [[input.files]]
 path = "elexicon.html"
@@ -333,11 +333,6 @@ url = "/model-match.html"
 title = "Model-Matched Sounds"
 
 [[input.files]]
-path = "SPALEX.html"
-url = "/SPALEX.html"
-title = "The Spanish Crowdsourcing Project SPALEX"
-
-[[input.files]]
 path = "PBCM.html"
 url = "/PBCM.html"
 title = "PBCM: Code-mixed Hindi-English corpus"
@@ -356,6 +351,11 @@ title = "Linguistic Annotated Bibliography"
 path = "phonotactic-probability-calculator.html"
 url = "/phonotactic-probability-calculator.html"
 title = "Phonotactic Probability Calculator"
+
+[[input.files]]
+path = "SPALEX.html"
+url = "/SPALEX.html"
+title = "The Spanish Crowdsourcing Project SPALEX"
 
 [[input.files]]
 path = "pycochleagram.html"
@@ -433,14 +433,14 @@ url = "/pitch-perception.html"
 title = "Inharmonic Pitch perception"
 
 [[input.files]]
-path = "aoar.html"
-url = "/aoar.html"
-title = "Age of Acquisition Ratings"
-
-[[input.files]]
 path = "3D-Brain.html"
 url = "/3D-Brain.html"
 title = "3D Brain"
+
+[[input.files]]
+path = "aoar.html"
+url = "/aoar.html"
+title = "Age of Acquisition Ratings"
 
 [[input.files]]
 path = "chronset.html"
@@ -538,9 +538,19 @@ url = "/AUX.html"
 title = "AUditory syntaX (AUX)"
 
 [[input.files]]
+path = "jsPsych.html"
+url = "/jsPsych.html"
+title = "jsPsych"
+
+[[input.files]]
 path = "natural-sounds.html"
 url = "/natural-sounds.html"
 title = "Natural Sounds Stimulus Set"
+
+[[input.files]]
+path = "sensory-systems.html"
+url = "/sensory-systems.html"
+title = "Sensory Systems - Companion Activities"
 
 [[input.files]]
 path = "NVCL-20.html"
@@ -551,16 +561,6 @@ title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
 path = "HomeBank.html"
 url = "/HomeBank.html"
 title = "HomeBank"
-
-[[input.files]]
-path = "jsPsych.html"
-url = "/jsPsych.html"
-title = "jsPsych"
-
-[[input.files]]
-path = "sensory-systems.html"
-url = "/sensory-systems.html"
-title = "Sensory Systems - Companion Activities"
 
 [[input.files]]
 path = "DAVID.html"
@@ -628,14 +628,14 @@ url = "/pitch-localizer.html"
 title = "Efficient Pitch Localizer"
 
 [[input.files]]
-path = "nanny.html"
-url = "/nanny.html"
-title = "Nanny"
-
-[[input.files]]
 path = "wals.html"
 url = "/wals.html"
 title = "The World Atlas of Language Structures"
+
+[[input.files]]
+path = "nanny.html"
+url = "/nanny.html"
+title = "Nanny"
 
 [[input.files]]
 path = "POES.html"
@@ -713,11 +713,6 @@ url = "/music-scrambling.html"
 title = "Music Scrambling"
 
 [[input.files]]
-path = "DLP.html"
-url = "/DLP.html"
-title = "The Dutch Lexicon Project"
-
-[[input.files]]
 path = "CAN.html"
 url = "/CAN.html"
 title = "Strathy Corpus of Canadian English"
@@ -743,6 +738,11 @@ url = "/wuggy.html"
 title = "Wuggy"
 
 [[input.files]]
+path = "DLP.html"
+url = "/DLP.html"
+title = "The Dutch Lexicon Project"
+
+[[input.files]]
 path = "consonance.html"
 url = "/consonance.html"
 title = "Consonance"
@@ -763,14 +763,14 @@ url = "/cocktail-party.html"
 title = "Cocktail Party Problem"
 
 [[input.files]]
-path = "IEMOCAP.html"
-url = "/IEMOCAP.html"
-title = "IEMOCAP: The Interactive Emotional Dyadic Motion Capture Database"
-
-[[input.files]]
 path = "DBD.html"
 url = "/DBD.html"
 title = "Dutch Bilingualism Database"
+
+[[input.files]]
+path = "IEMOCAP.html"
+url = "/IEMOCAP.html"
+title = "IEMOCAP: The Interactive Emotional Dyadic Motion Capture Database"
 
 [[input.files]]
 path = "sound-contour.html"
