@@ -14,7 +14,7 @@ This repository serves as a central hub for the organization of computational re
 
 ### Contributors
 Sarah Brooks  
-Aarya Menon
+Aarya Menon ([email](mailto:anmenon@ualberta.ca))
 
 ### Maintainers
 Charles Redmon ([email](mailto:charles.redmon@ling-phil.ox.ac.uk))  
