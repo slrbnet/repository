@@ -278,6 +278,11 @@ url = "/AELP.html"
 title = "Auditory English Lexicon Project"
 
 [[input.files]]
+path = "Phoible.html"
+url = "/Phoible.html"
+title = "Phoible"
+
+[[input.files]]
 path = "KEC.html"
 url = "/KEC.html"
 title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
