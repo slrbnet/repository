@@ -33,16 +33,6 @@ url = "/protosc.html"
 title = "The Prototypical Stimulus Characteristics Toolbox: Protosc"
 
 [[input.files]]
-path = "PyGaze.html"
-url = "/PyGaze.html"
-title = "PyGaze"
-
-[[input.files]]
-path = "DGS.html"
-url = "/DGS.html"
-title = "Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)"
-
-[[input.files]]
 path = "LinguaPix.html"
 url = "/LinguaPix.html"
 title = "LinguaPix"
@@ -61,6 +51,16 @@ title = "E-Prime"
 path = "vocal-tract-imaging.html"
 url = "/vocal-tract-imaging.html"
 title = "Vocal Tract Imaging: MR and CT Images"
+
+[[input.files]]
+path = "PyGaze.html"
+url = "/PyGaze.html"
+title = "PyGaze"
+
+[[input.files]]
+path = "DGS.html"
+url = "/DGS.html"
+title = "Psycholinguistic norms for more than 300 lexical signs in German Sign Language (DGS)"
 
 [[input.files]]
 path = "soundgen.html"
@@ -103,14 +103,14 @@ url = "/headphone-screen.html"
 title = "Efficient Headphone Screen"
 
 [[input.files]]
-path = "speech-banana.html"
-url = "/speech-banana.html"
-title = "Speech Banana"
-
-[[input.files]]
 path = "event-task.html"
 url = "/event-task.html"
 title = "The Event Task Stimulus Set"
+
+[[input.files]]
+path = "speech-banana.html"
+url = "/speech-banana.html"
+title = "Speech Banana"
 
 [[input.files]]
 path = "SpiCE.html"
@@ -118,14 +118,14 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
-path = "GSB.html"
-url = "/GSB.html"
-title = "Global Signbank"
-
-[[input.files]]
 path = "psychopy.html"
 url = "/psychopy.html"
 title = "PsychoPy"
+
+[[input.files]]
+path = "GSB.html"
+url = "/GSB.html"
+title = "Global Signbank"
 
 [[input.files]]
 path = "ANLffr.html"
@@ -163,11 +163,6 @@ url = "/deep-learning-tutorials.html"
 title = "Deep Learning Tutorials"
 
 [[input.files]]
-path = "ASL-LEX.html"
-url = "/ASL-LEX.html"
-title = "ASL-LEX"
-
-[[input.files]]
 path = "ratcave.html"
 url = "/ratcave.html"
 title = "Ratcave"
@@ -178,14 +173,14 @@ url = "/phonetics-images.html"
 title = "Phonetics Images"
 
 [[input.files]]
-path = "acoustics-vibration-animations.html"
-url = "/acoustics-vibration-animations.html"
-title = "Acoustics and Vibration Animations"
-
-[[input.files]]
 path = "ASL-CDI.html"
 url = "/ASL-CDI.html"
 title = "ASL-CDI 2.0"
+
+[[input.files]]
+path = "ASL-LEX.html"
+url = "/ASL-LEX.html"
+title = "ASL-LEX"
 
 [[input.files]]
 path = "Corpus-NGT.html"
@@ -196,11 +191,6 @@ title = "Corpus of Dutch Sign Language"
 path = "ERT.html"
 url = "/ERT.html"
 title = "The Emotion Recognition Task"
-
-[[input.files]]
-path = "LHQ3.html"
-url = "/LHQ3.html"
-title = "Language History Questionnaire (version 3)"
 
 [[input.files]]
 path = "StimuliApp.html"
@@ -216,6 +206,16 @@ title = "VietSLP"
 path = "storybook-apps.html"
 url = "/storybook-apps.html"
 title = "VL2 Storybook Apps"
+
+[[input.files]]
+path = "acoustics-vibration-animations.html"
+url = "/acoustics-vibration-animations.html"
+title = "Acoustics and Vibration Animations"
+
+[[input.files]]
+path = "LHQ3.html"
+url = "/LHQ3.html"
+title = "Language History Questionnaire (version 3)"
 
 [[input.files]]
 path = "STEP-Experiments.html"
@@ -253,14 +253,14 @@ url = "/ECP-L2.html"
 title = "The English Crowdsourcing Project (L2 speakers)"
 
 [[input.files]]
-path = "COCA.html"
-url = "/COCA.html"
-title = "Corpus of Contemporary American English"
-
-[[input.files]]
 path = "ArtLex-en.html"
 url = "/ArtLex-en.html"
 title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker of American English"
+
+[[input.files]]
+path = "COCA.html"
+url = "/COCA.html"
+title = "Corpus of Contemporary American English"
 
 [[input.files]]
 path = "FLP.html"
@@ -273,14 +273,14 @@ url = "/auditory-grouping-cues.html"
 title = "Auditory Grouping Cues"
 
 [[input.files]]
-path = "KEC.html"
-url = "/KEC.html"
-title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
-
-[[input.files]]
 path = "AELP.html"
 url = "/AELP.html"
 title = "Auditory English Lexicon Project"
+
+[[input.files]]
+path = "KEC.html"
+url = "/KEC.html"
+title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
 
 [[input.files]]
 path = "illusory-texture.html"
@@ -328,11 +328,6 @@ url = "/NNDIE.html"
 title = "Normative Data on Dutch Idiomatic Expressions"
 
 [[input.files]]
-path = "model-match.html"
-url = "/model-match.html"
-title = "Model-Matched Sounds"
-
-[[input.files]]
 path = "PBCM.html"
 url = "/PBCM.html"
 title = "PBCM: Code-mixed Hindi-English corpus"
@@ -351,6 +346,11 @@ title = "Linguistic Annotated Bibliography"
 path = "phonotactic-probability-calculator.html"
 url = "/phonotactic-probability-calculator.html"
 title = "Phonotactic Probability Calculator"
+
+[[input.files]]
+path = "model-match.html"
+url = "/model-match.html"
+title = "Model-Matched Sounds"
 
 [[input.files]]
 path = "SPALEX.html"
@@ -408,14 +408,14 @@ url = "/schema-learning.html"
 title = "Schema Learning for the Cocktail Party Problem"
 
 [[input.files]]
-path = "CLEESE.html"
-url = "/CLEESE.html"
-title = "Combinatorial Expressive Speech Engine"
-
-[[input.files]]
 path = "ANGUS.html"
 url = "/ANGUS.html"
 title = "ANGUS"
+
+[[input.files]]
+path = "CLEESE.html"
+url = "/CLEESE.html"
+title = "Combinatorial Expressive Speech Engine"
 
 [[input.files]]
 path = "TAALES.html"
@@ -488,11 +488,6 @@ url = "/fame.html"
 title = "The Fame! Speech Corpus"
 
 [[input.files]]
-path = "reverberation.html"
-url = "/reverberation.html"
-title = "Reverberation"
-
-[[input.files]]
 path = "LSE-Sign.html"
 url = "/LSE-Sign.html"
 title = "LSE-Sign"
@@ -523,6 +518,11 @@ url = "/similarity-neighborhood.html"
 title = "Similarity Neighborhood Calculator"
 
 [[input.files]]
+path = "reverberation.html"
+url = "/reverberation.html"
+title = "Reverberation"
+
+[[input.files]]
 path = "BALDEY.html"
 url = "/BALDEY.html"
 title = "BALDEY Database of Auditory Lexical Decisions"
@@ -543,11 +543,6 @@ url = "/jsPsych.html"
 title = "jsPsych"
 
 [[input.files]]
-path = "natural-sounds.html"
-url = "/natural-sounds.html"
-title = "Natural Sounds Stimulus Set"
-
-[[input.files]]
 path = "sensory-systems.html"
 url = "/sensory-systems.html"
 title = "Sensory Systems - Companion Activities"
@@ -556,6 +551,11 @@ title = "Sensory Systems - Companion Activities"
 path = "NVCL-20.html"
 url = "/NVCL-20.html"
 title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
+
+[[input.files]]
+path = "natural-sounds.html"
+url = "/natural-sounds.html"
+title = "Natural Sounds Stimulus Set"
 
 [[input.files]]
 path = "HomeBank.html"
@@ -593,14 +593,14 @@ url = "/USC-TIMIT.html"
 title = "USC-TIMIT: A database of multimodal speech production data"
 
 [[input.files]]
-path = "CGN.html"
-url = "/CGN.html"
-title = "Corpus Gesproken Nederlands (The Spoken Dutch Corpus)"
-
-[[input.files]]
 path = "PhonItalia.html"
 url = "/PhonItalia.html"
 title = "PhonItalia"
+
+[[input.files]]
+path = "CGN.html"
+url = "/CGN.html"
+title = "Corpus Gesproken Nederlands (The Spoken Dutch Corpus)"
 
 [[input.files]]
 path = "nccc.html"
@@ -628,6 +628,11 @@ url = "/pitch-localizer.html"
 title = "Efficient Pitch Localizer"
 
 [[input.files]]
+path = "UWNU-1.0.html"
+url = "/UWNU-1.0.html"
+title = "University of Washington/Northwestern University Corpus 1.0"
+
+[[input.files]]
 path = "wals.html"
 url = "/wals.html"
 title = "The World Atlas of Language Structures"
@@ -638,14 +643,14 @@ url = "/nanny.html"
 title = "Nanny"
 
 [[input.files]]
-path = "POES.html"
-url = "/POES.html"
-title = "Program for Open-Ended Scoring"
-
-[[input.files]]
 path = "ECR.html"
 url = "/ECR.html"
 title = "English Concreteness Ratings"
+
+[[input.files]]
+path = "POES.html"
+url = "/POES.html"
+title = "Program for Open-Ended Scoring"
 
 [[input.files]]
 path = "le-talker.html"
@@ -693,14 +698,14 @@ url = "/BLP.html"
 title = "British Lexicon Project"
 
 [[input.files]]
-path = "SoNaR.html"
-url = "/SoNaR.html"
-title = "SoNaR"
-
-[[input.files]]
 path = "ALEQ.html"
 url = "/ALEQ.html"
 title = "Alberta Language Environment Questionnaire"
+
+[[input.files]]
+path = "SoNaR.html"
+url = "/SoNaR.html"
+title = "SoNaR"
 
 [[input.files]]
 path = "source-repetition.html"
