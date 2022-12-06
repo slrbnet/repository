@@ -438,6 +438,11 @@ url = "/3D-Brain.html"
 title = "3D Brain"
 
 [[input.files]]
+path = "UWNU-2.0.html"
+url = "/UWNU-2.0.html"
+title = "University of Washington/Northwestern University Corpus 2.0"
+
+[[input.files]]
 path = "aoar.html"
 url = "/aoar.html"
 title = "Age of Acquisition Ratings"
