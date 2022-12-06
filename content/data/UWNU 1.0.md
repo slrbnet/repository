@@ -5,7 +5,7 @@ date: 2013
 source: https://depts.washington.edu/phonlab/projects/uwnu.php
 type: audio files and textgrids
 languages: English
-tags: English, recording, corpus, Pacific Northwest, Northern Cities, textgrids
+tags: English, recording, corpus, Pacific Northwest, Northern Cities, textgrids,intelligibility, dialect
 open_access: no 
 publications:McCloy, D.R., Wright, R.A., & Souza, P.E. (2014). Talker versus dialect effects on speech intelligibility: A symmetrical study. Language and Speech, 1-16. doi:10.1177/0023830914559234.
 Souza, P.E., Gehani, N., Wright, R.A., & McCloy, D.R. (2013). The advantage of knowing the talker. Journal of the American Academy of Audiology, 24, 689–700. doi:10.3766/jaaa.24.8.6.
