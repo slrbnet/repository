@@ -168,11 +168,6 @@ url = "/ratcave.html"
 title = "Ratcave"
 
 [[input.files]]
-path = "phonetics-images.html"
-url = "/phonetics-images.html"
-title = "Phonetics Images"
-
-[[input.files]]
 path = "ASL-CDI.html"
 url = "/ASL-CDI.html"
 title = "ASL-CDI 2.0"
@@ -206,6 +201,11 @@ title = "VietSLP"
 path = "storybook-apps.html"
 url = "/storybook-apps.html"
 title = "VL2 Storybook Apps"
+
+[[input.files]]
+path = "phonetics-images.html"
+url = "/phonetics-images.html"
+title = "Phonetics Images"
 
 [[input.files]]
 path = "acoustics-vibration-animations.html"
@@ -253,24 +253,19 @@ url = "/ECP-L2.html"
 title = "The English Crowdsourcing Project (L2 speakers)"
 
 [[input.files]]
-path = "ArtLex-en.html"
-url = "/ArtLex-en.html"
-title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker of American English"
-
-[[input.files]]
 path = "COCA.html"
 url = "/COCA.html"
 title = "Corpus of Contemporary American English"
 
 [[input.files]]
+path = "ArtLex-en.html"
+url = "/ArtLex-en.html"
+title = "ArtLex-en: Acoustic and EMA data on thousands of words and syllables spoken by a single speaker of American English"
+
+[[input.files]]
 path = "FLP.html"
 url = "/FLP.html"
 title = "The French Lexicon Project"
-
-[[input.files]]
-path = "auditory-grouping-cues.html"
-url = "/auditory-grouping-cues.html"
-title = "Auditory Grouping Cues"
 
 [[input.files]]
 path = "AELP.html"
@@ -281,6 +276,11 @@ title = "Auditory English Lexicon Project"
 path = "Phoible.html"
 url = "/Phoible.html"
 title = "Phoible"
+
+[[input.files]]
+path = "auditory-grouping-cues.html"
+url = "/auditory-grouping-cues.html"
+title = "Auditory Grouping Cues"
 
 [[input.files]]
 path = "KEC.html"
@@ -413,14 +413,14 @@ url = "/schema-learning.html"
 title = "Schema Learning for the Cocktail Party Problem"
 
 [[input.files]]
-path = "ANGUS.html"
-url = "/ANGUS.html"
-title = "ANGUS"
-
-[[input.files]]
 path = "CLEESE.html"
 url = "/CLEESE.html"
 title = "Combinatorial Expressive Speech Engine"
+
+[[input.files]]
+path = "ANGUS.html"
+url = "/ANGUS.html"
+title = "ANGUS"
 
 [[input.files]]
 path = "TAALES.html"
@@ -433,11 +433,6 @@ url = "/TISK.html"
 title = "Time Invariant String Kernel Model"
 
 [[input.files]]
-path = "pitch-perception.html"
-url = "/pitch-perception.html"
-title = "Inharmonic Pitch perception"
-
-[[input.files]]
 path = "3D-Brain.html"
 url = "/3D-Brain.html"
 title = "3D Brain"
@@ -446,6 +441,11 @@ title = "3D Brain"
 path = "UWNU-2.0.html"
 url = "/UWNU-2.0.html"
 title = "University of Washington/Northwestern University Corpus 2.0"
+
+[[input.files]]
+path = "pitch-perception.html"
+url = "/pitch-perception.html"
+title = "Inharmonic Pitch perception"
 
 [[input.files]]
 path = "aoar.html"
@@ -558,14 +558,14 @@ url = "/sensory-systems.html"
 title = "Sensory Systems - Companion Activities"
 
 [[input.files]]
-path = "NVCL-20.html"
-url = "/NVCL-20.html"
-title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
-
-[[input.files]]
 path = "natural-sounds.html"
 url = "/natural-sounds.html"
 title = "Natural Sounds Stimulus Set"
+
+[[input.files]]
+path = "NVCL-20.html"
+url = "/NVCL-20.html"
+title = "The Nijmegen-Venray Confabulation List (NVCL-20)"
 
 [[input.files]]
 path = "HomeBank.html"
@@ -633,11 +633,6 @@ url = "/spanish-confusions-corpus.html"
 title = "Spanish Confusions Corpus"
 
 [[input.files]]
-path = "pitch-localizer.html"
-url = "/pitch-localizer.html"
-title = "Efficient Pitch Localizer"
-
-[[input.files]]
 path = "UWNU-1.0.html"
 url = "/UWNU-1.0.html"
 title = "University of Washington/Northwestern University Corpus 1.0"
@@ -646,6 +641,11 @@ title = "University of Washington/Northwestern University Corpus 1.0"
 path = "wals.html"
 url = "/wals.html"
 title = "The World Atlas of Language Structures"
+
+[[input.files]]
+path = "pitch-localizer.html"
+url = "/pitch-localizer.html"
+title = "Efficient Pitch Localizer"
 
 [[input.files]]
 path = "nanny.html"
