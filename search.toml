@@ -333,6 +333,11 @@ url = "/NNDIE.html"
 title = "Normative Data on Dutch Idiomatic Expressions"
 
 [[input.files]]
+path = "MoroStory.html"
+url = "/MoroStory.html"
+title = "Moro Story Corpus"
+
+[[input.files]]
 path = "PBCM.html"
 url = "/PBCM.html"
 title = "PBCM: Code-mixed Hindi-English corpus"
