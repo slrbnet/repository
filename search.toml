@@ -448,6 +448,11 @@ url = "/UWNU-2.0.html"
 title = "University of Washington/Northwestern University Corpus 2.0"
 
 [[input.files]]
+path = "Yurok.html"
+url = "/Yurok.html"
+title = "Yurok Language Project"
+
+[[input.files]]
 path = "pitch-perception.html"
 url = "/pitch-perception.html"
 title = "Inharmonic Pitch perception"
