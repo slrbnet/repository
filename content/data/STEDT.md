@@ -14,7 +14,6 @@ type: Etymological Dictionary
 languages: Proto Sino-Tibetan  
 tags: Etymology, Dictionary, Etymological Dictionary, Sino-Tibetean, Southeast Asia, Chinese, Tibetan, Burmese  
 open_access: yes  
-license: 
 publications:Lapolla, R. J. (2015). Bibliography of the Papers from the International Conferences on Sino-Tibetan Languages and Linguistics I-XXV ; Berkeley: Center for Southeast Asia Studies, University of California, Berkeley, 1994, Sino-Tibetan Etymological Dictionary and Thesaurus, STEDT Monograph Series, No. 1A.  
 Matisoff, J. A., Baron, S. P., & Lowe, J. B. (1996). Languages and dialects of Tibeto-Burman. Sino-Tibetan Etymological Dictionary and Thesaurus Project, Center for Southeast Asia Studies, University of California, Berkeley.  
 Namkung, J. (1996). Phonological inventories of Tibeto-Burman languages. Sino-Tibetan Etymological Dictionary and Thesaurus Project, Center for Southeast Asia Studies, University of California.  
