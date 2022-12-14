@@ -548,6 +548,11 @@ url = "/AUX.html"
 title = "AUditory syntaX (AUX)"
 
 [[input.files]]
+path = "SAPhon.html"
+url = "/SAPhon.html"
+title = "South American Phonological Inventory Database"
+
+[[input.files]]
 path = "jsPsych.html"
 url = "/jsPsych.html"
 title = "jsPsych"
