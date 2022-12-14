@@ -273,6 +273,11 @@ url = "/AELP.html"
 title = "Auditory English Lexicon Project"
 
 [[input.files]]
+path = "CLAD.html"
+url = "/CLAD.html"
+title = "Corpus-derived Chinese Lexical Association Database"
+
+[[input.files]]
 path = "Phoible.html"
 url = "/Phoible.html"
 title = "Phoible"
