@@ -528,6 +528,11 @@ url = "/PATT.html"
 title = "Phonological Assessment and Treatment Target (PATT) Selection"
 
 [[input.files]]
+path = "STEDT.html"
+url = "/STEDT.html"
+title = "The Sino-Tibetan Etymological Dictionary and Thesaurus"
+
+[[input.files]]
 path = "TimeStudio.html"
 url = "/TimeStudio.html"
 title = "The TimeStudio Project"
