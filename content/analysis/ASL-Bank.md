@@ -1,6 +1,6 @@
 title: ASL Signbank  
 slug: ASL-Bank  
-authors: Julie A. Hochgesang, Onno Crasborn, and Diane Lillo-Martin.  
+authors: Julie A. Hochgesang, Onno Crasborn, Diane Lillo-Martin.  
 date: 2017  
 source: https://aslsignbank.haskins.yale.edu/  
 type: Annotation Aid    
