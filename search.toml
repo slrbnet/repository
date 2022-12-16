@@ -348,6 +348,11 @@ url = "/NNDIE.html"
 title = "Normative Data on Dutch Idiomatic Expressions"
 
 [[input.files]]
+path = "CLD.html"
+url = "/CLD.html"
+title = "Chinese Lexical Database"
+
+[[input.files]]
 path = "MoroStory.html"
 url = "/MoroStory.html"
 title = "Moro Story Corpus"
