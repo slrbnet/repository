@@ -808,6 +808,11 @@ url = "/BAT.html"
 title = "Bilingual Aphasia Test (BAT)"
 
 [[input.files]]
+path = "SimulStat.html"
+url = "/SimulStat.html"
+title = "SimulStat Lexical Database for Russian Language"
+
+[[input.files]]
 path = "cocktail-party.html"
 url = "/cocktail-party.html"
 title = "Cocktail Party Problem"
