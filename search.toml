@@ -278,6 +278,11 @@ url = "/CLAD.html"
 title = "Corpus-derived Chinese Lexical Association Database"
 
 [[input.files]]
+path = "LADEC.html"
+url = "/LADEC.html"
+title = "Large database of English compounds"
+
+[[input.files]]
 path = "Macroscope.html"
 url = "/Macroscope.html"
 title = "Macroscope"
