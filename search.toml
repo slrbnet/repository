@@ -103,14 +103,14 @@ url = "/headphone-screen.html"
 title = "Efficient Headphone Screen"
 
 [[input.files]]
-path = "event-task.html"
-url = "/event-task.html"
-title = "The Event Task Stimulus Set"
-
-[[input.files]]
 path = "speech-banana.html"
 url = "/speech-banana.html"
 title = "Speech Banana"
+
+[[input.files]]
+path = "event-task.html"
+url = "/event-task.html"
+title = "The Event Task Stimulus Set"
 
 [[input.files]]
 path = "SpiCE.html"
@@ -118,14 +118,14 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
-path = "psychopy.html"
-url = "/psychopy.html"
-title = "PsychoPy"
-
-[[input.files]]
 path = "GSB.html"
 url = "/GSB.html"
 title = "Global Signbank"
+
+[[input.files]]
+path = "psychopy.html"
+url = "/psychopy.html"
+title = "PsychoPy"
 
 [[input.files]]
 path = "ANLffr.html"
@@ -276,6 +276,11 @@ title = "Auditory English Lexicon Project"
 path = "CLAD.html"
 url = "/CLAD.html"
 title = "Corpus-derived Chinese Lexical Association Database"
+
+[[input.files]]
+path = "Macroscope.html"
+url = "/Macroscope.html"
+title = "Macroscope"
 
 [[input.files]]
 path = "Phoible.html"
@@ -438,11 +443,6 @@ url = "/TAALES.html"
 title = "Tool for the Automatic Analysis of Lexical Sophistication"
 
 [[input.files]]
-path = "TISK.html"
-url = "/TISK.html"
-title = "Time Invariant String Kernel Model"
-
-[[input.files]]
 path = "3D-Brain.html"
 url = "/3D-Brain.html"
 title = "3D Brain"
@@ -456,6 +456,11 @@ title = "University of Washington/Northwestern University Corpus 2.0"
 path = "Yurok.html"
 url = "/Yurok.html"
 title = "Yurok Language Project"
+
+[[input.files]]
+path = "TISK.html"
+url = "/TISK.html"
+title = "Time Invariant String Kernel Model"
 
 [[input.files]]
 path = "pitch-perception.html"
@@ -508,11 +513,6 @@ url = "/USC-VT-Morph-MRI.html"
 title = "USC Speech and Vocal Tract Morphology MRI Database"
 
 [[input.files]]
-path = "fame.html"
-url = "/fame.html"
-title = "The Fame! Speech Corpus"
-
-[[input.files]]
 path = "LSE-Sign.html"
 url = "/LSE-Sign.html"
 title = "LSE-Sign"
@@ -536,6 +536,11 @@ title = "The Sino-Tibetan Etymological Dictionary and Thesaurus"
 path = "TimeStudio.html"
 url = "/TimeStudio.html"
 title = "The TimeStudio Project"
+
+[[input.files]]
+path = "fame.html"
+url = "/fame.html"
+title = "The Fame! Speech Corpus"
 
 [[input.files]]
 path = "hansard.html"
@@ -628,14 +633,14 @@ url = "/USC-TIMIT.html"
 title = "USC-TIMIT: A database of multimodal speech production data"
 
 [[input.files]]
-path = "PhonItalia.html"
-url = "/PhonItalia.html"
-title = "PhonItalia"
-
-[[input.files]]
 path = "CGN.html"
 url = "/CGN.html"
 title = "Corpus Gesproken Nederlands (The Spoken Dutch Corpus)"
+
+[[input.files]]
+path = "PhonItalia.html"
+url = "/PhonItalia.html"
+title = "PhonItalia"
 
 [[input.files]]
 path = "nccc.html"
@@ -678,14 +683,14 @@ url = "/nanny.html"
 title = "Nanny"
 
 [[input.files]]
-path = "ECR.html"
-url = "/ECR.html"
-title = "English Concreteness Ratings"
-
-[[input.files]]
 path = "POES.html"
 url = "/POES.html"
 title = "Program for Open-Ended Scoring"
+
+[[input.files]]
+path = "ECR.html"
+url = "/ECR.html"
+title = "English Concreteness Ratings"
 
 [[input.files]]
 path = "le-talker.html"
