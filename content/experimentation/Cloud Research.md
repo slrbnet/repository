@@ -1,6 +1,6 @@
 title: Cloud Research  
 slug: Cloud  
-authors: J  
+authors: CloudResearch  
 date: 2017  
 source: https://www.cloudresearch.com/  
 type: Experiment Platform  
