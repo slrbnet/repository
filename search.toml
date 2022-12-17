@@ -533,6 +533,11 @@ url = "/USC-VT-Morph-MRI.html"
 title = "USC Speech and Vocal Tract Morphology MRI Database"
 
 [[input.files]]
+path = "HelexKids.html"
+url = "/HelexKids.html"
+title = "HelexKids"
+
+[[input.files]]
 path = "LSE-Sign.html"
 url = "/LSE-Sign.html"
 title = "LSE-Sign"
