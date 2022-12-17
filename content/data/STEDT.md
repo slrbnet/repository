@@ -3,7 +3,7 @@ slug: STEDT
 authors: Dr. John B. Lowe, Dr. Liberty Lidz, Dr. Kenneth VanBik, Dr. David Mortensen, Dr. Dominic Yu, Dr. Daniel Bruhn, Dr. Chundra Cathcart, Dr. David Solnit  
 date: 2016  
 source: https://stedt.berkeley.edu/  
-type: Etymological Dictionary  
+type: Dictionary  
 languages: Proto Sino-Tibetan  
 tags: Etymology, Dictionary, Etymological Dictionary, Sino-Tibetean, Southeast Asia, Chinese, Tibetan, Burmese  
 open_access: yes  
