@@ -3,7 +3,7 @@ slug: Macroscope
 authors: Li Ying, Tomas Engelthalar, Cynthia Siew, Thomas Hills  
 date: 2019  
 source: http://macroscope.intelligence-media.com/index.html  
-type: Historical Database  
+type: Database  
 languages: English  
 tags: Corpus, Psycholinguistics, English, Computational Linguistics, Distributional Semantics  
 open_access: yes  
