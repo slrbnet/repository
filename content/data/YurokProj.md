@@ -3,7 +3,7 @@ slug: Yurok
 authors: Andrew Garrett  
 date: 2017  
 source: https://linguistics.berkeley.edu/~yurok/index.php  
-type: dictionary  
+type: Dictionary  
 languages: Yurok  
 tags: Yurok, dictionary, North American, Californian, American Indigenous, Endangered Language, Revitalization, Algonquin  
 open_access: yes  
