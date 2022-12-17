@@ -353,6 +353,11 @@ url = "/CLD.html"
 title = "Chinese Lexical Database"
 
 [[input.files]]
+path = "Lang05.html"
+url = "/Lang05.html"
+title = "The Language 0-5 Project"
+
+[[input.files]]
 path = "MoroStory.html"
 url = "/MoroStory.html"
 title = "Moro Story Corpus"
