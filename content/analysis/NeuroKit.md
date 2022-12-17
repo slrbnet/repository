@@ -4,7 +4,7 @@ authors: Dominique Makowski, Tam Pham, Zen J. Lau, Jan C. Brammer, François Les
 source: https://github.com/neuropsychology/NeuroKit  
 type: Python Module  
 languages: English  
-tags: Analysis, Neurolinguistics, Signal processing, EEG  
+tags: Analysis, Neuropsychology, Signal processing, EEG  
 open_access: yes  
 license:  
 publications:  Makowski, D., Pham, T., Lau, Z. J., Brammer, J. C., Lespinasse, F., Pham, H., Schölzel, C., & Chen, S. A. (2021). NeuroKit2: A Python toolbox for neurophysiological signal processing. Behavior Research Methods, 53(4), 1689–1696. https://doi.org/10.3758/s13428-020-01516-y  
