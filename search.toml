@@ -303,6 +303,11 @@ url = "/Phoible.html"
 title = "Phoible"
 
 [[input.files]]
+path = "subs2vec.html"
+url = "/subs2vec.html"
+title = "subs2vec"
+
+[[input.files]]
 path = "auditory-grouping-cues.html"
 url = "/auditory-grouping-cues.html"
 title = "Auditory Grouping Cues"
