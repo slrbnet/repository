@@ -468,6 +468,11 @@ url = "/ASL-Bank.html"
 title = "ASL Signbank"
 
 [[input.files]]
+path = "GECO.html"
+url = "/GECO.html"
+title = "Ghent Eye-Tracking Corpus"
+
+[[input.files]]
 path = "UWNU-2.0.html"
 url = "/UWNU-2.0.html"
 title = "University of Washington/Northwestern University Corpus 2.0"
