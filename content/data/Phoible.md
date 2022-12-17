@@ -3,7 +3,7 @@ slug: Phoible
 authors: Steven Moran, Daniel McCloy  
 date: 2019  
 source: https://phoible.org/  
-type: Phoneme database  
+type: Database  
 languages: cross-linguistic  
 tags: linguistics, language, phonology, phonemes, phoneme inventory, database, language structure   
 open_access: yes  
