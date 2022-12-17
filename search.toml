@@ -28,11 +28,6 @@ url = "/psytoolkit.html"
 title = "PsyToolkit"
 
 [[input.files]]
-path = "protosc.html"
-url = "/protosc.html"
-title = "The Prototypical Stimulus Characteristics Toolbox: Protosc"
-
-[[input.files]]
 path = "LinguaPix.html"
 url = "/LinguaPix.html"
 title = "LinguaPix"
@@ -46,6 +41,11 @@ title = "NIM"
 path = "e-prime.html"
 url = "/e-prime.html"
 title = "E-Prime"
+
+[[input.files]]
+path = "protosc.html"
+url = "/protosc.html"
+title = "The Prototypical Stimulus Characteristics Toolbox: Protosc"
 
 [[input.files]]
 path = "vocal-tract-imaging.html"
@@ -358,6 +358,11 @@ url = "/MoroStory.html"
 title = "Moro Story Corpus"
 
 [[input.files]]
+path = "P-Pal.html"
+url = "/P-Pal.html"
+title = "Procura-PALavras"
+
+[[input.files]]
 path = "PBCM.html"
 url = "/PBCM.html"
 title = "PBCM: Code-mixed Hindi-English corpus"
@@ -553,11 +558,6 @@ url = "/TimeStudio.html"
 title = "The TimeStudio Project"
 
 [[input.files]]
-path = "fame.html"
-url = "/fame.html"
-title = "The Fame! Speech Corpus"
-
-[[input.files]]
 path = "hansard.html"
 url = "/hansard.html"
 title = "The Hansard Corpus"
@@ -566,6 +566,11 @@ title = "The Hansard Corpus"
 path = "similarity-neighborhood.html"
 url = "/similarity-neighborhood.html"
 title = "Similarity Neighborhood Calculator"
+
+[[input.files]]
+path = "fame.html"
+url = "/fame.html"
+title = "The Fame! Speech Corpus"
 
 [[input.files]]
 path = "reverberation.html"
