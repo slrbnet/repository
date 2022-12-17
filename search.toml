@@ -188,6 +188,11 @@ url = "/ERT.html"
 title = "The Emotion Recognition Task"
 
 [[input.files]]
+path = "FANCat.html"
+url = "/FANCat.html"
+title = ""
+
+[[input.files]]
 path = "MiniPinyin.html"
 url = "/MiniPinyin.html"
 title = "Mini Pinyin"
