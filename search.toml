@@ -408,6 +408,11 @@ url = "/PC-PVT.html"
 title = "PC-PVT"
 
 [[input.files]]
+path = "SNAFU.html"
+url = "/SNAFU.html"
+title = "SNAFU: the Semantic Network and Fluency Utility"
+
+[[input.files]]
 path = "lab.html"
 url = "/lab.html"
 title = "Linguistic Annotated Bibliography"
