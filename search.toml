@@ -185,7 +185,7 @@ title = "The Emotion Recognition Task"
 [[input.files]]
 path = "FANCat.html"
 url = "/FANCat.html"
-title = ""
+title = "FANCat"
 
 [[input.files]]
 path = "MiniPinyin.html"
