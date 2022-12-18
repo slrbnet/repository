@@ -128,6 +128,11 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
+path = "LexiCAL.html"
+url = "/LexiCAL.html"
+title = "LexiCAL: A Calculator for Lexical Variables"
+
+[[input.files]]
 path = "GSB.html"
 url = "/GSB.html"
 title = "Global Signbank"
