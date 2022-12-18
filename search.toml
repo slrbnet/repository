@@ -43,14 +43,14 @@ url = "/e-prime.html"
 title = "E-Prime"
 
 [[input.files]]
-path = "protosc.html"
-url = "/protosc.html"
-title = "The Prototypical Stimulus Characteristics Toolbox: Protosc"
-
-[[input.files]]
 path = "vocal-tract-imaging.html"
 url = "/vocal-tract-imaging.html"
 title = "Vocal Tract Imaging: MR and CT Images"
+
+[[input.files]]
+path = "protosc.html"
+url = "/protosc.html"
+title = "The Prototypical Stimulus Characteristics Toolbox: Protosc"
 
 [[input.files]]
 path = "PyGaze.html"
@@ -163,11 +163,6 @@ url = "/deep-learning-tutorials.html"
 title = "Deep Learning Tutorials"
 
 [[input.files]]
-path = "ratcave.html"
-url = "/ratcave.html"
-title = "Ratcave"
-
-[[input.files]]
 path = "ASL-CDI.html"
 url = "/ASL-CDI.html"
 title = "ASL-CDI 2.0"
@@ -211,6 +206,11 @@ title = "StimuliApp"
 path = "VietSLP.html"
 url = "/VietSLP.html"
 title = "VietSLP"
+
+[[input.files]]
+path = "ratcave.html"
+url = "/ratcave.html"
+title = "Ratcave"
 
 [[input.files]]
 path = "storybook-apps.html"
@@ -291,6 +291,11 @@ title = "Auditory English Lexicon Project"
 path = "CLAD.html"
 url = "/CLAD.html"
 title = "Corpus-derived Chinese Lexical Association Database"
+
+[[input.files]]
+path = "CompLex.html"
+url = "/CompLex.html"
+title = "The CompLex Database"
 
 [[input.files]]
 path = "LADEC.html"
