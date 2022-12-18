@@ -33,6 +33,11 @@ url = "/psytoolkit.html"
 title = "PsyToolkit"
 
 [[input.files]]
+path = "CompLex.html"
+url = "/CompLex.html"
+title = "The CompLex Database"
+
+[[input.files]]
 path = "LinguaPix.html"
 url = "/LinguaPix.html"
 title = "LinguaPix"
@@ -296,11 +301,6 @@ title = "Auditory English Lexicon Project"
 path = "CLAD.html"
 url = "/CLAD.html"
 title = "Corpus-derived Chinese Lexical Association Database"
-
-[[input.files]]
-path = "CompLex.html"
-url = "/CompLex.html"
-title = "The CompLex Database"
 
 [[input.files]]
 path = "LADEC.html"
