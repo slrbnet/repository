@@ -38,6 +38,11 @@ url = "/psytoolkit.html"
 title = "PsyToolkit"
 
 [[input.files]]
+path = "Blackfoot.html"
+url = "/Blackfoot.html"
+title = "Blackfoot Words"
+
+[[input.files]]
 path = "CompLex.html"
 url = "/CompLex.html"
 title = "The CompLex Database"
