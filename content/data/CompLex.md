@@ -6,6 +6,7 @@ source: https://osf.io/82p6x/
 type: Database  
 languages: English  
 tags: linguistics, English, Compound, Eye-Tracking.  
+open access: yes
 license:  
 publication: Wilming, N., Onat, S., Ossandón, J. et al. An extensive dataset of eye movements during viewing of complex images. Sci Data 4, 160126 (2017). https://doi.org/10.1038/sdata.2016.126  
 shortdesc: A database of eye tracking reading English Compounds  
