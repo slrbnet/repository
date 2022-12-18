@@ -18,6 +18,11 @@ url = "/LexOPS.html"
 title = "LexOPS"
 
 [[input.files]]
+path = "Petit-prince.html"
+url = "/Petit-prince.html"
+title = "Le Petit Prince: A multilingual fMRI corpus using ecological stimuli"
+
+[[input.files]]
 path = "speech-processing.html"
 url = "/speech-processing.html"
 title = "Introduction to Speech Processing"
