@@ -1,6 +1,6 @@
 title: The CompLex Database   
 slug: CompLex   
-authors: Daniel Schmidtke Julie A. Van Dyke Victor Kuperman   
+authors: Daniel Schmidtke, Julie A. Van Dyke, Victor Kuperman   
 date: 2019   
 source: https://osf.io/82p6x/  
 type: Database  
