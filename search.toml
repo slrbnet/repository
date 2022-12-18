@@ -13,6 +13,11 @@ url = "/pages/search.html"
 title = "search"
 
 [[input.files]]
+path = "LexOPS.html"
+url = "/LexOPS.html"
+title = "LexOPS"
+
+[[input.files]]
 path = "speech-processing.html"
 url = "/speech-processing.html"
 title = "Introduction to Speech Processing"
