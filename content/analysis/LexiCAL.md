@@ -2,7 +2,7 @@ title: LexiCAL: A Calculator for Lexical Variables
 slug: LexiCAL  
 authors: Qian Wen Chee ,Keng Ji Chow,Winston D. Goh,Melvin J. Yap  
 date: 2021-4-30  
-source: https://osf.io/gwfzr  
+source: https://osf.io/ydh6e/?view_only=  
 type: Calculator  
 languages: N/A  
 tags: calculator, alphabetical, Python.  
