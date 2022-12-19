@@ -233,14 +233,14 @@ url = "/VietSLP.html"
 title = "VietSLP"
 
 [[input.files]]
-path = "ratcave.html"
-url = "/ratcave.html"
-title = "Ratcave"
-
-[[input.files]]
 path = "storybook-apps.html"
 url = "/storybook-apps.html"
 title = "VL2 Storybook Apps"
+
+[[input.files]]
+path = "ratcave.html"
+url = "/ratcave.html"
+title = "Ratcave"
 
 [[input.files]]
 path = "phonetics-images.html"
