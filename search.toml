@@ -533,11 +533,6 @@ url = "/GECO.html"
 title = "Ghent Eye-Tracking Corpus"
 
 [[input.files]]
-path = "UWNU-2.0.html"
-url = "/UWNU-2.0.html"
-title = "University of Washington/Northwestern University Corpus 2.0"
-
-[[input.files]]
 path = "Yurok.html"
 url = "/Yurok.html"
 title = "Yurok Language Project"
