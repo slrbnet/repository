@@ -753,11 +753,6 @@ url = "/spanish-confusions-corpus.html"
 title = "Spanish Confusions Corpus"
 
 [[input.files]]
-path = "UWNU-1.0.html"
-url = "/UWNU-1.0.html"
-title = "University of Washington/Northwestern University Corpus 1.0"
-
-[[input.files]]
 path = "wals.html"
 url = "/wals.html"
 title = "The World Atlas of Language Structures"
