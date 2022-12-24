@@ -33,11 +33,6 @@ url = "/tatool.html"
 title = "Tatool"
 
 [[input.files]]
-path = "psytoolkit.html"
-url = "/psytoolkit.html"
-title = "PsyToolkit"
-
-[[input.files]]
 path = "Blackfoot.html"
 url = "/Blackfoot.html"
 title = "Blackfoot Words"
@@ -66,6 +61,11 @@ title = "E-Prime"
 path = "vocal-tract-imaging.html"
 url = "/vocal-tract-imaging.html"
 title = "Vocal Tract Imaging: MR and CT Images"
+
+[[input.files]]
+path = "psytoolkit.html"
+url = "/psytoolkit.html"
+title = "PsyToolkit"
 
 [[input.files]]
 path = "protosc.html"
