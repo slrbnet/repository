@@ -2,6 +2,7 @@ title: NeuroKit
 slug: NeuroKit  
 authors: Dominique Makowski, Tam Pham, Zen J. Lau, Jan C. Brammer, François Lespinasse, Hung Pham, Christopher Schölzel, S. H. Annabel Chen  
 source: https://github.com/neuropsychology/NeuroKit  
+date:2021  
 type: Python Module  
 languages: English  
 tags: Analysis, Neuropsychology, Signal processing, EEG  
