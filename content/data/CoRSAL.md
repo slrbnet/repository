@@ -4,8 +4,7 @@ authors: University of North Texas
 date: 2018  
 source: https://digital.library.unt.edu/explore/collections/CORSAL/#citation  
 type: Resource Collection  
-languages: English, Akha, Azamgarhi, Bhojpuri, Boro, Burushaski, Dimasa, Lai, Lamkang, Liangmai, Karbi, Kom, Manipur, Mankiyali, Mizo, Pomai, Rawang, Zophei
-tags: South Asian Languagase, English, Akha, Azamgarhi, Bhojpuri, Boro, Burushaski, Dimasa, Lai, Lamkang, Liangmai, Karbi, Kom, Manipur, Mankiyali, Mizo, Pomai, Rawang, Zophei  
+languages: English, Akha, Azamgarhi, Bhojpuri, Boro, Burushaski, Dimasa, Lai, Lamkang, Liangmai, Karbi, Kom, Manipur, Mankiyali, Mizo, Pomai, Rawang, Zophei 
 tags: South Asian Language, English, Akha, Azamgarhi, Bhojpuri, Boro, Burushaski, Dimasa, Lai, Lamkang, Liangmai, Karbi, Kom, Manipur, Mankiyali, Mizo, Pomai, Rawang, Zophei, Collection, Corpora  
 open_access: yes  
 license: Creative Commons Attribution 4.0 International License.  
