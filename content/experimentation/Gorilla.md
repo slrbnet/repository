@@ -1,4 +1,4 @@
-name: Gorilla   
+title: Gorilla   
 slug: Gorilla   
 authors: Cauldron Science   
 date: 2016   
