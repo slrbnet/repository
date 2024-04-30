@@ -11,7 +11,7 @@ If you would like to contribute, particularly if you would like your own resourc
 <br>
 
 ### Interested in adding a resource to the SLRB?
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSeDiJnEZCAmuxBEkEufVI-_RtLWDWzdkvEO81KBwhLRxp98kA/viewform" method="get" target="_blank">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSebAMTsWIG8q84U3XacE9AAeQuVUV01e-LX32e8lhcJAdUrBg/viewform?usp=sf_link" method="get" target="_blank">
     You may submit metadata for your resource through this form: <button type="submit">Submit Resource</button>
 </form>
 
