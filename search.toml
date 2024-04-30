@@ -1,6 +1,6 @@
 [input]
-base_directory = "output"
 html_selector = "main"
+base_directory = "output"
 
 [[input.files]]
 path = "pages/home.html"
@@ -13,6 +13,11 @@ url = "/pages/search.html"
 title = "search"
 
 [[input.files]]
+path = "Gigaword.html"
+url = "/Gigaword.html"
+title = "The Gigaword Corpus"
+
+[[input.files]]
 path = "LexOPS.html"
 url = "/LexOPS.html"
 title = "LexOPS"
@@ -23,44 +28,14 @@ url = "/Petit-prince.html"
 title = "Le Petit Prince: A multilingual fMRI corpus using ecological stimuli"
 
 [[input.files]]
-path = "speech-processing.html"
-url = "/speech-processing.html"
-title = "Introduction to Speech Processing"
-
-[[input.files]]
 path = "tatool.html"
 url = "/tatool.html"
 title = "Tatool"
 
 [[input.files]]
-path = "Blackfoot.html"
-url = "/Blackfoot.html"
-title = "Blackfoot Words"
-
-[[input.files]]
-path = "CompLex.html"
-url = "/CompLex.html"
-title = "The CompLex Database"
-
-[[input.files]]
-path = "LinguaPix.html"
-url = "/LinguaPix.html"
-title = "LinguaPix"
-
-[[input.files]]
-path = "NIM.html"
-url = "/NIM.html"
-title = "NIM"
-
-[[input.files]]
-path = "e-prime.html"
-url = "/e-prime.html"
-title = "E-Prime"
-
-[[input.files]]
-path = "vocal-tract-imaging.html"
-url = "/vocal-tract-imaging.html"
-title = "Vocal Tract Imaging: MR and CT Images"
+path = "speech-processing.html"
+url = "/speech-processing.html"
+title = "Introduction to Speech Processing"
 
 [[input.files]]
 path = "psytoolkit.html"
@@ -138,14 +113,64 @@ url = "/SpiCE.html"
 title = "SpiCE: Speech in Cantonese and English"
 
 [[input.files]]
-path = "LexiCAL.html"
-url = "/LexiCAL.html"
-title = "LexiCAL: A Calculator for Lexical Variables"
+path = "Blackfoot.html"
+url = "/Blackfoot.html"
+title = "Blackfoot Words"
+
+[[input.files]]
+path = "CORAAL.html"
+url = "/CORAAL.html"
+title = "Corpus of Regional African American Language (CORAAL)"
+
+[[input.files]]
+path = "CompLex.html"
+url = "/CompLex.html"
+title = "The CompLex Database"
 
 [[input.files]]
 path = "GSB.html"
 url = "/GSB.html"
 title = "Global Signbank"
+
+[[input.files]]
+path = "LA-open.html"
+url = "/LA-open.html"
+title = "Latin American and Iberian Languages Open Corpora Forum"
+
+[[input.files]]
+path = "LexiCAL.html"
+url = "/LexiCAL.html"
+title = "LexiCAL: A Calculator for Lexical Variables"
+
+[[input.files]]
+path = "LinguaPix.html"
+url = "/LinguaPix.html"
+title = "LinguaPix"
+
+[[input.files]]
+path = "NIM.html"
+url = "/NIM.html"
+title = "NIM"
+
+[[input.files]]
+path = "NeuroKit.html"
+url = "/NeuroKit.html"
+title = "NeuroKit"
+
+[[input.files]]
+path = "e-prime.html"
+url = "/e-prime.html"
+title = "E-Prime"
+
+[[input.files]]
+path = "vocal-tract-imaging.html"
+url = "/vocal-tract-imaging.html"
+title = "Vocal Tract Imaging: MR and CT Images"
+
+[[input.files]]
+path = "vox.html"
+url = "/vox.html"
+title = "Vox Populi"
 
 [[input.files]]
 path = "psychopy.html"
@@ -188,14 +213,69 @@ url = "/deep-learning-tutorials.html"
 title = "Deep Learning Tutorials"
 
 [[input.files]]
-path = "ASL-CDI.html"
-url = "/ASL-CDI.html"
-title = "ASL-CDI 2.0"
-
-[[input.files]]
 path = "ASL-LEX.html"
 url = "/ASL-LEX.html"
 title = "ASL-LEX"
+
+[[input.files]]
+path = "ratcave.html"
+url = "/ratcave.html"
+title = "Ratcave"
+
+[[input.files]]
+path = "phonetics-images.html"
+url = "/phonetics-images.html"
+title = "Phonetics Images"
+
+[[input.files]]
+path = "LHQ3.html"
+url = "/LHQ3.html"
+title = "Language History Questionnaire (version 3)"
+
+[[input.files]]
+path = "acoustics-vibration-animations.html"
+url = "/acoustics-vibration-animations.html"
+title = "Acoustics and Vibration Animations"
+
+[[input.files]]
+path = "STEP-Experiments.html"
+url = "/STEP-Experiments.html"
+title = "System for Teaching Experimental Psychology"
+
+[[input.files]]
+path = "BITTSy.html"
+url = "/BITTSy.html"
+title = "BITTSy: Behavioral Infant & Toddler Testing System"
+
+[[input.files]]
+path = "IRQ.html"
+url = "/IRQ.html"
+title = "The Internal Representations Questionnaire"
+
+[[input.files]]
+path = "ModelTalker.html"
+url = "/ModelTalker.html"
+title = "The Model Talker System"
+
+[[input.files]]
+path = "headphone-check.html"
+url = "/headphone-check.html"
+title = "Headphone Check"
+
+[[input.files]]
+path = "spatial-orientation.html"
+url = "/spatial-orientation.html"
+title = "Spatial Orientation Test"
+
+[[input.files]]
+path = "ECP-L2.html"
+url = "/ECP-L2.html"
+title = "The English Crowdsourcing Project (L2 speakers)"
+
+[[input.files]]
+path = "ASL-CDI.html"
+url = "/ASL-CDI.html"
+title = "ASL-CDI 2.0"
 
 [[input.files]]
 path = "Corpus-NGT.html"
@@ -238,61 +318,6 @@ url = "/storybook-apps.html"
 title = "VL2 Storybook Apps"
 
 [[input.files]]
-path = "ratcave.html"
-url = "/ratcave.html"
-title = "Ratcave"
-
-[[input.files]]
-path = "phonetics-images.html"
-url = "/phonetics-images.html"
-title = "Phonetics Images"
-
-[[input.files]]
-path = "acoustics-vibration-animations.html"
-url = "/acoustics-vibration-animations.html"
-title = "Acoustics and Vibration Animations"
-
-[[input.files]]
-path = "LHQ3.html"
-url = "/LHQ3.html"
-title = "Language History Questionnaire (version 3)"
-
-[[input.files]]
-path = "STEP-Experiments.html"
-url = "/STEP-Experiments.html"
-title = "System for Teaching Experimental Psychology"
-
-[[input.files]]
-path = "BITTSy.html"
-url = "/BITTSy.html"
-title = "BITTSy: Behavioral Infant & Toddler Testing System"
-
-[[input.files]]
-path = "IRQ.html"
-url = "/IRQ.html"
-title = "The Internal Representations Questionnaire"
-
-[[input.files]]
-path = "ModelTalker.html"
-url = "/ModelTalker.html"
-title = "The Model Talker System"
-
-[[input.files]]
-path = "headphone-check.html"
-url = "/headphone-check.html"
-title = "Headphone Check"
-
-[[input.files]]
-path = "spatial-orientation.html"
-url = "/spatial-orientation.html"
-title = "Spatial Orientation Test"
-
-[[input.files]]
-path = "ECP-L2.html"
-url = "/ECP-L2.html"
-title = "The English Crowdsourcing Project (L2 speakers)"
-
-[[input.files]]
 path = "COCA.html"
 url = "/COCA.html"
 title = "Corpus of Contemporary American English"
@@ -308,49 +333,19 @@ url = "/FLP.html"
 title = "The French Lexicon Project"
 
 [[input.files]]
-path = "AELP.html"
-url = "/AELP.html"
-title = "Auditory English Lexicon Project"
-
-[[input.files]]
-path = "CLAD.html"
-url = "/CLAD.html"
-title = "Corpus-derived Chinese Lexical Association Database"
-
-[[input.files]]
-path = "LADEC.html"
-url = "/LADEC.html"
-title = "Large database of English compounds"
-
-[[input.files]]
-path = "Macroscope.html"
-url = "/Macroscope.html"
-title = "Macroscope"
-
-[[input.files]]
-path = "Phoible.html"
-url = "/Phoible.html"
-title = "Phoible"
-
-[[input.files]]
-path = "subs2vec.html"
-url = "/subs2vec.html"
-title = "subs2vec"
-
-[[input.files]]
 path = "auditory-grouping-cues.html"
 url = "/auditory-grouping-cues.html"
 title = "Auditory Grouping Cues"
 
 [[input.files]]
-path = "KEC.html"
-url = "/KEC.html"
-title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
-
-[[input.files]]
 path = "illusory-texture.html"
 url = "/illusory-texture.html"
 title = "Illusory Texture Demos"
+
+[[input.files]]
+path = "KEC.html"
+url = "/KEC.html"
+title = "The Karl Eberhards Corpus of spontaneously spoken southern German in dialogues: Audio and articulatory recordings"
 
 [[input.files]]
 path = "CMUSphinx.html"
@@ -393,54 +388,44 @@ url = "/NNDIE.html"
 title = "Normative Data on Dutch Idiomatic Expressions"
 
 [[input.files]]
-path = "CLD.html"
-url = "/CLD.html"
-title = "Chinese Lexical Database"
+path = "AELP.html"
+url = "/AELP.html"
+title = "Auditory English Lexicon Project"
 
 [[input.files]]
-path = "Lang05.html"
-url = "/Lang05.html"
-title = "The Language 0-5 Project"
+path = "CLAD.html"
+url = "/CLAD.html"
+title = "Corpus-derived Chinese Lexical Association Database"
 
 [[input.files]]
-path = "MoroStory.html"
-url = "/MoroStory.html"
-title = "Moro Story Corpus"
+path = "LADEC.html"
+url = "/LADEC.html"
+title = "Large database of English compounds"
 
 [[input.files]]
-path = "P-Pal.html"
-url = "/P-Pal.html"
-title = "Procura-PALavras"
+path = "Macroscope.html"
+url = "/Macroscope.html"
+title = "Macroscope"
 
 [[input.files]]
-path = "PBCM.html"
-url = "/PBCM.html"
-title = "PBCM: Code-mixed Hindi-English corpus"
+path = "Phoible.html"
+url = "/Phoible.html"
+title = "Phoible"
 
 [[input.files]]
-path = "PC-PVT.html"
-url = "/PC-PVT.html"
-title = "PC-PVT"
-
-[[input.files]]
-path = "SNAFU.html"
-url = "/SNAFU.html"
-title = "SNAFU: the Semantic Network and Fluency Utility"
-
-[[input.files]]
-path = "lab.html"
-url = "/lab.html"
-title = "Linguistic Annotated Bibliography"
-
-[[input.files]]
-path = "phonotactic-probability-calculator.html"
-url = "/phonotactic-probability-calculator.html"
-title = "Phonotactic Probability Calculator"
+path = "subs2vec.html"
+url = "/subs2vec.html"
+title = "subs2vec"
 
 [[input.files]]
 path = "model-match.html"
 url = "/model-match.html"
 title = "Model-Matched Sounds"
+
+[[input.files]]
+path = "EEGALICE.html"
+url = "/EEGALICE.html"
+title = "EEG Datasets for Naturalistic Listening to \\\"Alice in Wonderland\\\""
 
 [[input.files]]
 path = "SPALEX.html"
@@ -483,6 +468,56 @@ url = "/SLABank.html"
 title = "SLABank"
 
 [[input.files]]
+path = "CLD.html"
+url = "/CLD.html"
+title = "Chinese Lexical Database"
+
+[[input.files]]
+path = "CoRSAL.html"
+url = "/CoRSAL.html"
+title = "The Computational Resource for South Asian Languages (CoRSAL)"
+
+[[input.files]]
+path = "Lang05.html"
+url = "/Lang05.html"
+title = "The Language 0-5 Project"
+
+[[input.files]]
+path = "MoroStory.html"
+url = "/MoroStory.html"
+title = "Moro Story Corpus"
+
+[[input.files]]
+path = "P-Pal.html"
+url = "/P-Pal.html"
+title = "Procura-PALavras"
+
+[[input.files]]
+path = "PBCM.html"
+url = "/PBCM.html"
+title = "PBCM: Code-mixed Hindi-English corpus"
+
+[[input.files]]
+path = "PC-PVT.html"
+url = "/PC-PVT.html"
+title = "PC-PVT"
+
+[[input.files]]
+path = "SNAFU.html"
+url = "/SNAFU.html"
+title = "SNAFU: the Semantic Network and Fluency Utility"
+
+[[input.files]]
+path = "lab.html"
+url = "/lab.html"
+title = "Linguistic Annotated Bibliography"
+
+[[input.files]]
+path = "phonotactic-probability-calculator.html"
+url = "/phonotactic-probability-calculator.html"
+title = "Phonotactic Probability Calculator"
+
+[[input.files]]
 path = "VAS-RRP.html"
 url = "/VAS-RRP.html"
 title = "The Visual Analogue Scale for Rating, Ranking, and Paired-Comparison Generator"
@@ -511,31 +546,6 @@ title = "ANGUS"
 path = "TAALES.html"
 url = "/TAALES.html"
 title = "Tool for the Automatic Analysis of Lexical Sophistication"
-
-[[input.files]]
-path = "3D-Brain.html"
-url = "/3D-Brain.html"
-title = "3D Brain"
-
-[[input.files]]
-path = "ASL-Bank.html"
-url = "/ASL-Bank.html"
-title = "ASL Signbank"
-
-[[input.files]]
-path = "Cloud.html"
-url = "/Cloud.html"
-title = "Cloud Research"
-
-[[input.files]]
-path = "GECO.html"
-url = "/GECO.html"
-title = "Ghent Eye-Tracking Corpus"
-
-[[input.files]]
-path = "Yurok.html"
-url = "/Yurok.html"
-title = "Yurok Language Project"
 
 [[input.files]]
 path = "TISK.html"
@@ -593,44 +603,39 @@ url = "/USC-VT-Morph-MRI.html"
 title = "USC Speech and Vocal Tract Morphology MRI Database"
 
 [[input.files]]
-path = "HelexKids.html"
-url = "/HelexKids.html"
-title = "HelexKids"
+path = "3D-Brain.html"
+url = "/3D-Brain.html"
+title = "3D Brain"
 
 [[input.files]]
-path = "LSE-Sign.html"
-url = "/LSE-Sign.html"
-title = "LSE-Sign"
+path = "ASL-Bank.html"
+url = "/ASL-Bank.html"
+title = "ASL Signbank"
 
 [[input.files]]
-path = "MouseTracker.html"
-url = "/MouseTracker.html"
-title = "MouseTracker"
+path = "Bambara.html"
+url = "/Bambara.html"
+title = "Bambara Reference Corpus"
 
 [[input.files]]
-path = "PATT.html"
-url = "/PATT.html"
-title = "Phonological Assessment and Treatment Target (PATT) Selection"
+path = "Cloud.html"
+url = "/Cloud.html"
+title = "Cloud Research"
 
 [[input.files]]
-path = "STEDT.html"
-url = "/STEDT.html"
-title = "The Sino-Tibetan Etymological Dictionary and Thesaurus"
+path = "GECO.html"
+url = "/GECO.html"
+title = "Ghent Eye-Tracking Corpus"
 
 [[input.files]]
-path = "TimeStudio.html"
-url = "/TimeStudio.html"
-title = "The TimeStudio Project"
+path = "LJ-Speech.html"
+url = "/LJ-Speech.html"
+title = "LJ Speech Dataset"
 
 [[input.files]]
-path = "hansard.html"
-url = "/hansard.html"
-title = "The Hansard Corpus"
-
-[[input.files]]
-path = "similarity-neighborhood.html"
-url = "/similarity-neighborhood.html"
-title = "Similarity Neighborhood Calculator"
+path = "Yurok.html"
+url = "/Yurok.html"
+title = "Yurok Language Project"
 
 [[input.files]]
 path = "fame.html"
@@ -658,19 +663,74 @@ url = "/AUX.html"
 title = "AUditory syntaX (AUX)"
 
 [[input.files]]
-path = "SAPhon.html"
-url = "/SAPhon.html"
-title = "South American Phonological Inventory Database"
+path = "Broad-Twitter.html"
+url = "/Broad-Twitter.html"
+title = "Broad Twitter Corpus"
 
 [[input.files]]
-path = "jsPsych.html"
-url = "/jsPsych.html"
-title = "jsPsych"
+path = "English-Confusions-Corpus.html"
+url = "/English-Confusions-Corpus.html"
+title = "The English Consistent Confusion Corpus"
 
 [[input.files]]
-path = "sensory-systems.html"
-url = "/sensory-systems.html"
-title = "Sensory Systems - Companion Activities"
+path = "FMRI-story.html"
+url = "/FMRI-story.html"
+title = "Data sharing: fMRI timecourses / story-listening"
+
+[[input.files]]
+path = "Gorilla.html"
+url = "/Gorilla.html"
+title = "Gorilla"
+
+[[input.files]]
+path = "HelexKids.html"
+url = "/HelexKids.html"
+title = "HelexKids"
+
+[[input.files]]
+path = "LSE-Sign.html"
+url = "/LSE-Sign.html"
+title = "LSE-Sign"
+
+[[input.files]]
+path = "Maninka.html"
+url = "/Maninka.html"
+title = "Maninka Reference Corpus"
+
+[[input.files]]
+path = "MouseTracker.html"
+url = "/MouseTracker.html"
+title = "MouseTracker"
+
+[[input.files]]
+path = "PATT.html"
+url = "/PATT.html"
+title = "Phonological Assessment and Treatment Target (PATT) Selection"
+
+[[input.files]]
+path = "PennHistorical.html"
+url = "/PennHistorical.html"
+title = "Penn Parsed Corpora of Historical English"
+
+[[input.files]]
+path = "STEDT.html"
+url = "/STEDT.html"
+title = "The Sino-Tibetan Etymological Dictionary and Thesaurus"
+
+[[input.files]]
+path = "TimeStudio.html"
+url = "/TimeStudio.html"
+title = "The TimeStudio Project"
+
+[[input.files]]
+path = "hansard.html"
+url = "/hansard.html"
+title = "The Hansard Corpus"
+
+[[input.files]]
+path = "similarity-neighborhood.html"
+url = "/similarity-neighborhood.html"
+title = "Similarity Neighborhood Calculator"
 
 [[input.files]]
 path = "natural-sounds.html"
@@ -703,14 +763,24 @@ url = "/cogsci.html"
 title = "CogSci2016"
 
 [[input.files]]
+path = "SAPhon.html"
+url = "/SAPhon.html"
+title = "South American Phonological Inventory Database"
+
+[[input.files]]
+path = "jsPsych.html"
+url = "/jsPsych.html"
+title = "jsPsych"
+
+[[input.files]]
+path = "sensory-systems.html"
+url = "/sensory-systems.html"
+title = "Sensory Systems - Companion Activities"
+
+[[input.files]]
 path = "USC-CreativeIT.html"
 url = "/USC-CreativeIT.html"
 title = "USC CreativeIT database of multimodal dyadic interactions"
-
-[[input.files]]
-path = "CSLB.html"
-url = "/CSLB.html"
-title = "The CSLB concept property norms"
 
 [[input.files]]
 path = "USC-TIMIT.html"
@@ -738,6 +808,16 @@ url = "/USC-EMO-MRI.html"
 title = "USC-EMO-MRI: An emotional speech production database"
 
 [[input.files]]
+path = "CSLB.html"
+url = "/CSLB.html"
+title = "The CSLB concept property norms"
+
+[[input.files]]
+path = "Ma'agarim.html"
+url = "/Ma'agarim.html"
+title = "The Ma'agarim Historical Dictionary Project"
+
+[[input.files]]
 path = "daoacr.html"
 url = "/daoacr.html"
 title = "Dutch Age-of-Acquisition and Concreteness Ratings"
@@ -746,11 +826,6 @@ title = "Dutch Age-of-Acquisition and Concreteness Ratings"
 path = "spanish-confusions-corpus.html"
 url = "/spanish-confusions-corpus.html"
 title = "Spanish Confusions Corpus"
-
-[[input.files]]
-path = "wals.html"
-url = "/wals.html"
-title = "The World Atlas of Language Structures"
 
 [[input.files]]
 path = "pitch-localizer.html"
@@ -783,6 +858,11 @@ url = "/mtap.html"
 title = "The Maryland Tongue Analysis Package"
 
 [[input.files]]
+path = "wals.html"
+url = "/wals.html"
+title = "The World Atlas of Language Structures"
+
+[[input.files]]
 path = "texture.html"
 url = "/texture.html"
 title = "Auditory Textures"
@@ -798,14 +878,19 @@ url = "/wear.html"
 title = "Warriner English Affective Ratings"
 
 [[input.files]]
+path = "nccsp.html"
+url = "/nccsp.html"
+title = "Nijmegen Corpus of Casual Spanish"
+
+[[input.files]]
 path = "CLEARPOND.html"
 url = "/CLEARPOND.html"
 title = "CLEARPOND: Cross-Linguistic Easy-Access Resource for Phonological and Orthographic Neighborhood Densitites"
 
 [[input.files]]
-path = "nccsp.html"
-url = "/nccsp.html"
-title = "Nijmegen Corpus of Casual Spanish"
+path = "Korp.html"
+url = "/Korp.html"
+title = "Korp"
 
 [[input.files]]
 path = "vocal-tract-models.html"
@@ -818,14 +903,14 @@ url = "/BLP.html"
 title = "British Lexicon Project"
 
 [[input.files]]
-path = "ALEQ.html"
-url = "/ALEQ.html"
-title = "Alberta Language Environment Questionnaire"
-
-[[input.files]]
 path = "SoNaR.html"
 url = "/SoNaR.html"
 title = "SoNaR"
+
+[[input.files]]
+path = "ALEQ.html"
+url = "/ALEQ.html"
+title = "Alberta Language Environment Questionnaire"
 
 [[input.files]]
 path = "source-repetition.html"
@@ -836,6 +921,16 @@ title = "Source Repetition Stimuli"
 path = "music-scrambling.html"
 url = "/music-scrambling.html"
 title = "Music Scrambling"
+
+[[input.files]]
+path = "DLP.html"
+url = "/DLP.html"
+title = "The Dutch Lexicon Project"
+
+[[input.files]]
+path = "consonance.html"
+url = "/consonance.html"
+title = "Consonance"
 
 [[input.files]]
 path = "CAN.html"
@@ -868,16 +963,6 @@ url = "/wuggy.html"
 title = "Wuggy"
 
 [[input.files]]
-path = "DLP.html"
-url = "/DLP.html"
-title = "The Dutch Lexicon Project"
-
-[[input.files]]
-path = "consonance.html"
-url = "/consonance.html"
-title = "Consonance"
-
-[[input.files]]
 path = "ALDeQ.html"
 url = "/ALDeQ.html"
 title = "Alberta Language Development Questionnaire"
@@ -898,11 +983,6 @@ url = "/cocktail-party.html"
 title = "Cocktail Party Problem"
 
 [[input.files]]
-path = "DBD.html"
-url = "/DBD.html"
-title = "Dutch Bilingualism Database"
-
-[[input.files]]
 path = "IEMOCAP.html"
 url = "/IEMOCAP.html"
 title = "IEMOCAP: The Interactive Emotional Dyadic Motion Capture Database"
@@ -913,9 +993,19 @@ url = "/sound-contour.html"
 title = "Sound Contour Demos"
 
 [[input.files]]
+path = "DBD.html"
+url = "/DBD.html"
+title = "Dutch Bilingualism Database"
+
+[[input.files]]
 path = "spectral-completion.html"
 url = "/spectral-completion.html"
 title = "Spectral Completion of Paritally Masked Sounds"
+
+[[input.files]]
+path = "Buckeye.html"
+url = "/Buckeye.html"
+title = "The Buckeye Speech Corpus"
 
 [[input.files]]
 path = "M&M.html"
@@ -926,6 +1016,11 @@ title = "Mix and Match"
 path = "bnc.html"
 url = "/bnc.html"
 title = "British National Corpus"
+
+[[input.files]]
+path = "Nationwide.html"
+url = "/Nationwide.html"
+title = "The Nationwide Speech Project Corpus"
 
 [[input.files]]
 path = "IPA-Chart.html"
